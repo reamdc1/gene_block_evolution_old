@@ -1,0 +1,13 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7
+# Database: cd_hit_test/hyfABCDEFGHIJR-focB/hyfB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7	100.00	653	0	0	1	653	1	653	0.0	 996
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7	44.38	356	193	3	117	470	115	467	2e-65	 219
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7	28.89	90	59	4	561	648	558	644	5e-05	33.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7
+# Database: cd_hit_test/hyfABCDEFGHIJR-focB/hyfB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7	100.00	670	0	0	1	670	1	670	0.0	1125
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6339|hyfB|6984972|6986985|1|Protein|NONE|60.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2482|hyfB|2599839|2601858|1|Protein|ECK2478:JW2467:yffF|54.7	37.29	547	325	11	115	651	117	655	3e-94	 298

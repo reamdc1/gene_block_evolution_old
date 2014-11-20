@@ -1,0 +1,61 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	100.00	359	0	0	1	359	1	359	0.0	 702
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	48.02	354	172	5	18	359	8	361	2e-108	 316
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	50.14	365	158	8	19	359	8	372	4e-95	 282
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	51.24	363	155	5	18	359	8	369	3e-88	 264
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	40.31	392	171	13	22	357	17	401	5e-67	 210
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	36.27	397	188	15	20	355	14	406	1e-52	 172
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	100.00	361	0	0	1	361	1	361	0.0	 744
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	50.14	361	170	4	10	361	13	372	2e-121	 349
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	51.06	376	162	7	1	361	1	369	2e-111	 323
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	48.02	354	172	5	8	361	18	359	2e-108	 316
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	33.92	401	202	14	6	356	11	398	3e-63	 200
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	34.09	396	210	12	10	357	14	406	3e-58	 187
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	100.00	356	0	0	17	372	17	372	0.0	 593
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	48.88	356	172	4	18	372	15	361	3e-100	 295
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	48.73	355	162	7	18	372	25	359	2e-77	 236
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	50.41	369	155	7	18	372	15	369	1e-75	 232
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	34.62	390	212	11	17	370	19	401	9e-48	 159
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	32.48	391	221	9	18	368	19	406	2e-40	 139
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	100.00	369	0	0	1	369	1	369	0.0	 602
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	49.47	376	168	7	1	369	1	361	2e-98	 290
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	49.87	383	164	7	1	369	4	372	9e-87	 260
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	48.48	363	165	5	8	369	18	359	1e-78	 239
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	35.04	391	215	7	8	364	13	398	2e-39	 136
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	38.22	191	107	2	6	190	10	195	7e-35	 122
+NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	41.77	79	42	1	292	366	329	407	2e-06	37.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	100.00	405	0	0	1	405	1	405	0.0	 746
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	44.88	381	200	4	27	398	26	405	1e-99	 296
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	40.05	382	166	13	27	401	32	357	5e-64	 202
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	35.06	385	187	14	27	398	22	356	3e-62	 197
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	37.47	379	194	12	27	398	25	367	5e-58	 187
+NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	36.34	377	201	8	27	398	22	364	1e-45	 153
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0
+# Database: cd_hit_test/glcDEFGBA/glcE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	100.00	412	0	0	1	412	1	412	0.0	 755
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_003047|Sinorhizobium_meliloti_1021|SMc00833|glcE|854879|856097|1|Protein|NONE|67.7	44.56	395	209	4	12	405	13	398	2e-93	 280
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0674|glcE|733048|734134|-1|Protein|NONE|54.8	33.59	396	212	11	14	406	10	357	2e-48	 161
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5354|glcE|6021123|6022203|-1|Protein|NONE|72.8	36.27	397	188	15	14	406	20	355	6e-44	 148
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2667|glcE|2877234|2878353|1|Protein|NONE|73.8	34.17	398	219	11	12	406	11	368	5e-42	 143
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7541|glcE|8276734|8277973|-1|Protein|NONE|70.0	NC_002929|Bordetella_pertussis_Tohama_I|BP2904|glcE|3081507|3082617|-1|Protein|NONE|71.7	33.25	406	218	11	10	407	6	366	1e-34	 122

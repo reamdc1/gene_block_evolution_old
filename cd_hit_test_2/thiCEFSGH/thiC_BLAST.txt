@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7
+# Database: cd_hit_test_2/thiCEFSGH/thiC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	100.00	457	0	0	1	457	1	457	0.0	 861
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	56.67	450	168	1	16	438	165	614	1e-157	 457
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	48.38	432	215	4	14	443	1	426	2e-124	 362
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3
+# Database: cd_hit_test_2/thiCEFSGH/thiC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	100.00	430	0	0	1	430	1	430	0.0	 857
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	50.00	432	208	4	1	426	14	443	1e-142	 409
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	39.38	452	239	5	3	421	165	614	4e-106	 323
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0
+# Database: cd_hit_test_2/thiCEFSGH/thiC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	100.00	721	0	0	1	721	1	721	0.0	1451
+NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1581|thiC|1509706|1511080|-1|Protein|NONE|39.7	56.67	450	168	1	165	614	16	438	6e-173	 497
+NC_004347|Shewanella_oneidensis_MR-1|SO_2445|thiC|2558540|2560706|-1|Protein|NONE|51.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0453|thiC|418572|419865|1|Protein|NONE|35.3	39.38	452	239	5	165	614	3	421	2e-97	 300

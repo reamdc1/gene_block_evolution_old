@@ -1,0 +1,192 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	100.00	229	0	0	1	229	1	229	7e-162	 441
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	60.09	213	82	2	3	212	2	214	4e-85	 246
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	51.20	209	102	0	4	212	5	213	6e-68	 203
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	46.63	208	111	0	5	212	9	216	2e-66	 199
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	47.17	212	112	0	1	212	1	212	4e-65	 195
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	50.25	203	101	0	10	212	29	231	1e-64	 194
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	44.50	200	111	0	8	207	14	213	3e-53	 165
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	41.20	216	113	5	4	212	3	211	5e-50	 156
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	38.76	209	120	3	8	212	13	217	7e-44	 140
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	37.99	229	131	5	8	229	48	272	6e-38	 125
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	38.16	228	131	5	2	224	9	231	1e-34	 116
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	40.09	222	123	7	8	224	22	238	1e-32	 111
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	100.00	245	0	0	1	245	1	245	0.0	 499
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	60.17	241	89	2	1	241	1	234	1e-98	 282
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	47.73	220	112	1	22	238	48	267	2e-62	 190
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	36.82	220	126	4	22	233	7	221	2e-36	 120
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	34.26	216	138	2	17	230	8	221	4e-35	 118
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	36.49	211	126	5	27	233	13	219	5e-34	 114
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	33.61	238	145	6	1	229	1	234	1e-33	 114
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	40.81	223	114	9	20	233	7	220	2e-33	 113
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	40.09	222	123	7	22	238	8	224	1e-32	 111
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	31.14	228	145	6	10	233	4	223	5e-30	 104
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	33.94	218	140	2	22	237	7	222	1e-29	 103
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	32.11	190	122	4	22	208	14	199	9e-26	92.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	100.00	245	0	0	1	245	1	245	7e-162	 443
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	52.55	196	93	0	30	225	12	207	3e-64	 194
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	49.24	197	100	0	29	225	10	206	1e-55	 171
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	47.18	195	103	0	31	225	12	206	4e-55	 170
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	43.60	211	119	0	15	225	2	212	6e-53	 165
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	47.28	184	97	0	29	212	9	192	2e-51	 160
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	40.19	209	125	0	17	225	2	210	7e-49	 154
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	41.71	187	108	1	29	214	15	201	1e-41	 135
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	42.25	187	107	1	29	214	9	195	2e-41	 134
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	32.31	229	142	6	1	225	1	220	9e-26	92.4
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	31.60	212	134	4	12	215	32	240	1e-25	92.4
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	32.51	203	132	2	15	214	3	203	4e-25	90.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	100.00	239	0	0	1	239	1	239	3e-173	 471
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	60.17	241	89	2	1	234	1	241	4e-96	 276
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	43.29	231	128	1	4	231	37	267	3e-59	 182
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	35.29	221	139	2	12	230	4	222	1e-36	 121
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	37.05	224	135	3	7	227	1	221	5e-35	 118
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	34.80	227	133	4	10	227	2	222	7e-33	 111
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	37.28	228	133	5	9	231	2	224	2e-32	 110
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	34.91	212	130	4	19	226	12	219	3e-30	 104
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	29.65	226	153	3	5	227	2	224	2e-29	 102
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	32.89	228	147	3	3	227	15	239	6e-29	 101
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	31.90	210	139	2	15	222	13	220	1e-28	 100
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	30.81	185	123	2	19	201	18	199	2e-23	85.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	100.00	232	0	0	1	232	1	232	7e-177	 480
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	53.39	221	100	1	9	226	4	224	2e-80	 234
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	43.44	221	125	0	4	224	1	221	2e-66	 199
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	46.63	208	111	0	9	216	5	212	2e-66	 199
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	41.15	226	133	0	2	227	17	242	2e-62	 189
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	44.24	217	121	0	12	228	14	230	2e-60	 184
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	41.98	212	123	0	15	226	11	222	3e-58	 177
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	35.94	217	137	2	11	226	12	227	1e-41	 134
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	33.48	221	141	3	9	226	4	221	1e-33	 113
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	32.71	214	135	4	12	219	48	258	3e-33	 113
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	30.09	226	152	3	2	224	5	227	5e-31	 106
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	31.14	228	145	6	4	223	10	233	4e-30	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	100.00	226	0	0	1	226	1	226	1e-167	 456
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	50.00	216	105	1	11	223	10	225	3e-72	 213
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	48.53	204	105	0	12	215	31	234	1e-66	 200
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	48.56	208	107	0	12	219	13	220	2e-66	 199
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	47.17	212	112	0	1	212	1	212	4e-65	 195
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	41.98	212	123	0	11	222	15	226	3e-58	 177
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	45.18	197	108	0	11	207	17	213	2e-52	 162
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	37.85	214	129	3	11	222	10	221	5e-46	 145
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	35.51	214	136	2	12	224	17	229	1e-44	 142
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	39.81	216	117	5	12	219	52	262	2e-40	 132
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	36.49	211	126	5	13	219	27	233	5e-34	 114
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	35.38	212	129	4	12	219	19	226	2e-32	 110
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	100.00	256	0	0	1	256	1	256	9e-160	 438
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	53.03	198	93	0	12	209	30	227	7e-72	 214
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	52.40	208	94	2	6	209	4	210	2e-71	 213
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	50.73	205	101	0	5	209	4	208	2e-65	 197
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	48.73	197	101	0	13	209	12	208	1e-63	 192
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	49.01	202	103	0	7	208	12	213	6e-63	 191
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	42.58	209	120	0	1	209	4	212	1e-61	 187
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	42.23	206	118	1	5	209	3	208	4e-51	 160
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	35.64	202	128	2	9	209	13	213	3e-39	 129
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	39.90	198	109	3	7	197	46	240	6e-39	 129
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	37.31	201	121	2	1	198	7	205	1e-34	 117
+NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	40.41	193	106	7	7	194	20	208	7e-30	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	100.00	240	0	0	1	240	1	240	2e-177	 482
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	57.73	220	93	0	8	227	2	221	3e-85	 247
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	40.57	212	124	2	15	225	29	239	2e-50	 158
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	35.51	214	136	2	17	229	12	224	1e-44	 142
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	38.76	209	120	3	13	217	8	212	7e-44	 140
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	36.53	219	134	2	13	227	7	224	2e-43	 139
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	35.85	212	134	2	13	223	9	219	8e-43	 139
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	35.94	217	137	2	12	227	11	226	2e-41	 134
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	34.83	201	129	2	13	212	14	213	5e-37	 123
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	34.26	216	138	2	8	221	17	230	4e-35	 118
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	32.26	217	136	4	13	222	48	260	4e-33	 113
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	31.90	210	139	2	13	220	15	222	6e-30	 103
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	100.00	227	0	0	1	227	1	227	2e-173	 471
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	60.09	213	82	2	2	214	3	212	4e-85	 246
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	53.39	221	100	1	4	224	9	226	2e-80	 234
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	51.14	219	104	1	4	222	6	221	2e-75	 223
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	50.00	216	105	1	10	225	11	223	3e-72	 213
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	46.45	211	110	1	9	219	29	236	4e-62	 188
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	46.15	221	116	1	7	227	14	231	2e-61	 186
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	37.78	225	135	3	1	224	1	221	3e-46	 146
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	36.53	219	134	2	7	224	13	227	2e-43	 139
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	38.94	226	118	5	7	222	48	263	1e-41	 135
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	36.82	220	126	4	7	221	22	233	2e-36	 120
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	35.68	227	131	4	2	222	10	227	9e-36	 119
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	100.00	224	0	0	1	224	1	224	4e-163	 444
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	57.73	220	93	0	2	221	8	227	3e-85	 247
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	44.04	218	120	2	3	219	5	221	1e-55	 171
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	41.04	212	123	2	9	219	29	239	5e-50	 157
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	41.20	216	113	5	3	211	4	212	5e-50	 156
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	37.78	225	135	3	1	221	1	224	3e-46	 146
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	37.85	214	129	3	10	221	11	222	5e-46	 145
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	38.57	223	126	3	7	222	48	266	1e-42	 138
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	37.97	187	115	1	7	193	14	199	2e-38	 125
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	35.29	221	139	2	4	222	12	230	7e-38	 124
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	33.48	221	141	3	4	221	9	226	1e-33	 113
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	33.94	218	140	2	7	222	22	237	9e-30	 103
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	100.00	213	0	0	1	213	1	213	7e-160	 437
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	49.01	202	103	0	12	213	7	208	5e-63	 191
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	45.81	203	107	1	14	213	7	209	4e-61	 185
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	43.87	212	119	0	2	213	15	226	2e-60	 184
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	43.00	200	114	0	14	213	12	211	7e-60	 182
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	44.50	200	111	0	14	213	8	207	2e-53	 165
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	45.18	197	108	0	17	213	11	207	8e-53	 164
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	37.97	187	115	1	14	199	7	193	3e-38	 125
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	34.83	201	129	2	14	213	13	212	5e-37	 122
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	31.90	210	135	2	10	213	44	251	3e-30	 105
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	32.11	190	122	4	14	199	22	208	1e-25	92.0
+NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	31.89	185	121	2	18	199	19	201	7e-25	89.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4
+# Database: cd_hit_test/rnc-era-recO-pdxJ-acpS/rnc_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	100.00	273	0	0	1	273	1	273	0.0	 528
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0698|rnc|671901|672639|1|Protein|NONE|58.8	47.73	220	112	1	48	267	22	238	3e-62	 190
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1035|rnc|1027434|1028154|1|Protein|NONE|61.0	44.00	225	123	1	43	267	10	231	5e-61	 187
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_002928|Bordetella_parapertussis_12822|BPP3295|rnc|3553071|3553842|-1|Protein|NONE|68.9	40.27	226	116	5	46	263	7	221	4e-43	 140
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1635c|rnc|1560810|1561485|-1|Protein|NONE|33.0	38.57	223	126	3	48	266	7	222	1e-42	 138
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0014|rnc|14327|15011|-1|Protein|NONE|41.7	38.94	226	118	5	48	263	7	222	1e-41	 135
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2968|rnc|3552663|3553344|-1|Protein|NONE|66.2	39.81	216	117	5	52	262	12	219	3e-40	 132
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0770|rnc|838724|839414|1|Protein|NONE|67.5	37.55	229	132	4	48	272	8	229	6e-38	 126
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl540|rnc|602669|603368|-1|Protein|NONE|28.5	32.71	214	135	3	48	258	12	219	3e-33	 113
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0699|rnc|678860|679583|1|Protein|NONE|33.7	31.67	221	140	4	48	264	13	226	5e-33	 113
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2324|rnc|2524770|2525508|-1|Protein|NONE|50.9	32.72	217	135	4	46	258	25	234	3e-30	 105
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5061|rnc|5615499|5616321|-1|Protein|NONE|67.4	NC_003112|Neisseria_meningitidis_MC58|NMB0686|rnc|711322|712042|1|Protein|NONE|56.0	31.90	210	135	2	44	251	10	213	4e-30	 105

@@ -1,0 +1,140 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	100.00	290	0	0	1	290	1	290	0.0	 596
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	55.36	289	127	1	1	287	1	289	3e-119	 338
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	50.87	287	140	1	1	287	1	286	3e-107	 307
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	48.96	288	146	1	1	287	1	288	4e-104	 300
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	45.14	288	156	2	1	287	1	287	2e-101	 293
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	45.18	301	151	1	1	287	1	301	8e-101	 291
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	48.45	291	146	2	1	287	1	291	1e-96	 281
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	30.17	295	196	2	1	287	1	293	6e-46	 149
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	32.67	300	176	7	5	287	6	296	7e-46	 149
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	33.67	294	188	5	1	287	1	294	8e-44	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	100.00	288	0	0	1	288	1	288	0.0	 587
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	50.52	291	139	3	1	288	1	289	2e-110	 316
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	48.96	288	146	1	1	288	1	287	4e-104	 300
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	48.26	288	147	2	1	288	1	286	1e-102	 295
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	46.21	290	151	4	1	288	1	287	4e-100	 289
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	39.74	302	167	3	1	288	1	301	2e-88	 259
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	39.38	292	172	3	1	288	1	291	2e-78	 233
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	29.79	292	194	3	1	284	1	289	5e-47	 152
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	28.81	295	199	3	3	288	4	296	2e-43	 142
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	29.29	297	198	6	1	288	1	294	6e-39	 130
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	100.00	286	0	0	1	286	1	286	0.0	 561
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	58.82	289	116	1	1	286	1	289	4e-121	 343
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	56.45	287	124	1	1	286	1	287	1e-117	 334
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	50.17	301	135	1	1	286	1	301	1e-102	 296
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	50.87	287	140	1	1	286	1	287	1e-99	 288
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	48.26	288	147	2	1	286	1	288	8e-94	 273
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	47.08	291	149	2	1	286	1	291	3e-85	 251
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	32.54	295	188	3	1	286	1	293	2e-46	 150
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	32.42	293	185	4	5	286	6	296	2e-40	 134
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	34.12	296	183	5	1	286	1	294	6e-37	 125
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	100.00	301	0	0	1	301	1	301	0.0	 615
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	50.50	303	132	3	1	301	1	287	4e-111	 318
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	50.17	301	135	1	1	301	1	286	7e-111	 317
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	49.50	301	140	1	1	301	1	289	9e-110	 315
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	50.67	298	135	2	5	301	5	291	3e-103	 298
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	45.18	301	151	1	1	301	1	287	9e-101	 291
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	39.74	302	167	3	1	301	1	288	2e-88	 259
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	30.97	310	188	4	1	301	1	293	1e-52	 167
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	28.80	309	194	5	3	301	4	296	4e-43	 142
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	33.33	312	179	7	1	301	1	294	1e-42	 141
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	100.00	297	0	0	1	297	1	297	0.0	 599
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	54.55	297	129	3	3	297	2	294	1e-110	 317
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	36.18	293	177	3	6	296	5	289	1e-55	 175
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	34.69	294	182	3	6	296	5	291	7e-54	 170
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	32.67	300	176	7	6	296	5	287	7e-46	 149
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	32.42	293	185	4	6	296	5	286	2e-45	 148
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	28.76	299	198	6	1	296	1	287	8e-44	 144
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	28.81	295	199	3	4	296	3	288	2e-43	 142
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	28.80	309	194	5	4	296	3	301	4e-43	 142
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	34.32	303	178	8	4	296	3	294	1e-41	 138
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	100.00	289	0	0	1	289	1	289	0.0	 597
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	58.82	289	116	1	1	289	1	286	8e-130	 365
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	55.36	289	127	1	1	289	1	287	3e-119	 338
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	53.77	292	127	3	1	289	1	287	6e-119	 337
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	50.52	291	139	3	1	289	1	288	2e-110	 316
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	49.50	301	140	1	1	289	1	301	8e-110	 315
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	51.55	291	139	2	1	289	1	291	3e-107	 307
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	34.00	300	180	4	1	289	1	293	8e-56	 175
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	36.18	293	177	3	5	289	6	296	1e-55	 175
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	34.44	302	177	7	1	289	1	294	6e-49	 157
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	100.00	294	0	0	1	294	1	294	0.0	 519
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	54.55	297	129	3	2	294	3	297	6e-90	 264
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	33.81	278	174	3	1	276	1	270	5e-45	 147
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	32.74	281	175	3	1	276	1	272	8e-42	 138
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	30.82	292	178	4	1	276	1	284	5e-40	 134
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	32.04	284	175	3	1	276	1	274	4e-38	 129
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	32.13	277	179	2	1	276	1	269	5e-38	 128
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	27.96	279	190	3	1	276	1	271	1e-33	 116
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	29.14	278	187	2	1	276	1	270	2e-31	 110
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	32.11	299	192	3	1	293	1	294	2e-30	 107
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	100.00	291	0	0	1	291	1	291	0.0	 602
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	51.55	291	139	2	1	291	1	289	3e-107	 307
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	50.67	298	135	2	5	291	5	301	3e-103	 298
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	49.15	293	141	2	1	291	1	287	4e-103	 297
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	48.45	291	146	2	1	291	1	287	1e-96	 281
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	47.08	291	149	2	1	291	1	286	1e-92	 270
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	39.38	292	172	3	1	291	1	288	2e-78	 233
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	34.69	294	182	3	5	291	6	296	7e-54	 170
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	32.89	301	184	3	1	291	1	293	2e-51	 164
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	34.58	295	180	6	5	291	5	294	9e-44	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	100.00	287	0	0	1	287	1	287	0.0	 591
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	56.45	287	124	1	1	287	1	286	9e-126	 355
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	53.77	292	127	3	1	287	1	289	6e-119	 337
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	50.50	303	132	3	1	287	1	301	4e-111	 318
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	49.15	293	141	2	1	287	1	291	4e-103	 297
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	45.14	288	156	2	1	287	1	287	2e-101	 293
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	46.21	290	151	4	1	287	1	288	4e-100	 289
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	34.35	294	185	2	1	287	1	293	2e-60	 187
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	34.46	296	183	5	1	287	1	294	1e-46	 151
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	28.76	299	198	6	1	287	1	296	8e-44	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	100.00	294	0	0	1	294	1	294	0.0	 526
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	34.44	302	177	7	1	294	1	289	1e-46	 151
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	34.80	296	182	5	1	294	1	287	7e-43	 141
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	32.44	299	191	3	1	294	1	293	4e-42	 139
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	34.01	294	183	5	5	294	5	291	2e-41	 137
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	33.67	294	188	5	1	294	1	287	6e-41	 136
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	33.45	296	185	5	1	294	1	286	2e-40	 135
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	33.66	303	180	7	3	294	4	296	4e-39	 131
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	33.33	312	179	6	1	294	1	301	1e-38	 130
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	29.29	297	198	6	1	294	1	288	4e-36	 123

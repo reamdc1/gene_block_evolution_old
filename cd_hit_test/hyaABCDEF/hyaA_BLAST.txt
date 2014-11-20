@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0972|hyaA|1031361|1032480|1|Protein|ECK0963:JW0954|56.1
+# Database: cd_hit_test/hyaABCDEF/hyaA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0972|hyaA|1031361|1032480|1|Protein|ECK0963:JW0954|56.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0972|hyaA|1031361|1032480|1|Protein|ECK0963:JW0954|56.1	100.00	372	0	0	1	372	1	372	0.0	 704
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0972|hyaA|1031361|1032480|1|Protein|ECK0963:JW0954|56.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0056|hyaA|60642|61803|1|Protein|NONE|42.6	47.87	305	156	2	2	304	28	331	4e-96	 284
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0056|hyaA|60642|61803|1|Protein|NONE|42.6
+# Database: cd_hit_test/hyaABCDEF/hyaA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0056|hyaA|60642|61803|1|Protein|NONE|42.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0056|hyaA|60642|61803|1|Protein|NONE|42.6	100.00	386	0	0	1	386	1	386	0.0	 686
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0056|hyaA|60642|61803|1|Protein|NONE|42.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0972|hyaA|1031361|1032480|1|Protein|ECK0963:JW0954|56.1	45.51	334	172	3	28	360	2	326	1e-88	 265

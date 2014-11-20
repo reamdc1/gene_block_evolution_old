@@ -1,0 +1,77 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	100.00	66	0	0	1	66	1	66	1e-44	 129
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	34.85	66	43	0	1	66	4	69	2e-14	51.6
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	34.85	66	43	0	1	66	1	66	6e-13	47.4
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	39.13	46	28	0	21	66	22	67	3e-10	39.7
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	28.79	66	45	2	1	66	1	64	3e-08	33.9
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	27.27	66	47	1	1	66	1	65	1e-07	32.0
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	29.41	34	24	0	33	66	30	63	3e-06	28.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	100.00	65	0	0	1	65	1	65	2e-44	 128
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	37.88	66	40	1	1	65	1	66	1e-10	40.8
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	33.85	65	42	1	1	65	1	64	2e-10	40.4
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	28.79	66	46	1	1	65	4	69	3e-09	36.6
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	25.40	63	47	0	3	65	1	63	1e-08	35.0
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	27.27	66	47	1	1	65	1	66	1e-07	32.0
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	30.00	50	35	0	16	65	18	67	4e-05	25.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	100.00	66	0	0	1	66	1	66	3e-45	 130
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	31.82	66	45	0	1	66	4	69	2e-13	48.1
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	34.85	66	43	0	1	66	1	66	6e-13	47.4
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	32.35	68	33	2	5	66	3	63	5e-11	41.6
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	37.88	66	40	1	1	66	1	65	1e-10	40.8
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	36.36	66	40	2	1	66	1	64	1e-09	38.1
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	29.69	64	45	0	3	66	4	67	1e-07	32.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	100.00	69	0	0	1	69	1	69	1e-49	 142
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	34.85	66	43	0	4	69	1	66	2e-14	51.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	31.82	66	45	0	4	69	1	66	2e-13	48.1
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	28.79	66	46	1	4	69	1	65	3e-09	36.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	24.24	66	50	0	4	69	2	67	5e-07	30.4
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	25.81	62	45	1	8	69	3	63	2e-05	26.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	26.56	64	45	2	6	69	3	64	7e-05	25.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	100.00	63	0	0	1	63	1	63	2e-40	 117
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	32.35	68	33	2	3	63	5	66	5e-11	41.6
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	34.92	63	40	1	1	63	3	64	6e-10	38.5
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	25.40	63	47	0	1	63	3	65	1e-08	35.0
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	22.64	53	41	0	11	63	15	67	3e-08	33.9
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	29.41	34	24	0	30	63	33	66	3e-06	28.1
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	25.81	62	45	1	3	63	8	69	2e-05	26.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	100.00	64	0	0	1	64	1	64	2e-44	 128
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	33.85	65	42	1	1	64	1	65	2e-10	40.4
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	34.92	63	40	1	3	64	1	63	6e-10	38.5
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	36.36	66	40	2	1	64	1	66	9e-10	38.1
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	32.81	64	41	1	3	64	4	67	2e-08	34.7
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	28.79	66	45	2	1	64	1	66	3e-08	33.9
+NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	26.56	64	45	2	3	64	6	69	6e-05	25.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7
+# Database: cd_hit_test_2/thiCEFSGH/thiS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	100.00	67	0	0	1	67	1	67	7e-47	 135
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4407|thiS|4190659|4190860|-1|Protein|ECK3983:JW3955|55.7	39.13	46	28	0	22	67	21	66	3e-10	39.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_003112|Neisseria_meningitidis_MC58|NMB2070|thiS|2194083|2194278|1|Protein|NONE|57.9	32.81	64	41	1	4	67	3	64	2e-08	34.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1047c|thiS|980352|980544|-1|Protein|NONE|29.7	22.64	53	41	0	15	67	11	63	3e-08	33.9
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0433|thiS|478132|478333|1|Protein|NONE|61.7	29.69	64	45	0	4	67	3	66	1e-07	32.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0961|thiS|966670|966880|-1|Protein|NONE|44.3	24.24	66	50	0	2	67	4	69	5e-07	30.4
+NC_004347|Shewanella_oneidensis_MR-1|SO_2442|thiS|2555861|2556065|-1|Protein|NONE|41.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0223|thiS|225896|226094|-1|Protein|NONE|59.1	30.00	50	35	0	18	67	16	65	4e-05	25.4

@@ -1,0 +1,60 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	100.00	255	0	0	1	255	1	255	0.0	 522
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	51.35	259	117	3	3	252	11	269	1e-88	 258
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	47.47	257	130	4	1	255	1	254	8e-81	 237
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	46.59	249	132	1	5	253	3	250	7e-74	 219
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	41.20	250	147	0	5	254	2	251	1e-72	 216
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	37.25	255	151	4	1	253	1	248	1e-50	 159
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	100.00	256	0	0	1	256	1	256	0.0	 515
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	52.00	250	119	1	4	252	1	250	1e-87	 254
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	47.47	257	130	4	1	254	1	255	8e-81	 237
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	46.77	248	132	0	5	252	3	250	6e-75	 222
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	46.33	259	125	6	5	251	13	269	1e-71	 214
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	36.03	247	152	2	6	252	8	248	4e-50	 158
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	100.00	256	0	0	1	256	1	256	0.0	 520
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	52.00	250	119	1	1	250	4	252	1e-87	 254
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	41.20	250	147	0	2	251	5	254	1e-72	 216
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	46.56	262	121	5	2	249	13	269	6e-67	 202
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	41.20	250	144	3	2	250	3	250	2e-66	 200
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	38.98	254	147	5	3	255	8	254	2e-54	 169
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	100.00	251	0	0	1	251	1	251	2e-172	 471
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	38.31	248	146	3	8	248	3	250	3e-47	 150
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	35.74	249	154	2	8	250	6	254	3e-45	 145
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	35.27	258	152	4	1	248	1	253	4e-45	 145
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	37.85	251	144	3	8	249	4	251	9e-44	 141
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	36.05	258	149	6	6	247	12	269	6e-42	 137
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	100.00	260	0	0	1	260	1	260	2e-170	 465
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	46.77	248	132	0	3	250	5	252	1e-72	 216
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	46.59	249	132	1	3	250	5	253	1e-70	 211
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	41.20	250	144	3	3	250	2	250	1e-64	 195
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	42.80	257	137	4	3	249	13	269	5e-63	 192
+NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	37.50	256	150	3	4	257	8	255	6e-45	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6
+# Database: cd_hit_test/livKHMGF/livG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	100.00	295	0	0	1	295	1	295	0.0	 558
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3455|livG|3591461|3592229|-1|Protein|ECK3439:hrbB:hrbC:hrbD:JW3420|55.2	51.35	259	117	3	11	269	3	252	1e-88	 258
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1505|livG|1608664|1609435|1|Protein|NONE|64.7	46.33	259	125	6	13	269	5	251	1e-71	 214
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1015c|livG|948024|948795|-1|Protein|NONE|31.3	46.56	262	121	5	13	269	2	249	7e-67	 202
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_002929|Bordetella_pertussis_Tohama_I|BP1649|livG|1735781|1736564|1|Protein|NONE|69.1	42.80	257	137	4	13	269	3	249	5e-65	 197
+NC_003047|Sinorhizobium_meliloti_1021|SMc01949|livG|2670713|2671601|-1|Protein|NONE|60.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1753|livG|1876337|1877138|1|Protein|NONE|68.4	36.05	258	149	6	12	269	6	247	2e-45	 147

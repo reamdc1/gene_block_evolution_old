@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1302|puuE|1363573|1364839|1|Protein|ECK1297:goaG:JW1295|57.7
+# Database: cd_hit_test_2/puuDRCBE/puuE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1302|puuE|1363573|1364839|1|Protein|ECK1297:goaG:JW1295|57.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1302|puuE|1363573|1364839|1|Protein|ECK1297:goaG:JW1295|57.7	100.00	421	0	0	1	421	1	421	0.0	 815
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1302|puuE|1363573|1364839|1|Protein|ECK1297:goaG:JW1295|57.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1276|puuE|1325610|1326888|1|Protein|NONE|51.1	51.79	419	200	1	2	420	4	420	5e-135	 387
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1276|puuE|1325610|1326888|1|Protein|NONE|51.1
+# Database: cd_hit_test_2/puuDRCBE/puuE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1276|puuE|1325610|1326888|1|Protein|NONE|51.1	NC_004347|Shewanella_oneidensis_MR-1|SO_1276|puuE|1325610|1326888|1|Protein|NONE|51.1	100.00	425	0	0	1	425	1	425	0.0	 767
+NC_004347|Shewanella_oneidensis_MR-1|SO_1276|puuE|1325610|1326888|1|Protein|NONE|51.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1302|puuE|1363573|1364839|1|Protein|ECK1297:goaG:JW1295|57.7	52.90	397	185	1	26	420	24	420	9e-131	 376

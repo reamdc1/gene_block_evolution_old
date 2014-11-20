@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6
+# Database: cd_hit_test_2/glgBXCAP/glgP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	100.00	816	0	0	1	816	1	816	0.0	1586
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	61.08	794	305	4	22	814	30	820	0.0	 949
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	60.05	791	313	3	22	812	35	822	0.0	 927
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	48.61	792	400	3	22	813	29	813	0.0	 697
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	46.13	776	413	4	40	813	64	836	0.0	 654
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8
+# Database: cd_hit_test_2/glgBXCAP/glgP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	100.00	821	0	0	1	821	1	821	0.0	1659
+NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	60.10	812	320	4	12	820	4	814	0.0	 975
+NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	58.33	792	329	1	27	818	32	822	0.0	 915
+NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	47.43	797	414	1	23	819	22	813	0.0	 723
+NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	45.92	773	413	5	50	819	66	836	0.0	 674
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6
+# Database: cd_hit_test_2/glgBXCAP/glgP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	100.00	818	0	0	1	818	1	818	0.0	1643
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	48.23	819	414	5	5	817	12	826	0.0	 751
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	47.43	797	414	1	22	813	23	819	0.0	 728
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	48.13	802	409	3	19	813	12	813	0.0	 711
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	45.42	808	429	7	15	814	34	837	0.0	 665
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2
+# Database: cd_hit_test_2/glgBXCAP/glgP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	100.00	837	0	0	1	837	1	837	0.0	1719
+NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	45.81	775	415	5	64	836	48	819	0.0	 674
+NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	45.69	812	430	5	34	837	16	824	0.0	 670
+NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	46.13	776	413	4	64	836	40	813	0.0	 663
+NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	45.42	808	429	7	34	837	15	814	0.0	 661
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0
+# Database: cd_hit_test_2/glgBXCAP/glgP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	100.00	841	0	0	1	841	1	841	0.0	1671
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5165|glgP|5878026|5880477|1|Protein|NONE|60.6	59.80	801	319	3	25	822	12	812	0.0	 933
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	NC_003047|Sinorhizobium_meliloti_1021|SMc04460|glgP|3065246|3067712|1|Protein|NONE|62.8	58.33	792	329	1	32	822	27	818	0.0	 896
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0545|glgP|625724|628181|1|Protein|NONE|39.6	48.16	816	414	4	12	824	5	814	0.0	 746
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr8139|glgP|8932756|8935282|1|Protein|NONE|65.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1496|glgP|1564765|1567279|1|Protein|NONE|49.2	45.69	812	430	5	16	824	34	837	0.0	 653

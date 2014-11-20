@@ -1,0 +1,24 @@
+>Cluster 0
+0	151aa, >NC_003919|Xanthomon... *
+>Cluster 1
+0	150aa, >NC_004757|Nitrosomo... *
+>Cluster 2
+0	147aa, >NC_002516|Pseudomon... at 64.63%
+1	150aa, >NC_002947|Pseudomon... *
+>Cluster 3
+0	148aa, >NC_003143|Yersinia_... *
+>Cluster 4
+0	144aa, >NC_002928|Bordetell... at 99.31%
+1	148aa, >NC_002929|Bordetell... *
+2	148aa, >NC_002927|Bordetell... at 99.32%
+>Cluster 5
+0	147aa, >NC_011833|Buchnera_... *
+>Cluster 6
+0	147aa, >NC_000913|Escherich... *
+1	147aa, >NC_003198|Salmonell... at 88.44%
+2	147aa, >NC_003197|Salmonell... at 88.44%
+>Cluster 7
+0	145aa, >NC_004459|Vibrio_vu... at 77.24%
+1	147aa, >NC_004603|Vibrio_pa... *
+>Cluster 8
+0	147aa, >NC_004347|Shewanell... *

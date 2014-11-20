@@ -1,0 +1,10 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2703|srlE|2824413|2825373|1|Protein|ECK2698:gutA:gutE:JW5430:sbl:srlA|54.7
+# Database: cd_hit_test_2/srlAEBD-gutM-srlR-gutQ/srlA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2703|srlE|2824413|2825373|1|Protein|ECK2698:gutA:gutE:JW5430:sbl:srlA|54.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2703|srlE|2824413|2825373|1|Protein|ECK2698:gutA:gutE:JW5430:sbl:srlA|54.7	100.00	319	0	0	1	319	1	319	0.0	 596
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2953|srlA|2831195|2831759|1|Protein|NONE|51.2
+# Database: cd_hit_test_2/srlAEBD-gutM-srlR-gutQ/srlA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2953|srlA|2831195|2831759|1|Protein|NONE|51.2	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2953|srlA|2831195|2831759|1|Protein|NONE|51.2	100.00	187	0	0	1	187	1	187	1e-120	 332

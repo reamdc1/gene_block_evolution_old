@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	100.00	461	0	0	1	461	1	461	0.0	 949
+NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	46.55	406	210	6	33	436	48	448	8e-117	 344
+NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	43.57	420	224	8	15	429	15	426	7e-110	 326
+NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	43.65	394	215	6	57	447	43	432	4e-108	 321
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	100.00	455	0	0	1	455	1	455	0.0	 900
+NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	59.95	407	161	2	46	451	31	436	5e-169	 477
+NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	51.57	415	183	7	45	448	17	424	2e-142	 409
+NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	46.55	406	210	6	48	448	33	436	1e-113	 336
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	100.00	444	0	0	1	444	1	444	0.0	 922
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	59.95	407	161	2	31	436	46	451	2e-174	 491
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	49.76	414	199	6	21	429	8	417	2e-137	 395
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	43.57	420	224	8	15	426	15	429	7e-110	 326
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	100.00	441	0	0	1	441	1	441	0.0	 911
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	NC_002928|Bordetella_parapertussis_12822|BPP3386|nuoF|3652488|3653856|-1|Protein|NONE|64.6	52.05	415	181	7	17	424	45	448	1e-143	 412
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2699|nuoF|3160534|3161869|-1|Protein|NONE|64.0	49.76	414	199	6	8	417	21	429	2e-137	 395
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4912|nuoF|5446200|5447526|-1|Protein|NONE|65.5	NC_003143|Yersinia_pestis_CO92|YPO2551|nuoF|2865178|2866564|-1|Protein|NONE|53.9	43.65	394	215	6	43	432	57	447	4e-108	 321

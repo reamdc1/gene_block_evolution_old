@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sdhA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	100.00	599	0	0	15	613	15	613	0.0	1226
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	53.27	597	258	8	22	613	12	592	0.0	 591
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	48.44	578	266	10	35	592	24	589	0.0	 535
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	35.57	551	325	9	46	588	70	598	7e-109	 334
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sdhA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	100.00	602	0	0	1	602	1	602	0.0	1231
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	52.99	602	272	3	1	602	2	592	0.0	 608
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	48.44	578	266	10	24	589	35	592	0.0	 519
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	36.55	539	316	8	35	572	70	583	9e-105	 323
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sdhA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	100.00	592	0	0	1	592	1	592	0.0	1208
+NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	52.99	602	272	3	2	592	1	602	0.0	 625
+NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	53.27	597	258	8	12	592	22	613	0.0	 591
+NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	37.25	553	326	9	36	583	70	606	2e-115	 350
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sdhA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	100.00	611	0	0	1	611	1	611	0.0	1171
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	NC_002928|Bordetella_parapertussis_12822|BPP3228|sdhA|3482196|3483975|-1|Protein|NONE|66.3	37.25	553	326	9	70	606	36	583	4e-111	 339
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl329|sdhA|362931|364740|1|Protein|NONE|32.6	36.55	539	316	8	70	583	35	572	1e-105	 325
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0437|sdhA|405332|407168|1|Protein|NONE|37.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1956|sdhA|1854932|1856774|-1|Protein|NONE|61.8	35.57	551	325	9	70	598	46	588	2e-105	 325

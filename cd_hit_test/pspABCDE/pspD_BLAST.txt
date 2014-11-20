@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1307|pspD|1367416|1367638|1|Protein|ECK1302:JW1300|54.5
+# Database: cd_hit_test/pspABCDE/pspD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1307|pspD|1367416|1367638|1|Protein|ECK1302:JW1300|54.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1307|pspD|1367416|1367638|1|Protein|ECK1302:JW1300|54.5	100.00	73	0	0	1	73	1	73	2e-50	 142

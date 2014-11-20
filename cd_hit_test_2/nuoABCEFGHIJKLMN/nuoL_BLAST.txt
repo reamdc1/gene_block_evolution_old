@@ -1,0 +1,166 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	100.00	596	0	0	19	614	19	614	0.0	1125
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	52.02	544	251	3	60	597	62	601	0.0	 550
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	47.03	572	272	8	59	611	63	622	2e-145	 430
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	41.73	417	227	6	57	467	53	459	7e-97	 303
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	39.68	436	242	7	50	468	51	482	1e-95	 301
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	40.27	447	235	8	46	460	47	493	2e-93	 296
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	38.14	451	243	5	60	475	69	518	2e-93	 296
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	40.71	452	253	9	45	489	53	496	2e-91	 290
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	42.40	408	222	5	64	461	110	514	9e-90	 286
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	38.35	425	242	5	45	450	51	474	1e-86	 279
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	27.79	367	230	12	79	423	66	419	1e-21	89.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	100.00	648	0	0	1	648	1	648	0.0	1239
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	60.51	666	226	5	15	646	20	682	0.0	 723
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	53.95	708	263	10	2	648	7	712	0.0	 638
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	48.88	667	302	9	4	642	2	657	0.0	 535
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	46.15	624	320	6	31	648	74	687	4e-163	 479
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	47.80	454	213	6	11	458	18	453	1e-119	 365
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	39.50	605	308	13	1	600	1	552	1e-115	 353
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	46.94	360	177	5	99	456	102	449	5e-101	 315
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	40.57	419	232	7	51	464	50	456	3e-87	 279
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	40.49	368	198	6	99	459	105	458	7e-81	 262
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	27.50	400	240	11	29	405	23	395	4e-27	 106
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	100.00	665	0	0	1	665	1	665	0.0	1281
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	61.62	641	216	8	25	662	73	686	0.0	 699
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	48.88	667	302	9	2	657	4	642	0.0	 538
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	47.67	688	290	12	13	658	20	679	4e-176	 513
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	45.91	721	303	16	5	660	12	710	5e-166	 488
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	40.52	654	317	15	1	639	11	607	3e-120	 367
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	40.57	636	304	16	7	638	9	574	2e-116	 356
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	42.86	511	253	13	10	511	11	491	2e-95	 301
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	33.43	658	380	15	6	660	7	609	3e-86	 277
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	33.27	547	313	9	72	611	75	576	5e-74	 244
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	30.64	173	103	4	249	406	213	383	6e-18	77.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	30.11	93	62	1	67	156	52	144	5e-06	39.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	100.00	625	0	0	1	625	1	625	0.0	1226
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	45.84	613	317	7	1	610	1	601	3e-170	 494
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	46.12	631	311	10	1	622	1	611	2e-160	 469
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	35.60	587	331	17	50	606	99	668	3e-88	 283
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	39.78	445	241	8	2	441	3	425	4e-88	 280
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	39.04	415	223	7	81	472	75	482	4e-87	 279
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	38.16	435	236	9	27	444	38	456	4e-84	 272
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	33.94	551	304	12	75	576	72	611	1e-83	 270
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	36.40	533	304	14	103	621	105	616	8e-81	 261
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	38.54	410	232	6	66	458	68	474	1e-78	 257
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	26.11	337	223	8	85	403	67	395	6e-18	77.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	100.00	602	0	0	1	602	1	602	0.0	1062
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	50.08	603	293	5	1	601	1	597	3e-180	 520
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	45.02	613	322	7	1	601	1	610	5e-153	 450
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	44.85	515	256	11	66	555	110	621	2e-100	 315
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	43.51	439	229	7	58	479	55	491	1e-95	 301
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	43.15	438	231	8	23	451	37	465	2e-93	 296
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	43.05	453	231	8	2	448	3	434	4e-93	 293
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	42.47	511	255	12	11	491	10	511	7e-93	 294
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	39.96	478	257	8	2	455	8	479	2e-89	 286
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	42.18	422	228	9	69	482	74	487	3e-82	 265
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	27.27	341	213	10	83	401	68	395	9e-16	70.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	100.00	625	0	0	22	646	22	646	0.0	1053
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	30.77	338	205	9	66	395	71	387	2e-25	 101
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	26.76	441	278	11	52	476	111	522	4e-24	97.1
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	28.21	358	213	7	52	383	67	406	7e-24	96.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	28.92	370	215	9	49	395	61	405	1e-22	92.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	26.10	364	230	8	49	395	71	412	3e-22	90.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	27.48	353	231	7	50	395	70	404	1e-20	85.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	26.05	357	224	9	58	395	77	412	1e-20	85.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	27.27	341	213	10	68	395	83	401	8e-17	73.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	27.79	367	230	12	66	419	79	423	2e-16	72.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	25.72	346	231	8	67	404	85	412	9e-15	67.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	100.00	625	0	0	1	625	1	625	0.0	1224
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	54.11	608	259	11	10	615	3	592	0.0	 571
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	40.52	654	317	15	11	607	1	639	5e-131	 395
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	47.16	475	220	9	18	470	11	476	4e-123	 374
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	42.81	563	295	7	38	573	77	639	5e-123	 375
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	40.56	567	266	14	73	573	75	636	2e-114	 352
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	44.26	479	232	6	4	452	6	479	5e-112	 347
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	40.71	452	253	9	53	496	45	489	8e-91	 288
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	42.32	423	226	10	74	487	69	482	3e-90	 286
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	44.57	341	179	6	107	441	105	441	3e-78	 254
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	27.65	358	224	9	70	404	50	395	1e-25	 102
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	100.00	596	0	0	1	596	1	596	0.0	1138
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	54.53	596	251	11	3	580	10	603	0.0	 556
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	45.06	526	234	11	9	481	7	530	7e-127	 383
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	39.27	606	308	14	1	552	1	600	4e-122	 370
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	48.43	413	194	5	47	441	60	471	4e-118	 361
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	46.68	452	213	7	33	458	79	528	2e-115	 354
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	44.59	471	228	6	2	439	7	477	6e-114	 351
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	42.14	477	245	9	3	458	2	468	5e-107	 330
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	41.73	417	227	6	53	459	57	467	4e-97	 303
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	39.78	445	241	8	3	425	2	441	5e-88	 280
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	30.77	338	205	9	71	387	66	395	5e-30	 115
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	100.00	660	0	0	27	686	27	686	0.0	1261
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	60.70	654	225	4	32	682	22	646	0.0	 722
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	60.35	681	234	9	32	677	27	706	0.0	 721
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	46.75	676	295	11	32	679	20	658	3e-177	 516
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	46.92	616	275	9	76	682	113	685	4e-167	 491
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	48.43	413	194	5	60	471	47	441	2e-111	 344
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	49.24	396	185	4	75	470	73	452	7e-109	 338
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	42.69	438	233	8	37	465	23	451	5e-104	 325
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	38.14	451	243	5	69	518	60	475	9e-90	 286
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	38.16	435	236	9	38	456	27	444	2e-82	 267
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	25.55	364	232	8	71	412	49	395	2e-24	98.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	100.00	714	0	0	1	714	1	714	0.0	1306
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	59.55	712	247	9	1	706	1	677	0.0	 728
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	53.81	708	264	10	7	712	2	648	0.0	 664
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	46.05	721	302	16	12	710	5	660	1e-171	 503
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	44.88	684	300	13	32	710	73	684	2e-152	 454
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	44.96	456	224	5	7	462	2	430	1e-104	 327
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	45.02	462	230	5	6	462	4	446	7e-104	 325
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	41.00	461	248	7	8	462	2	444	7e-94	 298
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	36.92	455	271	4	8	461	2	441	2e-80	 262
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	39.90	396	218	6	68	460	66	444	7e-71	 236
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	26.05	357	224	9	77	412	58	395	2e-19	82.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	100.00	690	0	0	1	690	1	690	0.0	1187
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1281|nuoL|1267018|1269016|1|Protein|NONE|59.3	61.60	638	221	7	73	686	25	662	0.0	 689
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2051|nuoL|2224169|2226230|-1|Protein|NONE|63.6	47.85	581	251	8	148	685	111	682	1e-163	 482
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1766|nuoL|1910772|1912719|-1|Protein|NONE|46.6	47.82	550	275	4	148	687	101	648	1e-158	 468
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2693|nuoL|3153602|3155747|-1|Protein|NONE|59.6	46.04	606	255	12	148	684	108	710	3e-146	 438
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1592|nuoL|1521423|1523301|-1|Protein|NONE|37.2	42.36	569	289	9	77	639	38	573	6e-111	 343
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1568c|nuoL|1499288|1501079|-1|Protein|NONE|32.3	41.68	499	244	11	148	639	94	552	3e-106	 330
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3375|nuoL|3813896|3815750|1|Protein|NONE|59.3	45.67	473	229	11	152	621	108	555	9e-104	 324
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_162|nuoL|174531|176376|1|Protein|NONE|25.6	36.43	538	295	14	148	676	102	601	1e-86	 278
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl483|nuoL|535605|537483|-1|Protein|NONE|27.2	35.34	532	301	15	148	668	107	606	6e-75	 247
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4906|nuoL|5439323|5441396|-1|Protein|NONE|63.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS1842|nuoL|1732968|1734909|-1|Protein|NONE|49.2	26.98	315	200	7	152	451	96	395	8e-23	93.2

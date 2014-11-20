@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9
+# Database: cd_hit_test/rbsDACBKR/rbsC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	100.00	332	0	0	1	332	1	332	1e-169	 469
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	37.24	290	165	2	55	327	51	340	2e-35	 122
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	38.13	278	166	4	53	327	37	311	1e-34	 119
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	39.29	280	160	4	55	327	45	321	8e-29	 103
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	31.72	290	140	8	52	303	56	325	2e-23	88.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7
+# Database: cd_hit_test/rbsDACBKR/rbsC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	100.00	312	0	0	1	312	1	312	0.0	 504
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	54.01	287	128	3	25	308	31	316	2e-82	 245
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	45.02	331	159	5	1	312	13	339	8e-54	 171
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	39.01	282	144	4	9	268	29	304	7e-51	 164
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	37.03	316	185	7	5	311	17	327	5e-37	 126
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0
+# Database: cd_hit_test/rbsDACBKR/rbsC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	100.00	381	0	0	1	381	1	381	0.0	 643
+NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	42.05	302	159	5	29	329	15	301	5e-61	 192
+NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	41.86	301	157	4	29	328	9	292	4e-60	 189
+NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	39.08	325	171	5	37	348	29	339	7e-46	 152
+NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	32.36	309	151	8	37	325	33	303	3e-27	99.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0
+# Database: cd_hit_test/rbsDACBKR/rbsC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	100.00	340	0	0	1	340	1	340	0.0	 618
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	45.18	332	158	6	13	340	1	312	6e-69	 211
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	40.54	296	155	3	44	335	38	316	2e-51	 166
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	39.08	325	171	5	29	339	37	348	2e-49	 162
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	37.38	313	179	2	28	340	32	327	2e-48	 158
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1
+# Database: cd_hit_test/rbsDACBKR/rbsC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	100.00	323	0	0	1	323	1	323	0.0	 527
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3017|rbsC|3294257|3295196|-1|Protein|NONE|66.7	50.82	305	140	4	1	304	1	296	2e-96	 281
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	NC_003143|Yersinia_pestis_CO92|YPO3315|rbsC|3696883|3698029|-1|Protein|NONE|54.0	38.28	303	171	3	14	301	28	329	5e-61	 192
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu2818|rbsC|2821125|2822148|-1|Protein|NONE|60.0	37.71	297	164	3	23	302	29	321	7e-46	 150
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0503|rbsC|519960|520932|1|Protein|NONE|37.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1948|rbsC|2133390|2134389|1|Protein|NONE|66.9	35.39	308	169	3	23	317	33	323	1e-37	 128

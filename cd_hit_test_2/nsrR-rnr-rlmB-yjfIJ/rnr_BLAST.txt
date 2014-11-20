@@ -1,0 +1,96 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	100.00	904	0	0	1	904	1	904	0.0	1670
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	54.78	763	322	5	8	765	4	748	0.0	 762
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	55.33	741	301	7	5	744	14	725	0.0	 749
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	54.07	749	325	7	8	754	4	735	0.0	 751
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	50.94	742	337	7	21	741	15	750	0.0	 684
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	50.07	735	348	6	18	741	25	751	0.0	 666
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	35.14	663	383	10	125	770	156	788	2e-109	 350
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	34.70	657	389	13	125	770	123	750	3e-97	 316
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	100.00	733	0	0	1	733	1	733	0.0	1432
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	53.12	736	300	4	31	722	16	750	0.0	 751
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	54.66	741	306	7	14	725	5	744	0.0	 743
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	50.07	767	343	8	4	733	3	766	0.0	 721
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	48.97	731	352	8	17	729	4	731	0.0	 671
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	47.94	728	358	8	17	726	4	728	0.0	 667
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	38.03	539	316	7	182	709	207	738	2e-96	 310
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	35.21	585	357	8	157	726	148	725	7e-92	 298
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	100.00	795	0	0	1	795	1	795	0.0	1539
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	59.25	751	304	2	1	750	1	750	0.0	 889
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	54.78	763	322	5	4	748	8	765	0.0	 792
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	49.25	731	350	8	4	731	17	729	0.0	 701
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	48.46	747	338	7	17	726	15	751	0.0	 670
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	46.56	741	379	6	5	729	16	755	0.0	 620
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	37.13	606	359	8	141	739	145	735	5e-111	 352
+NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	35.72	739	429	16	18	731	40	757	7e-108	 344
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	100.00	796	0	0	31	826	31	826	0.0	1531
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	59.50	763	278	6	31	771	18	771	0.0	 902
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	51.49	738	319	7	31	766	33	733	0.0	 750
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	50.00	730	346	6	31	752	24	742	0.0	 695
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	47.07	735	371	5	31	764	20	737	0.0	 644
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	47.11	726	367	6	31	755	20	729	0.0	 630
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	34.52	730	421	18	31	737	42	737	3e-105	 336
+NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	32.68	762	454	18	32	773	12	734	6e-99	 319
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	100.00	871	0	0	1	871	1	871	0.0	1700
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	59.48	765	279	6	16	771	29	771	0.0	 909
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	53.94	736	294	4	16	750	31	722	0.0	 795
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	51.89	742	330	7	15	750	21	741	0.0	 728
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	46.89	787	374	8	15	800	17	760	0.0	 707
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	48.59	747	337	7	15	751	17	726	0.0	 685
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	34.21	760	433	15	16	753	40	754	1e-121	 381
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	34.46	772	442	14	16	766	9	737	1e-117	 370
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	100.00	772	0	0	1	772	1	772	0.0	1488
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	58.30	729	296	5	41	764	10	735	0.0	 770
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	33.95	760	435	15	40	754	16	753	8e-119	 374
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	35.84	731	409	15	40	743	18	715	7e-116	 364
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	35.06	733	410	14	40	735	22	725	6e-115	 364
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	35.77	738	430	15	40	757	18	731	2e-112	 356
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	37.12	590	351	9	156	738	133	709	3e-107	 339
+NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	34.88	734	417	19	40	737	29	737	7e-104	 333
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	100.00	808	0	0	1	808	1	808	0.0	1543
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	59.23	753	305	2	1	752	1	752	0.0	 887
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	54.07	749	325	7	4	735	8	754	0.0	 770
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	48.90	728	351	8	4	728	17	726	0.0	 695
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	47.54	753	357	8	17	736	15	762	0.0	 689
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	46.83	741	376	5	14	737	25	764	0.0	 632
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	37.67	645	364	11	121	745	156	782	4e-116	 365
+NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	35.80	609	369	6	141	740	145	740	9e-110	 348
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/rnr_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	100.00	751	0	0	1	751	1	751	0.0	1381
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_003047|Sinorhizobium_meliloti_1021|SMc01365|rnr|1414624|1416994|-1|Protein|NONE|64.8	57.70	747	303	7	10	749	41	781	0.0	 733
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1228|rnr|1298191|1300807|1|Protein|NONE|67.6	34.83	758	430	14	9	723	16	752	2e-106	 340
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_003143|Yersinia_pestis_CO92|YPO0380|rnr|394946|397481|1|Protein|vacB|52.3	34.71	749	450	12	4	735	13	739	4e-102	 328
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4937|rnr|5538695|5541410|-1|Protein|NONE|67.4	33.03	778	466	17	4	750	17	770	3e-94	 308
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0350|rnr|392343|394545|1|Protein|NONE|48.9	35.06	619	379	9	114	725	124	726	6e-94	 303
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_004347|Shewanella_oneidensis_MR-1|SO_3935|rnr|4079531|4081958|-1|Protein|NONE|49.0	35.80	609	369	6	145	740	141	740	4e-93	 303
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5112|rnr|5668828|5671171|1|Protein|NONE|67.0	NC_002928|Bordetella_parapertussis_12822|BPP2530|rnr|2722583|2725064|1|Protein|vacB|66.6	32.42	731	446	15	6	707	26	737	9e-86	 283

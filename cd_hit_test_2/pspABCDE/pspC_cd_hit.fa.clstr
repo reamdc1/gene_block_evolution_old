@@ -1,0 +1,11 @@
+>Cluster 0
+0	129aa, >NC_004459|Vibrio_vu... *
+>Cluster 1
+0	128aa, >NC_004347|Shewanell... *
+>Cluster 2
+0	119aa, >NC_000913|Escherich... *
+1	119aa, >NC_003198|Salmonell... at 84.03%
+2	119aa, >NC_003197|Salmonell... at 84.03%
+3	119aa, >NC_004741|Shigella_... at 100.00%
+>Cluster 3
+0	119aa, >NC_003143|Yersinia_... *

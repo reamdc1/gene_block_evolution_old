@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8
+# Database: cd_hit_test/paaABCDEFGHIJK/paaD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	100.00	165	0	0	1	165	1	165	6e-126	 343
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	51.66	151	71	1	16	164	16	166	2e-53	 159
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	48.72	156	74	1	14	163	11	166	2e-52	 156
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4
+# Database: cd_hit_test/paaABCDEFGHIJK/paaD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	100.00	168	0	0	1	168	1	168	3e-125	 342
+NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	57.14	154	56	2	18	168	21	167	5e-57	 168
+NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	48.72	156	74	1	11	166	14	163	2e-52	 156
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7
+# Database: cd_hit_test/paaABCDEFGHIJK/paaD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	100.00	167	0	0	1	167	1	167	1e-115	 317
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	NC_002928|Bordetella_parapertussis_12822|BPP1676|paaD|1785544|1786051|1|Protein|NONE|70.4	57.14	154	56	2	21	167	18	168	5e-57	 168
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2894|paaD|3186794|3187298|1|Protein|NONE|66.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1391|paaD|1453948|1454446|1|Protein|ECK1388:JW5217:ydbQ|55.8	52.74	146	67	1	21	166	21	164	3e-52	 155

@@ -1,0 +1,17 @@
+>Cluster 0
+0	344aa, >NC_004347|Shewanell... *
+>Cluster 1
+0	335aa, >NC_004578|Pseudomon... *
+1	335aa, >NC_002947|Pseudomon... at 72.24%
+>Cluster 2
+0	333aa, >NC_005085|Chromobac... *
+>Cluster 3
+0	330aa, >NC_003143|Yersinia_... *
+>Cluster 4
+0	329aa, >NC_002928|Bordetell... *
+1	329aa, >NC_002929|Bordetell... at 99.39%
+2	329aa, >NC_002927|Bordetell... at 100.00%
+>Cluster 5
+0	322aa, >NC_000913|Escherich... *
+1	322aa, >NC_003198|Salmonell... at 70.50%
+2	322aa, >NC_003197|Salmonell... at 70.50%

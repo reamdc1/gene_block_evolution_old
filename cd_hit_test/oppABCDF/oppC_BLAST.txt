@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1
+# Database: cd_hit_test/oppABCDF/oppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	100.00	304	0	0	1	304	1	304	0.0	 607
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	53.80	303	140	0	2	304	9	311	2e-122	 347
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	35.54	242	154	2	62	302	96	336	5e-46	 150
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	34.65	228	147	1	76	303	68	293	2e-35	 120
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8
+# Database: cd_hit_test/oppABCDF/oppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	100.00	355	0	0	1	355	1	355	0.0	 681
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	35.08	248	157	3	92	336	56	302	7e-40	 134
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	34.85	241	155	2	97	336	70	309	5e-38	 129
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	30.05	193	135	0	108	300	63	255	2e-19	75.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4
+# Database: cd_hit_test/oppABCDF/oppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	100.00	311	0	0	1	311	1	311	2e-172	 474
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	53.80	303	140	0	9	311	2	304	2e-90	 265
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	34.85	241	155	2	70	309	97	336	4e-30	 106
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	37.89	190	118	0	91	280	74	263	2e-22	83.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0
+# Database: cd_hit_test/oppABCDF/oppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	100.00	294	0	0	1	294	1	294	7e-149	 413
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1122|oppC|1188362|1189298|-1|Protein|NONE|43.4	36.36	220	140	0	74	293	91	310	1e-31	 110
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4327|oppC|4667843|4668758|-1|Protein|NONE|66.1	34.65	228	147	1	68	293	76	303	9e-29	 101
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0858|oppC|1020197|1021082|1|Protein|NONE|71.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1785|oppC|1707365|1708433|1|Protein|NONE|35.8	29.38	194	135	2	63	255	108	300	8e-18	70.9

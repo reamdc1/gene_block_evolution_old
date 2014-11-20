@@ -1,0 +1,77 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	100.00	162	0	0	1	162	1	162	1e-121	 333
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	61.69	154	59	0	8	161	26	179	1e-70	 204
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	55.19	154	69	0	8	161	1	154	1e-64	 187
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	33.97	156	100	3	10	162	2	157	4e-25	86.3
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	35.51	107	69	0	36	142	35	141	1e-22	79.7
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	30.60	134	91	2	29	160	40	173	1e-21	76.6
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	29.77	131	91	1	33	162	43	173	3e-16	63.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	100.00	369	0	0	1	369	1	369	0.0	 668
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	36.91	149	92	2	27	174	11	158	3e-28	98.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	35.62	146	91	3	30	173	31	175	4e-23	84.3
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	32.09	134	90	1	39	172	47	179	1e-16	66.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	27.16	162	117	1	12	173	2	162	5e-16	64.3
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	26.12	134	98	1	39	172	22	154	1e-13	56.6
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	28.57	133	94	1	37	169	26	157	1e-11	50.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	100.00	154	0	0	1	154	1	154	7e-116	 318
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	55.19	154	69	0	1	154	8	161	1e-64	 187
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	52.63	152	72	0	3	154	28	179	4e-59	 174
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	32.23	121	82	0	18	138	24	144	2e-27	92.0
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	33.33	135	88	1	3	135	2	136	9e-26	87.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	26.52	132	95	2	22	151	40	171	1e-18	68.6
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	26.12	134	98	1	22	154	39	172	9e-14	56.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	100.00	167	0	0	1	167	1	167	1e-113	 313
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	42.28	149	83	3	1	147	18	165	3e-41	 129
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	40.48	126	74	1	11	135	27	152	3e-28	97.4
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	33.33	135	88	1	2	136	3	135	1e-25	87.8
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	36.30	135	84	2	2	136	10	142	1e-24	85.5
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	32.79	122	82	0	16	137	40	161	3e-22	79.0
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	30.77	117	81	0	21	137	26	142	5e-17	63.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	100.00	175	0	0	1	175	1	175	2e-134	 367
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	42.77	159	88	3	18	175	1	157	7e-45	 138
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	35.62	146	91	3	31	175	30	173	3e-23	84.0
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	30.60	134	91	2	40	173	29	160	2e-21	76.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	33.33	138	88	3	18	155	27	160	8e-21	75.1
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	26.52	132	95	2	40	171	22	151	1e-18	68.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	35.07	134	85	2	38	171	26	157	3e-16	61.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	100.00	163	0	0	18	180	18	180	4e-124	 341
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	61.69	154	59	0	26	179	8	161	1e-70	 204
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	52.63	152	72	0	28	179	3	154	2e-59	 175
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	36.29	124	79	0	49	172	30	153	4e-24	84.0
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	32.79	122	82	0	40	161	16	137	2e-22	79.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	33.33	138	88	3	27	160	18	155	7e-21	75.1
+NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	32.09	134	90	1	47	179	39	172	7e-17	65.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5
+# Database: cd_hit_test/nuoABCEFGHIJKLMN/nuoE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	100.00	162	0	0	1	162	1	162	1e-100	 280
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl490|nuoE|544177|544642|-1|Protein|NONE|29.9	32.23	121	82	0	24	144	18	138	6e-23	80.1
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_004347|Shewanella_oneidensis_MR-1|SO_1018|nuoE|1056763|1057306|-1|Protein|NONE|57.1	36.67	120	76	0	30	149	49	168	9e-22	77.4
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_155|nuoE|167499|167988|1|Protein|NONE|28.2	35.51	107	69	0	35	141	36	142	2e-20	73.2
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2058|nuoE|2232610|2233114|-1|Protein|NONE|61.9	30.37	135	93	1	26	159	21	155	5e-15	58.2
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2700|nuoE|3161872|3162400|-1|Protein|NONE|61.9	35.07	134	85	2	26	157	38	171	7e-13	52.0
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll3138|nuoE|3468270|3468759|-1|Protein|NONE|67.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1274|nuoE|1259677|1260787|1|Protein|NONE|60.5	28.36	134	95	1	25	157	36	169	3e-09	42.7

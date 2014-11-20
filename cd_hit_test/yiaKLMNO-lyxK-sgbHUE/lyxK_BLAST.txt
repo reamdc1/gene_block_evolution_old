@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3580|lyxK|3745106|3746603|1|Protein|ECK3569:JW3552:lyx:xylK:yiaP|57.4
+# Database: cd_hit_test/yiaKLMNO-lyxK-sgbHUE/lyxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3580|lyxK|3745106|3746603|1|Protein|ECK3569:JW3552:lyx:xylK:yiaP|57.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3580|lyxK|3745106|3746603|1|Protein|ECK3569:JW3552:lyx:xylK:yiaP|57.4	100.00	498	0	0	1	498	1	498	0.0	1034
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3580|lyxK|3745106|3746603|1|Protein|ECK3569:JW3552:lyx:xylK:yiaP|57.4	NC_003143|Yersinia_pestis_CO92|YPO3334|lyx|3719479|3720976|1|Protein|lyxK:sgbK:xylK|51.8	42.83	495	273	4	1	486	1	494	6e-140	 405
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3334|lyx|3719479|3720976|1|Protein|lyxK:sgbK:xylK|51.8
+# Database: cd_hit_test/yiaKLMNO-lyxK-sgbHUE/lyxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3334|lyx|3719479|3720976|1|Protein|lyxK:sgbK:xylK|51.8	NC_003143|Yersinia_pestis_CO92|YPO3334|lyx|3719479|3720976|1|Protein|lyxK:sgbK:xylK|51.8	100.00	498	0	0	1	498	1	498	0.0	 991
+NC_003143|Yersinia_pestis_CO92|YPO3334|lyx|3719479|3720976|1|Protein|lyxK:sgbK:xylK|51.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3580|lyxK|3745106|3746603|1|Protein|ECK3569:JW3552:lyx:xylK:yiaP|57.4	42.83	495	273	4	1	494	1	486	8e-136	 395

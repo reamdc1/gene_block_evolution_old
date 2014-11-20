@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0039|caiA|39243|40386|-1|Protein|ECK0040:JW0038:yaaO|53.9
+# Database: cd_hit_test_2/caiTABCDE/caiA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0039|caiA|39243|40386|-1|Protein|ECK0040:JW0038:yaaO|53.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0039|caiA|39243|40386|-1|Protein|ECK0040:JW0038:yaaO|53.9	100.00	380	0	0	1	380	1	380	0.0	 792
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0039|caiA|39243|40386|-1|Protein|ECK0040:JW0038:yaaO|53.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2084|caiA|2269736|2270897|-1|Protein|NONE|65.2	32.02	381	252	7	1	377	1	378	9e-58	 184
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2084|caiA|2269736|2270897|-1|Protein|NONE|65.2
+# Database: cd_hit_test_2/caiTABCDE/caiA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2084|caiA|2269736|2270897|-1|Protein|NONE|65.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2084|caiA|2269736|2270897|-1|Protein|NONE|65.2	100.00	386	0	0	1	386	1	386	0.0	 797
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2084|caiA|2269736|2270897|-1|Protein|NONE|65.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0039|caiA|39243|40386|-1|Protein|ECK0040:JW0038:yaaO|53.9	32.02	381	252	7	1	378	1	377	9e-58	 184

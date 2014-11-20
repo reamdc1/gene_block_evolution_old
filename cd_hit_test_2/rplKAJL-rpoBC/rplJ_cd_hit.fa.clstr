@@ -1,0 +1,41 @@
+>Cluster 0
+0	177aa, >NC_007086|Xanthomon... *
+1	175aa, >NC_002488|Xylella_f... at 70.86%
+2	177aa, >NC_003919|Xanthomon... at 97.18%
+>Cluster 1
+0	171aa, >NC_004757|Nitrosomo... at 65.50%
+1	164aa, >NC_005085|Chromobac... at 62.20%
+2	174aa, >NC_002928|Bordetell... *
+3	168aa, >NC_003295|Ralstonia... at 61.31%
+4	174aa, >NC_002929|Bordetell... at 100.00%
+5	174aa, >NC_002927|Bordetell... at 100.00%
+>Cluster 2
+0	172aa, >NC_002678|Mesorhizo... *
+1	172aa, >NC_003062|Agrobacte... at 74.42%
+2	172aa, >NC_004310|Brucella_... at 76.16%
+3	172aa, >NC_003047|Sinorhizo... at 76.74%
+4	172aa, >NC_004463|Bradyrhiz... at 61.63%
+>Cluster 3
+0	166aa, >NC_002516|Pseudomon... *
+1	165aa, >NC_000913|Escherich... at 68.48%
+2	165aa, >NC_003143|Yersinia_... at 66.67%
+3	166aa, >NC_004578|Pseudomon... at 90.96%
+4	165aa, >NC_003198|Salmonell... at 68.48%
+5	165aa, >NC_003197|Salmonell... at 68.48%
+6	162aa, >NC_004603|Vibrio_pa... at 71.60%
+7	163aa, >NC_000907|Haemophil... at 66.87%
+8	165aa, >NC_004741|Shigella_... at 68.48%
+9	166aa, >NC_002947|Pseudomon... at 89.16%
+10	163aa, >NC_002663|Pasteurel... at 66.87%
+11	166aa, >NC_004347|Shewanell... at 71.08%
+>Cluster 4
+0	166aa, >NC_003112|Neisseria... *
+>Cluster 5
+0	165aa, >NC_011833|Buchnera_... *
+>Cluster 6
+0	165aa, >NC_005061|Candidatu... *
+>Cluster 7
+0	160aa, >NC_005090|Wolinella... *
+1	160aa, >NC_004917|Helicobac... at 65.62%
+>Cluster 8
+0	159aa, >NC_002163|Campyloba... *

@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1
+# Database: cd_hit_test/pstSCAB-phoU/pstB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	100.00	266	0	0	1	266	1	266	0.0	 557
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	61.94	247	92	1	20	266	37	281	3e-112	 318
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	60.80	250	96	1	17	266	29	276	1e-111	 317
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	56.18	251	107	2	17	266	14	262	1e-104	 298
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	54.98	251	110	2	17	266	23	271	6e-99	 284
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5
+# Database: cd_hit_test/pstSCAB-phoU/pstB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	100.00	271	0	0	1	271	1	271	0.0	 567
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	60.24	254	101	0	18	271	9	262	9e-122	 342
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	64.61	243	85	1	29	271	40	281	7e-120	 338
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	52.27	264	125	1	8	271	14	276	3e-100	 287
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	54.98	251	110	2	23	271	17	266	6e-99	 284
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3
+# Database: cd_hit_test/pstSCAB-phoU/pstB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	100.00	276	0	0	1	276	1	276	0.0	 536
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	60.80	250	96	1	29	276	17	266	5e-100	 287
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	58.89	253	104	0	24	276	29	281	6e-93	 269
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	55.29	255	113	1	23	276	8	262	9e-93	 268
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	52.27	264	125	1	14	276	8	271	1e-88	 258
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6
+# Database: cd_hit_test/pstSCAB-phoU/pstB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	100.00	262	0	0	1	262	1	262	0.0	 546
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	60.24	254	101	0	9	262	18	271	8e-122	 342
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	57.37	251	106	1	12	262	32	281	2e-109	 311
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	56.18	251	107	2	14	262	17	266	1e-104	 298
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	55.29	255	113	1	8	262	23	276	3e-102	 292
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8
+# Database: cd_hit_test/pstSCAB-phoU/pstB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	100.00	281	0	0	1	281	1	281	0.0	 585
+NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0423|pstB|420418|421234|1|Protein|NONE|57.5	64.61	243	85	1	40	281	29	271	7e-120	 338
+NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1001|pstB|1088079|1088880|1|Protein|NONE|48.1	61.94	247	92	1	37	281	20	266	3e-112	 318
+NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0945|pstB|902469|903258|-1|Protein|NONE|49.6	57.37	251	106	1	32	281	12	262	2e-109	 311
+NC_002947|Pseudomonas_putida_KT2440|PP_5326|pstB|6071669|6072515|-1|Protein|NONE|59.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2711|pstB|3256800|3257631|1|Protein|NONE|61.3	58.89	253	104	0	29	281	24	276	1e-105	 301

@@ -1,0 +1,40 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/acpP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	100.00	65	0	0	16	80	16	80	3e-30	93.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	63.79	58	21	0	16	73	35	92	1e-15	55.1
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	59.38	64	25	1	16	79	16	78	2e-13	48.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	48.33	60	31	0	16	75	15	74	1e-08	35.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/acpP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8	100.00	83	0	0	1	83	1	83	2e-58	 165
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	40.00	25	15	0	32	56	33	57	1e-05	27.7
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	45.83	24	13	0	32	55	34	57	2e-05	27.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/acpP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	100.00	98	0	0	1	98	1	98	2e-58	 166
+NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	58.44	77	32	0	20	96	1	77	2e-22	73.6
+NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	55.13	78	35	0	20	97	1	78	6e-18	61.6
+NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	52.11	71	34	0	27	97	7	77	1e-14	53.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/acpP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	100.00	77	0	0	1	77	1	77	7e-50	 143
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	52.11	71	34	0	7	77	27	97	3e-24	78.2
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	45.59	68	37	0	7	74	8	75	7e-19	63.5
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	45.07	71	39	0	7	77	8	78	1e-18	63.2
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2571|acpP|2542119|2542371|1|Protein|NONE|48.8	40.00	25	15	0	33	57	32	56	1e-05	27.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/acpP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	100.00	79	0	0	1	79	1	79	1e-54	 155
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_345|acpP|387117|387360|1|Protein|NONE|23.5	57.50	80	33	1	1	79	1	80	3e-28	88.2
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	NC_002928|Bordetella_parapertussis_12822|BPP3304|acpP|3562282|3562579|-1|Protein|NONE|52.2	54.43	79	36	0	1	79	20	98	8e-27	84.7
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bsr4084|acpP|4517304|4517544|1|Protein|NONE|57.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0441|acpP|409792|410026|1|Protein|NONE|26.9	45.07	71	39	0	8	78	7	77	1e-18	63.2

@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6
+# Database: cd_hit_test_2/caiTABCDE/caiB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	100.00	405	0	0	1	405	1	405	0.0	 820
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	26.33	395	258	8	11	385	10	391	7e-31	 110
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	27.96	211	128	7	4	203	197	394	3e-14	61.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8
+# Database: cd_hit_test_2/caiTABCDE/caiB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	100.00	464	0	0	1	464	1	464	0.0	 769
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	35.19	162	87	2	205	348	10	171	1e-20	81.6
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	27.52	149	90	3	202	338	8	150	3e-07	39.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9
+# Database: cd_hit_test_2/caiTABCDE/caiB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	100.00	400	0	0	1	400	1	400	0.0	 822
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0038|caiB|37897|39115|-1|Protein|ECK0039:JW0037:yaaN|52.6	26.08	395	259	9	10	391	11	385	7e-31	 110
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2127|caiB|2092325|2093528|1|Protein|NONE|60.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3013|caiB|3289454|3290849|1|Protein|NONE|72.8	34.52	168	92	2	4	171	199	348	2e-25	95.5

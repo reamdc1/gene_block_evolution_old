@@ -1,0 +1,60 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	100.00	252	0	0	1	252	1	252	0.0	 518
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	55.12	254	108	2	1	248	1	254	1e-98	 282
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	46.85	254	131	1	1	250	1	254	5e-81	 237
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	45.82	251	130	2	4	248	3	253	2e-76	 225
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	45.06	253	133	1	4	250	3	255	5e-75	 222
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	40.55	254	142	2	4	250	3	254	6e-65	 196
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	100.00	258	0	0	1	258	1	258	0.0	 528
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	55.12	254	108	2	1	254	1	248	1e-98	 282
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	48.61	251	129	0	4	254	3	253	4e-85	 248
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	47.81	251	131	0	4	254	3	253	1e-76	 226
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	43.97	257	142	1	1	257	1	255	8e-76	 224
+NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	41.27	252	147	1	4	255	3	253	4e-67	 202
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	100.00	256	0	0	1	256	1	256	2e-173	 473
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	57.25	255	109	0	1	255	1	255	8e-92	 265
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	50.39	254	124	1	3	256	4	255	1e-79	 234
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	48.61	251	129	0	3	253	4	254	1e-76	 226
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	44.27	253	135	2	3	255	4	250	2e-65	 197
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	38.67	256	156	1	1	256	1	255	1e-56	 174
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	100.00	255	0	0	1	255	1	255	0.0	 525
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	50.39	254	124	1	4	255	3	256	3e-95	 273
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	51.37	255	122	1	3	255	2	256	2e-94	 272
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	46.85	254	131	1	1	254	1	250	2e-84	 246
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	43.97	257	142	1	1	255	1	257	3e-78	 230
+NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	40.39	255	147	2	4	255	3	255	3e-64	 194
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	100.00	257	0	0	1	257	1	257	0.0	 520
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	57.03	256	110	0	1	256	1	256	7e-107	 303
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	51.37	255	122	1	2	256	3	255	3e-91	 263
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	47.81	251	131	0	3	253	4	254	1e-76	 226
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	45.06	253	133	1	3	255	4	250	5e-75	 222
+NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	39.84	256	153	1	1	256	1	255	5e-63	 191
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6
+# Database: cd_hit_test_2/lsrACDBFG-tam/tam_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	100.00	256	0	0	1	256	1	256	0.0	 523
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_003143|Yersinia_pestis_CO92|YPO2509|tam|2818961|2819738|1|Protein|NONE|52.8	41.27	252	147	1	3	253	4	255	4e-67	 202
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1519|tam|1605369|1606128|1|Protein|ECK1512:JW1512:lsrE:yneD|53.9	40.55	254	142	2	3	254	4	250	6e-65	 196
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu0870|tam|866011|866782|-1|Protein|NONE|61.5	38.67	256	156	1	1	255	1	256	3e-63	 191
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_003047|Sinorhizobium_meliloti_1021|SMc00225|tam|1061914|1062688|-1|Protein|NONE|64.3	39.84	256	153	1	1	255	1	256	5e-63	 191
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2748|tam|3021987|3022758|1|Protein|NONE|64.6	NC_004310|Brucella_suis_1330|BR1455|tam|1413028|1413796|-1|Protein|NONE|56.2	40.39	255	147	2	3	255	4	255	8e-63	 190

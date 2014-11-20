@@ -1,0 +1,25 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6
+# Database: cd_hit_test/rplKAJL-rpoBC/rpoC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	100.00	1402	0	0	1	1402	1	1402	0.0	2888
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	57.18	1406	578	12	16	1400	17	1419	0.0	1598
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	55.21	989	402	9	18	984	18	987	0.0	1116
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	46.13	401	188	7	970	1357	1119	1504	6e-98	 335
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4
+# Database: cd_hit_test/rplKAJL-rpoBC/rpoC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	100.00	1420	0	0	1	1420	1	1420	0.0	2815
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	57.18	1406	578	12	17	1419	16	1400	0.0	1525
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	54.04	1003	410	6	5	986	4	976	0.0	1050
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	40.18	438	222	9	960	1383	1103	1514	7e-82	 286
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9
+# Database: cd_hit_test/rplKAJL-rpoBC/rpoC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	100.00	1517	0	0	1	1517	1	1517	0.0	3023
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	55.21	989	402	9	18	987	18	984	0.0	1067
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1955|rpoC|1922807|1927016|-1|Protein|NONE|58.6	46.13	401	188	7	1119	1504	970	1357	5e-98	 335
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	54.28	1004	406	7	4	976	5	986	0.0	1066
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0479|rpoC|443120|447674|1|Protein|NONE|34.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl556|rpoC|620228|624491|-1|Protein|NONE|34.4	40.18	438	222	9	1103	1514	960	1383	8e-82	 286

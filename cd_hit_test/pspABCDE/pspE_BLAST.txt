@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S1395|pspE|1363668|1364016|1|Protein|NONE|50.6
+# Database: cd_hit_test/pspABCDE/pspE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S1395|pspE|1363668|1364016|1|Protein|NONE|50.6	NC_004741|Shigella_flexneri_2a_str._2457T|S1395|pspE|1363668|1364016|1|Protein|NONE|50.6	100.00	115	0	0	1	115	1	115	2e-87	 240

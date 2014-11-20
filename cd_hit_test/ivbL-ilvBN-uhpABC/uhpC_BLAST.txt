@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4007|uhpC|4517878|4519210|-1|Protein|NONE|47.4
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/uhpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4007|uhpC|4517878|4519210|-1|Protein|NONE|47.4	NC_003143|Yersinia_pestis_CO92|YPO4007|uhpC|4517878|4519210|-1|Protein|NONE|47.4	100.00	443	0	0	1	443	1	443	0.0	 828

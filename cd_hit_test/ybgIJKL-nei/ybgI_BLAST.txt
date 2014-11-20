@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8
+# Database: cd_hit_test/ybgIJKL-nei/ybgI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	100.00	247	0	0	1	247	1	247	0.0	 513
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	55.06	247	111	0	1	247	1	247	3e-104	 295
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	44.30	237	127	4	14	246	14	249	6e-77	 225
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5
+# Database: cd_hit_test/ybgIJKL-nei/ybgI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	100.00	247	0	0	1	247	1	247	5e-177	 480
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	55.06	247	111	0	1	247	1	247	1e-96	 276
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	57.60	250	101	2	1	246	1	249	5e-92	 264
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6
+# Database: cd_hit_test/ybgIJKL-nei/ybgI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	100.00	250	0	0	1	250	1	250	0.0	 514
+NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0710|ybgI|742049|742793|1|Protein|ECK0699:JW0700|53.5	57.60	250	101	2	1	249	1	246	2e-99	 283
+NC_004347|Shewanella_oneidensis_MR-1|SO_2621|ybgI|2758134|2758887|-1|Protein|NONE|48.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_295|ybgI|333699|334443|1|Protein|NONE|28.8	44.30	237	127	4	14	249	14	246	6e-77	 225

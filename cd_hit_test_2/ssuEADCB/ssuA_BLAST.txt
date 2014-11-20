@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0
+# Database: cd_hit_test_2/ssuEADCB/ssuA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	100.00	373	0	0	1	373	1	373	0.0	 676
+NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	62.81	285	106	0	41	325	45	329	8e-119	 342
+NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	46.15	325	159	5	4	326	3	313	2e-79	 239
+NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	37.30	319	193	4	13	326	2	318	1e-55	 177
+NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	33.22	286	175	5	44	323	41	316	3e-35	 122
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7
+# Database: cd_hit_test_2/ssuEADCB/ssuA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	100.00	304	0	0	18	321	18	321	0.0	 550
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	44.37	293	160	2	28	320	26	315	2e-70	 215
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	39.38	292	170	4	29	318	40	326	2e-54	 174
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	39.72	287	166	4	33	317	48	329	7e-52	 167
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	35.27	292	178	4	28	317	36	318	3e-33	 115
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3
+# Database: cd_hit_test_2/ssuEADCB/ssuA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	100.00	341	0	0	1	341	1	341	0.0	 540
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	62.63	281	105	0	49	329	45	325	7e-120	 344
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	44.91	285	153	3	49	331	32	314	2e-69	 213
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	39.51	286	166	4	49	329	34	317	1e-54	 174
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	34.73	262	168	3	76	336	66	325	2e-32	 113
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2
+# Database: cd_hit_test_2/ssuEADCB/ssuA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	100.00	321	0	0	1	321	1	321	0.0	 643
+NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	45.59	329	163	5	3	317	4	330	2e-88	 263
+NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	43.44	320	173	4	4	315	1	320	5e-82	 244
+NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	44.67	291	157	3	26	314	43	331	3e-72	 220
+NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	30.00	300	202	2	11	310	25	316	3e-40	 135
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2
+# Database: cd_hit_test_2/ssuEADCB/ssuA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	100.00	328	0	0	1	328	1	328	0.0	 595
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1884|ssuA|1864026|1864992|-1|Protein|NONE|62.7	35.17	290	177	4	38	318	30	317	6e-41	 137
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	NC_003143|Yersinia_pestis_CO92|YPO3624|ssuA|4041423|4042545|1|Protein|NONE|51.0	33.22	286	175	5	41	316	44	323	2e-39	 134
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	NC_002947|Pseudomonas_putida_KT2440|PP_0237|ssuA|291617|292583|1|Protein|NONE|65.2	29.64	280	193	1	41	316	31	310	6e-38	 129
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6456|ssuA|7107593|7108580|1|Protein|NONE|67.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3198|ssuA|3763195|3764221|-1|Protein|NONE|66.3	33.79	290	186	5	41	325	48	336	3e-36	 124

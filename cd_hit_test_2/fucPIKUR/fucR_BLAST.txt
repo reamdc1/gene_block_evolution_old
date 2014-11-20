@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2
+# Database: cd_hit_test_2/fucPIKUR/fucR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	100.00	243	0	0	1	243	1	243	0.0	 500
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	35.63	247	144	2	1	232	2	248	4e-46	 146
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	37.32	209	129	1	24	232	23	229	1e-44	 142
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7
+# Database: cd_hit_test_2/fucPIKUR/fucR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	100.00	269	0	0	1	269	1	269	0.0	 551
+NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	35.66	244	140	1	6	249	4	230	1e-49	 155
+NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	35.63	247	144	2	2	248	1	232	5e-46	 146
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5
+# Database: cd_hit_test_2/fucPIKUR/fucR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	100.00	249	0	0	1	249	1	249	0.0	 519
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	NC_003143|Yersinia_pestis_CO92|YPO3327|fucR|3712001|3712811|1|Protein|NONE|42.7	35.66	244	140	1	4	230	6	249	1e-49	 155
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0615|fucR|647374|648124|-1|Protein|NONE|33.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2805|fucR|2937389|2938121|1|Protein|ECK2800:JW2776|48.2	37.32	209	129	1	23	229	24	232	1e-44	 142

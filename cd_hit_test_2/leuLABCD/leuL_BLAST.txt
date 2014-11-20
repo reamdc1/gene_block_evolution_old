@@ -1,0 +1,10 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0075|leuL|83621|83708|-1|Protein|ECK0077:JW0074:leuLP|47.1
+# Database: cd_hit_test_2/leuLABCD/leuL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0075|leuL|83621|83708|-1|Protein|ECK0077:JW0074:leuLP|47.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0075|leuL|83621|83708|-1|Protein|ECK0077:JW0074:leuLP|47.1	100.00	28	0	0	1	28	1	28	6e-18	55.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4810|leuL|4415316|4415385|-1|Protein|NONE|49.3
+# Database: cd_hit_test_2/leuLABCD/leuL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4810|leuL|4415316|4415385|-1|Protein|NONE|49.3	NC_004347|Shewanella_oneidensis_MR-1|SO_4810|leuL|4415316|4415385|-1|Protein|NONE|49.3	100.00	22	0	0	1	22	1	22	4e-05	20.4

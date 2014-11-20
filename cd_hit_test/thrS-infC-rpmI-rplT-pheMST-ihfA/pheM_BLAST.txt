@@ -1,0 +1,10 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1715|pheM|1797249|1797294|-1|Protein|ECK1713:JW1705:phtL|35.6
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1715|pheM|1797249|1797294|-1|Protein|ECK1713:JW1705:phtL|35.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1715|pheM|1797249|1797294|-1|Protein|ECK1713:JW1705:phtL|35.6	100.00	14	0	0	1	14	1	14	1e-07	29.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2445|yfeE|2743679|2744234|-1|Protein|NONE|42.5
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2445|yfeE|2743679|2744234|-1|Protein|NONE|42.5	NC_003143|Yersinia_pestis_CO92|YPO2445|yfeE|2743679|2744234|-1|Protein|NONE|42.5	100.00	184	0	0	1	184	1	184	2e-137	 373

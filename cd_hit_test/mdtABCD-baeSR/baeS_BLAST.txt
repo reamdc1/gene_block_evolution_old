@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7
+# Database: cd_hit_test/mdtABCD-baeSR/baeS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	100.00	467	0	0	1	467	1	467	0.0	 907
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	38.66	476	268	5	7	459	2	476	2e-100	 302
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	36.06	269	162	3	199	461	133	397	9e-50	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0
+# Database: cd_hit_test/mdtABCD-baeSR/baeS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	100.00	478	0	0	1	478	1	478	0.0	 943
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	38.43	458	258	5	20	476	25	459	2e-95	 289
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	32.90	310	198	4	174	476	89	395	1e-45	 155
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8
+# Database: cd_hit_test/mdtABCD-baeSR/baeS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	100.00	397	0	0	1	397	1	397	0.0	 769
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2078|baeS|2160899|2162303|1|Protein|ECK2074:JW2063|53.7	36.01	286	167	5	116	397	188	461	4e-41	 141
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2804|baeS|3287393|3288587|1|Protein|NONE|67.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0515|baeS|553114|554551|-1|Protein|NONE|53.0	32.90	310	198	4	89	395	174	476	1e-37	 131

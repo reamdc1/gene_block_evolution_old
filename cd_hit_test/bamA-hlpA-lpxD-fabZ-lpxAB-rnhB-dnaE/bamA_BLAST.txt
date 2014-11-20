@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0177|bamA|197927|200360|1|Protein|ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY|50.7
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/bamA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0177|bamA|197927|200360|1|Protein|ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY|50.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0177|bamA|197927|200360|1|Protein|ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY|50.7	100.00	810	0	0	1	810	1	810	0.0	1664
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0177|bamA|197927|200360|1|Protein|ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY|50.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1637|bamA|1718939|1721420|1|Protein|NONE|45.6	50.54	831	385	7	1	810	1	826	0.0	 846
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1637|bamA|1718939|1721420|1|Protein|NONE|45.6
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/bamA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1637|bamA|1718939|1721420|1|Protein|NONE|45.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1637|bamA|1718939|1721420|1|Protein|NONE|45.6	100.00	826	0	0	1	826	1	826	0.0	1656
+NC_004347|Shewanella_oneidensis_MR-1|SO_1637|bamA|1718939|1721420|1|Protein|NONE|45.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0177|bamA|197927|200360|1|Protein|ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY|50.7	50.54	831	385	7	1	826	1	810	0.0	 832

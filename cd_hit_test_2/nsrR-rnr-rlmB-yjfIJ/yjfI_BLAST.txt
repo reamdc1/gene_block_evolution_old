@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4727|yjfI|4590816|4591221|1|Protein|NONE|40.2
+# Database: cd_hit_test_2/nsrR-rnr-rlmB-yjfIJ/yjfI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4727|yjfI|4590816|4591221|1|Protein|NONE|40.2	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4727|yjfI|4590816|4591221|1|Protein|NONE|40.2	100.00	134	0	0	1	134	1	134	1e-97	 268

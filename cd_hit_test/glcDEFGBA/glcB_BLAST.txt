@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0047|glcB|47735|49970|1|Protein|NONE|59.4
+# Database: cd_hit_test/glcDEFGBA/glcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0047|glcB|47735|49970|1|Protein|NONE|59.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu0047|glcB|47735|49970|1|Protein|NONE|59.4	100.00	744	0	0	1	744	1	744	0.0	1501
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0047|glcB|47735|49970|1|Protein|NONE|59.4	NC_004741|Shigella_flexneri_2a_str._2457T|S3216|glcB|3098305|3100477|-1|Protein|NONE|53.5	59.97	717	273	7	31	739	10	720	0.0	 848
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3216|glcB|3098305|3100477|-1|Protein|NONE|53.5
+# Database: cd_hit_test/glcDEFGBA/glcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3216|glcB|3098305|3100477|-1|Protein|NONE|53.5	NC_004741|Shigella_flexneri_2a_str._2457T|S3216|glcB|3098305|3100477|-1|Protein|NONE|53.5	100.00	723	0	0	1	723	1	723	0.0	1439
+NC_004741|Shigella_flexneri_2a_str._2457T|S3216|glcB|3098305|3100477|-1|Protein|NONE|53.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0047|glcB|47735|49970|1|Protein|NONE|59.4	59.97	717	273	7	10	720	31	739	0.0	 821

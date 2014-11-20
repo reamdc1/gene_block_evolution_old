@@ -1,0 +1,17 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0178|skp|200481|200967|1|Protein|ECK0177:hlpA:JW0173:ompH|50.2
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/hlpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0178|skp|200481|200967|1|Protein|ECK0177:hlpA:JW0173:ompH|50.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0178|skp|200481|200967|1|Protein|ECK0177:hlpA:JW0173:ompH|50.2	100.00	161	0	0	1	161	1	161	2e-101	 281
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0178|skp|200481|200967|1|Protein|ECK0177:hlpA:JW0173:ompH|50.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl280|hlpA|306393|306900|1|Protein|NONE|27.8	45.45	143	75	1	22	161	24	166	3e-40	 125
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl280|hlpA|306393|306900|1|Protein|NONE|27.8
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/hlpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl280|hlpA|306393|306900|1|Protein|NONE|27.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl280|hlpA|306393|306900|1|Protein|NONE|27.8	100.00	168	0	0	1	168	1	168	1e-124	 340
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl280|hlpA|306393|306900|1|Protein|NONE|27.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0178|skp|200481|200967|1|Protein|ECK0177:hlpA:JW0173:ompH|50.2	46.21	145	75	1	22	166	20	161	1e-41	 128
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0620|hlpA|653458|654280|-1|Protein|NONE|35.4
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/hlpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0620|hlpA|653458|654280|-1|Protein|NONE|35.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0620|hlpA|653458|654280|-1|Protein|NONE|35.4	100.00	273	0	0	1	273	1	273	2e-168	 460

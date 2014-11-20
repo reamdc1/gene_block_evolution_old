@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2803|fucK|2935459|2936908|1|Protein|ECK2798:JW2774|50.9
+# Database: cd_hit_test/fucPIKUR/fucK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2803|fucK|2935459|2936908|1|Protein|ECK2798:JW2774|50.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2803|fucK|2935459|2936908|1|Protein|ECK2798:JW2774|50.9	100.00	482	0	0	1	482	1	482	0.0	 996
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2803|fucK|2935459|2936908|1|Protein|ECK2798:JW2774|50.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0613|fucK|643893|645306|-1|Protein|NONE|38.5	40.94	469	264	5	15	472	3	469	4e-129	 376
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0613|fucK|643893|645306|-1|Protein|NONE|38.5
+# Database: cd_hit_test/fucPIKUR/fucK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0613|fucK|643893|645306|-1|Protein|NONE|38.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0613|fucK|643893|645306|-1|Protein|NONE|38.5	100.00	470	0	0	1	470	1	470	0.0	 979
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0613|fucK|643893|645306|-1|Protein|NONE|38.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2803|fucK|2935459|2936908|1|Protein|ECK2798:JW2774|50.9	40.94	469	264	5	3	469	15	472	4e-129	 376

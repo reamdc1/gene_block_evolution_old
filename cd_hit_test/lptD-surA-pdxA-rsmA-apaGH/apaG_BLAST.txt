@@ -1,0 +1,165 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	100.00	154	0	0	1	154	1	154	9e-102	 282
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	50.39	129	64	0	26	154	2	130	3e-38	 119
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	50.76	132	65	0	23	154	3	134	2e-35	 112
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	51.72	116	56	0	32	147	12	127	6e-33	 105
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	46.90	113	60	0	35	147	10	122	2e-27	91.3
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	46.09	115	62	0	33	147	9	123	2e-26	88.6
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	45.38	119	65	0	29	147	5	123	1e-25	86.7
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	42.61	115	66	0	35	149	10	124	1e-24	84.0
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	43.80	121	68	0	28	148	3	123	3e-24	82.8
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	40.87	115	68	0	33	147	7	121	7e-23	79.3
+NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	38.46	117	72	0	33	149	8	124	3e-21	74.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	100.00	125	0	0	1	125	1	125	2e-82	 231
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	52.89	121	57	0	5	125	6	126	3e-40	 123
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	49.58	119	60	0	7	125	9	127	5e-37	 115
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	52.03	123	57	1	3	125	6	126	4e-36	 112
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	49.58	119	60	0	7	125	13	131	1e-34	 108
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	45.83	120	65	0	6	125	8	127	2e-33	 105
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	46.67	120	64	0	6	125	7	126	4e-32	 102
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	51.33	113	55	0	9	121	11	123	3e-30	97.8
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	46.55	116	62	0	6	121	12	127	8e-30	96.7
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	44.44	117	65	0	9	125	10	126	4e-28	92.0
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	40.87	115	68	0	7	121	33	147	1e-21	75.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	100.00	127	0	0	1	127	1	127	6e-94	 260
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	56.10	123	54	0	5	127	9	131	9e-52	 153
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	51.18	127	62	0	1	127	1	127	4e-47	 140
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	52.00	125	60	0	3	127	2	126	7e-47	 140
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	51.61	124	60	0	4	127	3	126	9e-46	 137
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	49.58	119	60	0	9	127	7	125	6e-44	 133
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	51.67	120	58	0	8	127	7	126	1e-41	 127
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	50.00	122	58	1	9	127	13	134	8e-40	 122
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	49.14	116	59	0	8	123	8	123	1e-37	 117
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	45.00	120	66	0	8	127	7	126	4e-37	 115
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	45.38	119	65	0	5	123	29	147	2e-32	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	100.00	126	0	0	1	126	1	126	1e-94	 262
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	56.10	123	54	0	4	126	9	131	5e-50	 148
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	51.61	124	60	0	3	126	4	127	9e-46	 137
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	49.19	124	63	0	3	126	4	127	2e-42	 129
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	46.83	126	67	0	1	126	1	126	3e-41	 126
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	50.41	123	58	1	7	126	12	134	3e-41	 126
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	44.44	117	65	0	10	126	9	125	4e-35	 110
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	41.18	119	70	0	8	126	8	126	4e-35	 110
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	46.90	113	60	0	10	122	35	147	1e-34	 110
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	42.24	116	67	0	7	122	8	123	2e-32	 103
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	38.66	119	73	0	8	126	8	126	5e-29	94.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	100.00	130	0	0	1	130	1	130	6e-86	 240
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	53.08	130	61	0	1	130	5	134	6e-41	 125
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	50.39	129	64	0	2	130	26	154	2e-37	 117
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	51.33	113	55	0	11	123	9	121	5e-30	97.1
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	49.14	116	59	0	8	123	8	123	9e-30	96.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	47.46	118	62	0	8	125	12	129	7e-29	94.4
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	46.09	115	62	0	9	123	8	122	3e-28	92.8
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	43.80	121	68	0	4	124	3	123	1e-26	88.2
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	45.30	117	64	0	9	125	9	125	3e-25	84.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	42.24	116	67	0	8	123	7	122	3e-24	82.0
+NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	44.07	118	66	0	8	125	7	124	1e-23	80.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	100.00	127	0	0	1	127	1	127	1e-94	 262
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	52.42	124	59	0	4	127	3	126	2e-48	 144
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	51.18	127	62	0	1	127	1	127	4e-47	 140
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	51.24	121	59	0	7	127	11	131	3e-44	 134
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	49.19	124	63	0	4	127	3	126	2e-42	 129
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	45.83	120	65	0	8	127	6	125	1e-40	 124
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	47.90	119	62	0	9	127	8	126	5e-38	 117
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	49.14	116	59	0	8	123	12	127	4e-37	 115
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	42.02	119	69	0	9	127	8	126	7e-35	 109
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	45.30	117	64	0	9	125	9	125	2e-33	 106
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	46.09	115	62	0	9	123	33	147	2e-33	 107
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	100.00	126	0	0	1	126	1	126	6e-83	 232
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	52.42	124	59	0	3	126	4	127	8e-40	 122
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	52.00	125	60	0	2	126	3	127	6e-39	 120
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	49.21	126	64	0	1	126	1	126	1e-35	 111
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	48.76	121	62	0	6	126	11	131	3e-35	 110
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	51.26	119	58	0	8	126	8	126	5e-35	 110
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	46.83	126	67	0	1	126	1	126	8e-33	 104
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	46.67	120	64	0	7	126	6	125	6e-32	 102
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	43.10	116	66	0	7	122	12	127	9e-26	86.3
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	42.61	115	66	0	10	124	35	149	5e-24	82.0
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	44.07	118	66	0	7	124	8	125	2e-23	79.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	100.00	131	0	0	1	131	1	131	2e-97	 270
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	56.10	123	54	0	9	131	5	127	9e-52	 153
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	56.10	123	54	0	9	131	4	126	5e-50	 148
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	51.24	121	59	0	11	131	7	127	3e-44	 134
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	48.76	121	62	0	11	131	6	126	2e-43	 132
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	49.58	119	60	0	13	131	7	125	1e-41	 127
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	52.17	115	55	0	13	127	13	127	1e-40	 124
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	51.72	116	56	0	12	127	32	147	2e-39	 122
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	47.46	118	62	0	12	129	8	125	2e-37	 116
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	45.30	117	64	0	15	131	10	126	3e-35	 110
+NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	41.18	119	70	0	13	131	8	126	7e-33	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	100.00	126	0	0	1	126	1	126	3e-94	 261
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	52.89	121	57	0	6	126	5	125	2e-47	 142
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	49.21	126	64	0	1	126	1	126	2e-46	 139
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	51.26	119	58	0	8	126	8	126	2e-42	 129
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	45.00	120	66	0	7	126	8	127	4e-37	 115
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	46.09	115	62	0	8	122	9	123	6e-35	 110
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	42.02	119	69	0	8	126	9	127	7e-35	 109
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	41.18	119	70	0	8	126	13	131	7e-33	 104
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	40.16	122	70	1	8	126	13	134	2e-32	 103
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	38.66	119	73	0	8	126	8	126	5e-29	94.7
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	38.46	117	72	0	8	124	33	149	5e-28	92.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	100.00	126	0	0	1	126	1	126	8e-94	 259
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	49.21	126	64	0	1	126	1	126	2e-46	 139
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	49.21	126	64	0	1	126	1	126	2e-43	 132
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	52.03	123	57	1	6	126	3	125	4e-43	 130
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	51.67	120	58	0	7	126	8	127	1e-41	 127
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	49.17	120	61	0	3	122	8	127	2e-39	 121
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	47.90	119	62	0	8	126	9	127	5e-38	 117
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	45.30	117	64	0	10	126	15	131	3e-35	 110
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	41.18	119	70	0	8	126	8	126	4e-35	 110
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	43.80	121	68	0	3	123	4	124	7e-35	 109
+NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	43.80	121	68	0	3	123	28	148	5e-32	 102
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/apaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	100.00	134	0	0	1	134	1	134	4e-100	 276
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_002678|Mesorhizobium_loti_MAFF303099|mll5649|apaG|4540168|4540561|-1|Protein|NONE|62.1	53.08	130	61	0	5	134	1	130	9e-50	 148
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_002696|Caulobacter_crescentus_CB15|CC_2239|apaG|2438719|2439184|1|Protein|NONE|68.2	50.76	132	65	0	3	134	23	154	4e-43	 132
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2183|apaG|2355426|2355807|1|Protein|NONE|65.4	50.41	123	58	1	12	134	7	126	3e-41	 126
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_002928|Bordetella_parapertussis_12822|BPP4153|apaG|4488386|4488782|-1|Protein|NONE|63.4	52.17	115	55	0	13	127	13	127	1e-40	 124
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1573|apaG|1706971|1707355|-1|Protein|NONE|52.1	50.00	122	58	1	13	134	9	127	8e-40	 122
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3640|apaG|3799517|3799898|1|Protein|NONE|47.0	49.17	120	61	0	8	127	3	122	2e-39	 121
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0050|apaG|51228|51606|-1|Protein|corD:ECK0051:JW0049:temP|51.9	46.55	116	62	0	12	127	6	121	5e-38	 118
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3441|apaG|4091828|4092212|1|Protein|NONE|64.8	49.14	116	59	0	12	127	8	123	4e-37	 115
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0550|apaG|604170|604551|-1|Protein|NONE|57.7	43.10	116	66	0	12	127	7	122	9e-35	 109
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1101|apaG|1214697|1215102|-1|Protein|NONE|64.7	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP0335|apaG|328138|328519|-1|Protein|NONE|44.1	40.16	122	70	1	13	134	8	126	2e-32	 103

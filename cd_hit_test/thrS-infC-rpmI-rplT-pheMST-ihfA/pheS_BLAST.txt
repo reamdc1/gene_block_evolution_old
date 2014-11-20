@@ -1,0 +1,96 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	100.00	329	0	0	1	329	1	329	0.0	 642
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	55.02	329	146	1	1	327	1	329	6e-135	 381
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	51.38	327	152	1	7	326	9	335	3e-116	 333
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	49.04	314	151	2	23	327	23	336	4e-115	 331
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	46.45	338	169	3	1	326	7	344	7e-109	 315
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	42.23	341	181	4	2	326	3	343	7e-95	 279
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	39.72	355	187	6	1	328	1	355	1e-91	 272
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	43.24	333	169	7	9	326	6	333	7e-85	 253
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	100.00	369	0	0	1	369	1	369	0.0	 764
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	50.56	354	157	6	1	354	1	336	1e-117	 338
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	45.20	354	177	4	1	353	7	344	5e-110	 320
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	47.13	331	148	5	23	353	25	328	6e-110	 319
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	45.33	353	180	4	3	354	4	344	1e-107	 314
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	39.72	355	187	6	1	355	1	328	2e-95	 281
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	39.16	332	182	6	22	353	24	335	3e-91	 271
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	40.17	356	179	9	1	353	9	333	2e-85	 256
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	100.00	345	0	0	1	345	1	345	0.0	 714
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	55.56	351	130	4	9	344	4	343	2e-138	 391
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	53.53	340	144	4	7	344	1	328	2e-129	 368
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	56.88	320	125	3	30	344	24	335	6e-128	 364
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	46.45	338	169	3	7	344	1	326	3e-112	 324
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	47.46	335	171	2	10	344	6	335	2e-111	 322
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	45.20	354	177	4	7	344	1	353	5e-110	 320
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	48.31	325	162	3	22	344	13	333	2e-105	 306
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	100.00	335	0	0	1	335	1	335	0.0	 660
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	47.89	332	164	2	6	335	4	328	2e-119	 342
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	50.76	327	154	1	9	335	7	326	2e-118	 339
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	44.44	324	164	4	21	335	19	335	3e-109	 316
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	46.87	335	173	2	6	335	10	344	1e-108	 315
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	40.63	347	181	5	6	335	5	343	5e-93	 275
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	38.86	332	183	5	24	335	22	353	2e-90	 269
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	39.08	325	189	4	17	335	12	333	7e-84	 251
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	100.00	336	0	0	1	336	1	336	0.0	 664
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	56.73	312	126	2	24	335	26	328	5e-134	 379
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	56.88	320	125	3	24	335	30	344	5e-128	 364
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	56.00	325	126	5	24	336	25	344	4e-126	 359
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	49.04	314	151	2	23	336	23	327	3e-119	 341
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	50.56	354	157	6	1	336	1	354	1e-117	 338
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	44.55	321	168	3	19	335	21	335	8e-111	 320
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	45.82	323	158	5	22	335	19	333	3e-95	 280
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	100.00	333	0	0	1	333	1	333	0.0	 657
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	48.31	325	162	3	13	333	22	344	7e-101	 295
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	46.13	323	158	5	14	333	19	328	1e-92	 273
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	45.82	323	158	5	19	333	22	335	1e-91	 271
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	43.24	333	169	7	6	333	9	326	2e-86	 257
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	40.17	356	179	9	9	333	1	353	4e-82	 248
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	39.38	325	188	4	12	333	17	335	1e-81	 245
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	39.89	356	178	10	1	333	1	343	2e-76	 232
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	100.00	329	0	0	1	329	1	329	0.0	 684
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	55.02	329	146	1	1	329	1	327	1e-138	 390
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	56.73	312	126	2	26	328	24	335	5e-134	 379
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	53.53	340	144	4	1	328	7	344	2e-129	 368
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	48.19	332	163	2	4	328	6	335	1e-121	 347
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	48.97	341	156	5	4	328	5	343	8e-117	 335
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	47.13	331	148	5	25	328	23	353	5e-110	 319
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	46.13	323	158	5	19	328	14	333	6e-96	 281
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/pheS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	100.00	344	0	0	1	344	1	344	0.0	 683
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0954|pheS|1039821|1040859|-1|Protein|NONE|44.8	55.56	351	130	4	4	343	9	344	1e-133	 379
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1654|pheS|1988938|1989949|1|Protein|NONE|64.1	56.00	325	126	5	25	344	24	336	3e-122	 350
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1311|pheS|1388299|1389289|1|Protein|NONE|39.0	48.97	341	156	5	5	343	4	328	2e-114	 329
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2182|pheS|2062642|2063752|1|Protein|NONE|59.2	45.33	353	180	4	4	344	3	354	9e-104	 303
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_127|pheS|133825|134815|1|Protein|NONE|25.6	42.11	342	182	4	3	344	2	327	5e-97	 285
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl355|pheS|391285|392293|1|Protein|NONE|25.2	40.63	347	181	5	5	343	6	335	6e-91	 270
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1581|pheS|1695886|1696921|1|Protein|NONE|64.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0028|pheS|33205|34207|-1|Protein|NONE|37.0	39.89	356	178	10	1	343	1	333	8e-79	 238

@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3
+# Database: cd_hit_test_2/leuLABCD/leuC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	100.00	466	0	0	1	466	1	466	0.0	 951
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	55.25	467	203	3	3	463	4	470	0.0	 531
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	52.58	466	221	0	1	466	3	468	0.0	 527
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	44.34	442	243	2	3	444	15	453	4e-129	 377
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	30.77	442	249	10	1	437	1	390	3e-59	 192
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9
+# Database: cd_hit_test_2/leuLABCD/leuC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	100.00	420	0	0	1	420	1	420	0.0	 867
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	30.77	442	249	10	1	390	1	437	3e-59	 192
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	31.05	467	260	13	1	413	3	461	6e-58	 189
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	28.47	439	256	9	29	411	28	464	8e-50	 167
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	29.12	419	245	9	21	390	31	446	5e-47	 159
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7
+# Database: cd_hit_test_2/leuLABCD/leuC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	100.00	470	0	0	1	470	1	470	0.0	 976
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	52.58	466	221	0	3	468	1	466	0.0	 527
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	51.16	473	225	3	4	470	3	475	3e-173	 490
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	43.89	442	245	2	5	446	15	453	1e-130	 381
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	31.05	467	260	13	3	461	1	413	6e-58	 189
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6
+# Database: cd_hit_test_2/leuLABCD/leuC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	100.00	479	0	0	1	479	1	479	0.0	 941
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	55.25	467	203	3	4	470	3	463	0.0	 513
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	51.16	473	225	3	3	475	4	470	4e-166	 472
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	48.61	469	232	4	4	472	15	474	9e-131	 381
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	28.47	439	256	9	28	464	29	411	1e-45	 155
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7
+# Database: cd_hit_test_2/leuLABCD/leuC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	100.00	459	0	0	17	475	17	475	0.0	 698
+NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl131|leuC|149983|151384|-1|Protein|NONE|32.3	44.55	440	241	2	17	453	5	444	2e-105	 315
+NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3458|leuC|4080185|4081625|-1|Protein|NONE|65.6	49.04	467	229	4	17	474	6	472	4e-105	 315
+NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1717c|leuC|1627920|1629333|-1|Protein|NONE|35.7	43.86	440	244	2	17	453	7	446	4e-105	 315
+NC_002927|Bordetella_bronchiseptica_RB50|BB2817|leuC|2979511|2980939|1|Protein|NONE|74.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1136|leuC|1103369|1104632|-1|Protein|NONE|39.9	31.09	341	193	6	107	446	91	390	1e-34	 123

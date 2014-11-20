@@ -1,0 +1,60 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	100.00	433	0	0	1	433	1	433	0.0	 902
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	59.00	422	166	5	12	431	3	419	0.0	 520
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	58.54	410	168	2	19	427	10	418	2e-176	 494
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	54.88	410	183	2	8	416	5	413	1e-169	 479
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	47.80	410	209	5	19	425	22	429	4e-147	 421
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	44.97	398	215	4	23	420	4	397	2e-125	 364
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	100.00	421	0	0	1	421	1	421	0.0	 870
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	58.54	410	168	2	10	418	19	427	2e-176	 494
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	58.00	419	167	5	1	416	1	413	2e-172	 484
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	57.92	404	170	0	4	407	10	413	2e-170	 481
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	50.00	412	203	3	10	419	22	432	1e-153	 437
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	43.61	399	221	4	15	413	5	399	8e-114	 333
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	100.00	476	0	0	1	476	1	476	0.0	 858
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	58.67	392	162	0	16	407	10	401	1e-162	 461
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	55.31	405	179	2	5	408	8	411	2e-161	 459
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	53.69	393	180	2	16	407	22	413	1e-154	 442
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	53.79	396	177	3	15	409	9	399	3e-145	 417
+NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	46.27	389	205	4	20	408	4	388	5e-112	 331
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	100.00	405	0	0	1	405	1	405	0.0	 838
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	44.97	398	215	4	4	397	23	420	2e-125	 364
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	46.33	395	206	5	4	393	20	413	1e-116	 343
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	43.00	407	222	7	6	405	16	419	9e-116	 338
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	43.61	399	221	4	5	399	15	413	8e-114	 333
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	38.29	397	241	4	5	397	27	423	4e-102	 304
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	100.00	430	0	0	1	430	1	430	0.0	 899
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	53.38	399	184	2	22	419	16	413	7e-162	 460
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	50.12	409	201	3	22	429	10	416	2e-153	 436
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	47.80	410	209	5	22	429	19	425	3e-147	 421
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	47.33	412	207	7	21	429	9	413	6e-138	 397
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	38.29	397	241	4	27	423	5	397	3e-102	 304
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5
+# Database: cd_hit_test_2/glgBXCAP/glgC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	100.00	420	0	0	1	420	1	420	0.0	 817
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2030|glgC|2192467|2193769|1|Protein|NONE|52.4	59.00	422	166	5	3	419	12	431	8e-168	 473
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7588|glgC|6275448|6276714|1|Protein|NONE|61.8	58.00	419	167	5	1	413	1	416	3e-156	 442
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_003143|Yersinia_pestis_CO92|YPO3940|glgC|4426957|4428388|-1|Protein|NONE|48.7	53.87	401	178	4	9	404	15	413	9e-139	 400
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1359|glgC|1441039|1442374|1|Protein|NONE|40.5	47.02	419	212	7	9	420	21	436	3e-125	 364
+NC_004347|Shewanella_oneidensis_MR-1|SO_1498|glgC|1567398|1568661|1|Protein|NONE|48.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2131|glgC|2132407|2133625|1|Protein|NONE|45.6	43.00	407	222	7	16	419	6	405	4e-106	 313

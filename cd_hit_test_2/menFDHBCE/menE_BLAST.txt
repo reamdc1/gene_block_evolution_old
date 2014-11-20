@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7
+# Database: cd_hit_test_2/menFDHBCE/menE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	100.00	471	0	0	1	471	1	471	0.0	 916
+NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	57.24	449	186	3	12	459	6	449	6e-169	 478
+NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	47.61	460	224	8	12	455	2	460	2e-124	 365
+NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	42.06	466	249	8	14	462	13	474	3e-103	 310
+NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	34.19	468	276	10	8	453	17	474	8e-76	 239
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3
+# Database: cd_hit_test_2/menFDHBCE/menE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	100.00	476	0	0	1	476	1	476	0.0	 984
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	42.06	466	249	8	13	474	14	462	4e-103	 310
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	38.04	460	266	4	13	471	8	449	2e-99	 300
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	38.11	454	258	7	33	475	27	468	2e-86	 266
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	31.97	463	282	9	21	467	31	476	1e-67	 217
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3
+# Database: cd_hit_test_2/menFDHBCE/menE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	100.00	455	0	0	1	455	1	455	0.0	 922
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	57.24	449	186	3	6	449	12	459	5e-169	 478
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	42.76	463	240	8	6	446	2	461	3e-112	 333
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	38.04	460	266	4	8	449	13	471	2e-99	 300
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	32.73	443	280	7	20	445	35	476	1e-78	 246
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1
+# Database: cd_hit_test_2/menFDHBCE/menE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	100.00	472	0	0	1	472	1	472	0.0	 885
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	47.61	460	224	8	2	460	12	455	2e-113	 337
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	42.86	462	241	8	2	461	6	446	9e-102	 306
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	37.67	454	260	7	27	468	33	475	1e-76	 241
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	34.80	454	273	8	23	464	39	481	4e-66	 213
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7
+# Database: cd_hit_test_2/menFDHBCE/menE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	100.00	481	0	0	1	481	1	481	0.0	 986
+NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2535|menE|2369263|2370631|-1|Protein|NONE|60.3	32.73	443	280	7	35	476	20	445	1e-78	 246
+NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0357|menE|416286|417705|1|Protein|NONE|43.1	35.24	454	271	10	39	481	23	464	3e-76	 239
+NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	NC_003143|Yersinia_pestis_CO92|YPO2523|menE|2831892|2833308|-1|Protein|NONE|57.7	34.19	468	276	10	17	474	8	453	8e-76	 239
+NC_004347|Shewanella_oneidensis_MR-1|SO_4576|menE|4770700|4772146|1|Protein|NONE|48.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3168|menE|3241349|3242780|-1|Protein|NONE|50.3	31.97	463	282	9	31	476	21	467	1e-67	 217

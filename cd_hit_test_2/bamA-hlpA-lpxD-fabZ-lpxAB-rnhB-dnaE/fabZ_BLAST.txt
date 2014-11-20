@@ -1,0 +1,221 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	100.00	151	0	0	1	151	1	151	7e-108	 298
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	48.98	147	75	0	1	147	1	147	6e-60	 177
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	46.48	142	76	0	7	148	7	148	2e-50	 151
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	45.32	139	75	1	9	146	16	154	3e-46	 141
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	44.97	149	78	3	5	150	16	163	3e-42	 131
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	43.54	147	79	2	8	150	19	165	1e-41	 129
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	44.83	145	79	1	5	148	7	151	2e-40	 126
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	42.47	146	72	3	8	146	16	156	1e-37	 119
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	36.96	138	82	2	9	144	13	147	8e-36	 114
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	38.97	136	83	0	8	143	12	147	2e-35	 113
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	35.25	139	86	2	8	143	2	139	2e-34	 110
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	37.41	147	81	2	8	143	13	159	3e-34	 110
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	23.77	122	89	2	23	143	6	124	6e-14	55.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	100.00	157	0	0	1	157	1	157	9e-117	 321
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	49.34	152	76	1	1	151	1	152	4e-54	 161
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	49.30	142	69	2	10	148	17	158	4e-46	 141
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	45.52	145	74	2	1	144	1	141	1e-44	 138
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	47.97	148	72	1	13	155	20	167	8e-44	 135
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	45.93	135	72	1	13	146	9	143	9e-43	 132
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	47.52	141	71	1	13	150	3	143	1e-41	 129
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	41.43	140	80	1	13	150	16	155	2e-40	 127
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	44.90	147	72	3	4	146	5	146	3e-40	 126
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	41.67	156	79	2	13	156	14	169	1e-39	 124
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	44.83	145	76	4	6	146	9	153	5e-38	 120
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	36.96	138	82	2	13	147	9	144	8e-36	 114
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	34.88	86	53	2	27	111	6	89	1e-13	54.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	100.00	153	0	0	1	153	1	153	4e-107	 296
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	55.63	142	63	0	10	151	15	156	1e-53	 160
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	56.29	151	63	2	6	153	15	165	2e-53	 159
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	52.32	151	71	1	4	153	13	163	8e-52	 155
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	56.94	144	61	1	10	153	8	150	1e-51	 154
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	48.94	141	71	1	9	149	7	146	2e-49	 150
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	44.83	145	79	1	7	151	5	148	2e-40	 126
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	44.90	147	72	3	5	146	4	146	2e-40	 126
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	48.59	142	72	1	10	150	16	157	3e-40	 125
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	42.86	154	77	3	3	146	7	159	4e-36	 115
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	40.29	139	82	1	9	146	1	139	2e-34	 110
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	43.17	139	76	2	9	146	11	147	2e-34	 110
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	28.10	121	82	2	27	146	8	124	8e-10	43.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	100.00	150	0	0	1	150	1	150	2e-111	 307
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	60.42	144	56	1	7	149	14	157	3e-61	 179
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	52.35	149	71	0	1	149	1	149	5e-57	 169
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	55.86	145	62	2	8	150	19	163	7e-55	 163
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	52.35	149	67	1	6	150	17	165	5e-53	 159
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	56.94	144	61	1	8	150	10	153	1e-51	 154
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	46.48	142	76	0	7	148	7	148	2e-50	 151
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	52.45	143	66	2	6	146	14	156	1e-47	 144
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	45.93	135	72	1	9	143	13	146	9e-43	 132
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	46.26	147	68	3	8	143	13	159	1e-40	 127
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	40.58	138	80	1	8	143	2	139	1e-39	 124
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	38.97	136	83	0	8	143	12	147	6e-37	 117
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	29.51	122	82	2	23	143	6	124	5e-15	58.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	100.00	156	0	0	1	156	1	156	2e-115	 319
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	48.98	147	75	0	1	147	1	147	5e-60	 177
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	52.35	149	71	0	1	149	1	149	6e-57	 169
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	54.86	144	63	2	5	146	16	159	1e-53	 161
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	50.68	146	71	1	2	146	9	154	1e-53	 161
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	48.94	141	71	1	7	146	9	149	2e-49	 150
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	51.75	143	65	2	8	146	19	161	2e-48	 148
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	45.52	145	74	2	1	141	1	144	1e-44	 138
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	45.45	154	77	3	3	149	6	159	3e-43	 135
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	45.65	138	73	2	8	143	2	139	4e-41	 129
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	44.03	134	75	0	8	141	12	145	1e-40	 127
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	40.40	151	79	2	4	143	9	159	6e-37	 119
+NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	33.33	126	72	5	23	143	6	124	6e-16	61.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	100.00	159	0	0	1	159	1	159	8e-116	 318
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	34.38	128	72	4	6	125	17	140	2e-19	70.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	31.71	123	80	1	6	124	34	156	3e-19	70.5
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	35.71	98	59	2	6	99	31	128	3e-18	67.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	30.08	123	75	3	8	120	32	153	2e-16	62.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	33.33	126	72	5	6	124	23	143	6e-16	61.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	38.39	112	60	4	22	125	50	160	2e-15	59.7
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	29.51	122	82	2	6	124	23	143	6e-15	58.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	30.95	126	75	3	8	124	36	158	9e-15	57.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	23.77	122	89	2	6	124	23	143	6e-14	55.1
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	34.88	86	53	2	6	89	27	111	1e-13	54.3
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	30.34	89	58	2	8	93	29	116	1e-12	51.6
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	28.10	121	82	2	8	124	27	146	9e-10	43.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	100.00	160	0	0	1	160	1	160	6e-110	 304
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	50.66	152	74	1	5	156	4	154	3e-47	 144
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	51.75	143	67	2	14	156	6	146	8e-46	 140
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	49.65	141	71	0	16	156	19	159	6e-44	 135
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	49.66	147	70	2	13	156	16	161	2e-43	 134
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	45.45	154	77	3	6	159	3	149	5e-42	 131
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	48.59	142	72	1	16	157	10	150	1e-39	 124
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	43.88	139	76	2	16	153	2	139	3e-37	 118
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	42.55	141	79	2	16	156	8	146	3e-36	 115
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	42.66	143	79	3	11	153	8	147	8e-36	 114
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	43.79	153	79	4	1	153	1	146	2e-35	 114
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	36.73	147	84	2	16	153	13	159	1e-28	96.3
+NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	31.63	98	63	1	31	128	6	99	3e-16	62.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	100.00	167	0	0	1	167	1	167	3e-126	 346
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	54.11	146	64	1	18	163	14	156	6e-55	 164
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	56.29	151	63	2	15	165	6	153	3e-53	 159
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	52.35	149	67	1	17	165	6	150	6e-53	 159
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	54.73	148	63	3	19	165	19	163	2e-50	 153
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	51.75	143	65	2	19	161	8	146	3e-48	 147
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	50.68	148	67	3	16	161	13	156	5e-44	 136
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	47.97	148	72	1	20	167	13	155	9e-44	 135
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	43.75	144	79	1	19	162	2	143	9e-42	 130
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	43.54	147	79	2	19	165	8	150	1e-41	 129
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	41.03	156	85	1	19	167	13	168	2e-39	 124
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	44.29	140	74	1	19	158	12	147	5e-39	 123
+NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	30.95	126	75	3	36	158	8	124	1e-14	57.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	100.00	169	0	0	1	169	1	169	1e-126	 347
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	51.30	154	66	2	12	165	1	145	8e-54	 160
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	47.33	150	70	3	12	161	18	158	2e-43	 134
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	42.86	154	78	2	14	167	16	159	7e-43	 133
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	42.21	154	78	2	12	165	11	153	8e-43	 132
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	46.26	147	68	3	13	159	8	143	1e-40	 127
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	41.67	156	79	2	14	169	13	156	1e-39	 124
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	41.03	156	85	1	13	168	19	167	2e-39	 124
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	40.40	151	79	2	9	159	4	143	7e-37	 118
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	42.86	154	77	3	7	159	3	146	4e-36	 115
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	37.41	147	81	2	13	159	8	143	3e-34	 110
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	36.73	147	84	2	13	159	16	153	1e-29	99.0
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	38.39	112	60	4	50	160	22	125	2e-15	59.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	100.00	146	0	0	1	146	1	146	5e-108	 298
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	51.30	154	66	2	1	145	12	165	7e-54	 160
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	43.45	145	80	1	1	145	11	153	2e-46	 141
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	46.48	142	74	2	1	141	18	158	8e-45	 137
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	43.75	144	79	1	2	143	19	162	8e-42	 130
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	47.52	141	71	1	3	143	13	150	1e-41	 129
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	45.65	138	73	2	2	139	8	143	3e-41	 129
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	40.43	141	83	1	3	143	16	155	5e-40	 125
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	40.58	138	80	1	2	139	8	143	1e-39	 124
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	43.88	139	76	2	2	139	16	153	5e-38	 120
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	40.29	139	82	1	1	139	9	146	2e-34	 110
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	35.25	139	86	2	2	139	8	143	2e-34	 110
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	34.38	128	72	4	17	140	6	125	2e-19	70.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	100.00	164	0	0	1	164	1	164	1e-104	 290
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	60.42	144	56	1	14	157	7	149	2e-46	 142
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	55.63	142	63	0	15	156	10	151	5e-45	 138
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	54.11	146	64	1	14	156	18	163	3e-42	 132
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	50.68	146	71	1	9	154	2	146	1e-41	 130
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	53.52	142	65	1	16	156	20	161	8e-40	 125
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	50.33	153	75	1	3	154	4	156	1e-37	 119
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	48.00	125	64	1	16	140	9	132	7e-35	 112
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	44.27	131	63	2	15	135	13	143	3e-31	 103
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	41.94	124	70	1	16	139	13	134	1e-29	99.0
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	40.65	123	72	1	15	136	2	124	3e-28	94.7
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	43.70	135	72	2	1	135	1	131	3e-27	92.0
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	33.66	101	62	2	32	131	8	104	1e-10	46.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	100.00	163	0	0	1	163	1	163	1e-123	 338
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	55.86	145	62	2	19	163	8	150	8e-55	 163
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	54.86	144	63	2	16	159	5	146	1e-53	 161
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	52.32	151	71	1	13	163	4	153	8e-52	 155
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	53.52	142	65	1	20	161	16	156	1e-51	 155
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	54.73	148	63	3	19	163	19	165	1e-50	 153
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	49.30	142	69	2	17	158	10	148	4e-46	 141
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	49.65	141	71	0	19	159	16	156	1e-45	 140
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	46.48	142	74	2	18	158	1	141	9e-45	 137
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	47.33	150	70	3	18	158	12	161	2e-43	 134
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	44.97	149	78	3	16	163	5	150	3e-42	 131
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	44.29	140	76	2	17	156	10	147	2e-41	 129
+NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	31.71	123	80	1	34	156	6	124	3e-19	70.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7
+# Database: cd_hit_test_2/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/fabZ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	100.00	153	0	0	1	153	1	153	4e-116	 319
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1196|fabZ|1150975|1151449|-1|Protein|NONE|54.0	49.34	152	76	1	1	152	1	151	4e-54	 161
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0273|fabZ|250589|251030|1|Protein|NONE|34.2	43.45	145	80	1	11	153	1	145	2e-46	 141
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1181|fabZ|1146481|1146991|1|Protein|NONE|34.7	42.21	154	78	2	11	153	12	165	8e-43	 132
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_002947|Pseudomonas_putida_KT2440|PP_1602|fabZ|1796807|1797299|1|Protein|NONE|57.3	44.29	140	76	2	10	147	17	156	2e-41	 129
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_003143|Yersinia_pestis_CO92|YPO1055|fabZ|1197597|1198143|1|Protein|sefA|47.1	44.03	134	75	0	12	145	8	141	1e-40	 127
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1415|fabZ|1515641|1516136|1|Protein|NONE|62.0	43.05	151	82	2	1	147	1	151	3e-39	 123
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_002928|Bordetella_parapertussis_12822|BPP1538|fabZ|1646433|1646937|1|Protein|sefA|60.7	44.29	140	74	1	12	147	19	158	4e-39	 123
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2207|fabZ|2378582|2379035|1|Protein|NONE|63.1	38.97	136	83	0	12	147	8	143	6e-37	 117
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_002488|Xylella_fastidiosa_9a5c|XF1044|fabZ|1002886|1003369|-1|Protein|NONE|49.1	41.96	143	80	3	8	147	11	153	1e-36	 116
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_233|fabZ|263512|263968|1|Protein|NONE|21.7	38.97	136	83	0	12	147	8	143	2e-35	 113
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1708|fabZ|1843067|1843529|-1|Protein|NONE|50.0	43.17	139	76	2	11	147	9	146	2e-34	 110
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4851|fabZ|5374489|5374951|-1|Protein|NONE|61.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1599|fabZ|1581006|1581486|-1|Protein|NONE|59.6	30.34	89	58	2	29	116	8	93	9e-13	51.6

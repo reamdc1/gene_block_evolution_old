@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_3170|menB|3243908|3244787|-1|Protein|NONE|49.4
+# Database: cd_hit_test/menFDHBCE/menB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3170|menB|3243908|3244787|-1|Protein|NONE|49.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3170|menB|3243908|3244787|-1|Protein|NONE|49.4	100.00	292	0	0	1	292	1	292	0.0	 613
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3170|menB|3243908|3244787|-1|Protein|NONE|49.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4739|menB|4950021|4950924|1|Protein|NONE|48.5	47.60	292	137	5	14	289	6	297	3e-85	 250
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4739|menB|4950021|4950924|1|Protein|NONE|48.5
+# Database: cd_hit_test/menFDHBCE/menB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4739|menB|4950021|4950924|1|Protein|NONE|48.5	NC_004347|Shewanella_oneidensis_MR-1|SO_4739|menB|4950021|4950924|1|Protein|NONE|48.5	100.00	300	0	0	1	300	1	300	0.0	 629
+NC_004347|Shewanella_oneidensis_MR-1|SO_4739|menB|4950021|4950924|1|Protein|NONE|48.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3170|menB|3243908|3244787|-1|Protein|NONE|49.4	47.60	292	137	5	6	297	14	289	4e-85	 250

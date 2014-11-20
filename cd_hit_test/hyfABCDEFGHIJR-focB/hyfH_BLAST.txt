@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2488|hyfH|2608185|2608731|1|Protein|ECK2484:JW2473|54.9
+# Database: cd_hit_test/hyfABCDEFGHIJR-focB/hyfH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2488|hyfH|2608185|2608731|1|Protein|ECK2484:JW2473|54.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2488|hyfH|2608185|2608731|1|Protein|ECK2484:JW2473|54.9	100.00	181	0	0	1	181	1	181	4e-113	 311

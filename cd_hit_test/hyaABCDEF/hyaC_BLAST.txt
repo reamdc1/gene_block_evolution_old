@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3
+# Database: cd_hit_test/hyaABCDEF/hyaC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	100.00	243	0	0	1	243	1	243	0.0	 498
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	21.40	229	162	5	14	237	5	220	5e-16	62.4
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	21.76	239	153	5	19	230	16	247	8e-14	56.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0
+# Database: cd_hit_test/hyaABCDEF/hyaC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	100.00	254	0	0	1	254	1	254	0.0	 522
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	42.61	230	107	4	19	248	13	217	8e-63	 188
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	21.76	239	153	5	16	247	19	230	8e-14	56.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4
+# Database: cd_hit_test/hyaABCDEF/hyaC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	100.00	224	0	0	1	224	1	224	2e-167	 454
+NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0058|hyaC|63554|64319|1|Protein|NONE|35.0	42.61	230	107	4	13	217	19	248	7e-63	 188
+NC_004347|Shewanella_oneidensis_MR-1|SO_2097|hyaC|2194469|2195144|-1|Protein|NONE|46.4	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1915|hyaC|1809356|1810088|1|Protein|NONE|55.3	21.40	229	162	5	5	220	14	237	5e-16	62.4

@@ -1,0 +1,140 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	100.00	302	0	0	1	302	1	302	6e-176	 484
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	54.69	309	139	1	4	311	3	311	6e-92	 270
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	55.41	296	132	0	3	298	4	299	3e-90	 266
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	51.16	301	133	3	6	298	4	298	2e-82	 246
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	53.25	308	143	1	4	311	2	308	2e-78	 235
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	44.76	286	156	1	5	288	8	293	4e-71	 217
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	56.49	285	123	1	4	288	2	285	3e-59	 186
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	44.15	299	164	1	5	300	20	318	7e-52	 167
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	36.97	284	176	3	6	288	4	285	1e-40	 136
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	34.04	285	182	6	6	288	4	284	1e-32	 114
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	100.00	312	0	0	1	312	1	312	0.0	 640
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	54.02	311	140	1	1	311	1	308	4e-120	 342
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	51.48	305	143	3	2	304	3	304	6e-102	 296
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	51.69	296	139	2	4	298	6	298	2e-99	 289
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	49.32	292	144	2	4	294	7	295	3e-98	 286
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	52.63	304	141	1	1	304	1	301	4e-92	 270
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	42.68	314	170	4	4	311	9	318	6e-92	 270
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	41.27	315	178	3	1	311	18	329	2e-72	 220
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	35.02	317	192	6	1	312	1	308	2e-56	 178
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	34.39	314	192	10	1	308	1	306	2e-50	 162
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	100.00	292	0	0	1	292	1	292	0.0	 506
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	54.42	294	131	1	1	291	1	294	6e-97	 283
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	56.36	291	125	2	3	291	4	294	1e-88	 261
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	50.70	286	140	1	3	287	6	291	3e-80	 240
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	55.79	285	125	1	2	285	4	288	4e-75	 227
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	59.66	290	117	0	1	290	1	290	4e-69	 211
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	40.56	286	167	2	3	285	8	293	2e-67	 207
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	45.92	294	155	2	1	290	18	311	2e-50	 163
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	37.46	291	172	6	1	286	1	286	4e-47	 154
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	33.22	292	182	8	1	286	1	285	4e-32	 112
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	100.00	331	0	0	1	331	1	331	0.0	 602
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	41.27	315	178	3	18	329	1	311	1e-68	 211
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	44.77	306	165	2	18	323	1	302	7e-63	 196
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	44.74	304	166	1	20	323	4	305	8e-63	 196
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	42.90	303	168	2	20	321	6	304	8e-62	 193
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	44.15	299	164	1	20	318	5	300	7e-60	 188
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	46.18	314	165	2	18	331	1	310	3e-56	 178
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	32.58	310	199	4	20	325	8	311	2e-42	 142
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	31.16	292	193	7	18	307	1	286	2e-34	 120
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	30.87	311	205	8	18	326	1	303	1e-33	 117
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	100.00	321	0	0	1	321	1	321	0.0	 658
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	49.67	306	149	3	8	312	4	305	1e-102	 298
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	42.68	314	170	4	9	318	4	311	7e-92	 270
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	42.31	286	163	1	8	293	6	289	4e-86	 255
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	44.76	286	156	1	8	293	5	288	6e-84	 250
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	39.10	312	185	3	8	319	3	309	4e-83	 248
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	41.72	314	178	4	8	321	3	311	4e-68	 209
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	32.27	313	196	6	8	311	20	325	6e-45	 149
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	30.42	309	207	7	9	315	4	306	9e-44	 145
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	28.62	311	213	4	8	318	3	304	2e-43	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	100.00	311	0	0	1	311	1	311	2e-127	 360
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	49.34	304	151	1	1	301	1	304	2e-60	 189
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	59.54	304	123	0	1	304	1	304	6e-60	 187
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	55.26	304	134	2	2	303	3	306	2e-54	 173
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	49.67	306	153	1	3	307	6	311	1e-45	 150
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	56.49	285	123	1	3	286	5	289	2e-42	 141
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	38.85	314	187	4	3	311	8	321	1e-39	 134
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	45.86	314	166	2	1	310	18	331	8e-33	 115
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	31.94	310	206	5	1	308	1	307	9e-20	77.4
+NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	37.88	66	39	2	1	65	1	65	5e-06	36.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	100.00	311	0	0	1	311	1	311	0.0	 613
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	50.17	303	148	3	1	302	1	301	4e-92	 270
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	35.02	317	192	6	1	308	1	312	3e-51	 164
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	37.80	291	171	6	1	286	1	286	6e-50	 161
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	36.08	291	176	6	2	286	3	289	2e-47	 155
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	38.01	292	162	7	4	285	6	288	6e-43	 142
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	28.62	311	213	4	3	304	8	318	2e-39	 133
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	29.47	285	198	3	4	286	7	290	3e-34	 119
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	31.27	291	194	5	1	286	18	307	1e-32	 114
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	32.26	310	205	5	1	307	1	308	4e-32	 113
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	100.00	312	0	0	1	312	1	312	0.0	 593
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	55.02	309	137	2	4	312	3	309	1e-109	 315
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	55.52	299	132	1	3	301	4	301	2e-104	 302
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	51.48	305	143	3	3	304	2	304	2e-98	 286
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	49.67	306	149	3	4	305	8	312	1e-96	 283
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	51.71	292	140	1	4	295	6	296	1e-94	 277
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	55.26	304	134	2	3	306	2	303	2e-82	 245
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	44.74	304	166	1	4	305	20	323	2e-66	 205
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	36.08	291	176	6	3	289	2	286	8e-52	 166
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	36.36	308	187	6	5	311	4	303	1e-51	 165
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	100.00	306	0	0	1	306	1	306	0.0	 592
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	50.17	303	148	3	1	301	1	302	1e-96	 282
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	36.36	308	187	6	4	303	5	311	5e-55	 174
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	34.39	314	192	10	1	306	1	308	7e-49	 158
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	30.42	309	207	7	4	306	9	315	7e-43	 142
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	32.06	287	187	7	4	285	7	290	2e-42	 141
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	34.74	285	180	6	4	284	6	288	2e-41	 138
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	33.90	292	180	8	1	285	1	286	3e-40	 135
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	30.87	311	205	8	1	303	18	326	2e-34	 119
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	32.37	312	201	9	1	306	1	308	1e-25	93.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8
+# Database: cd_hit_test_2/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	100.00	314	0	0	1	314	1	314	0.0	 594
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2968|fabD|3326144|3327083|-1|Protein|NONE|69.0	55.41	296	132	0	4	299	3	298	2e-96	 281
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3415|fabD|3708384|3709314|-1|Protein|NONE|68.9	50.70	286	140	1	6	291	3	287	9e-90	 265
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1647|fabD|1778955|1779894|1|Protein|NONE|50.8	49.32	292	144	2	7	295	4	294	1e-89	 265
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0156|fabD|172160|173099|-1|Protein|NONE|41.9	50.50	301	148	1	6	305	4	304	1e-88	 262
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl405|fabD|445712|446678|-1|Protein|NONE|30.7	42.31	286	163	1	6	289	8	293	2e-77	 233
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_002928|Bordetella_parapertussis_12822|BPP3306|fabD|3563458|3564394|-1|Protein|NONE|71.6	49.67	306	153	1	6	311	3	307	2e-65	 201
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1094|fabD|1083982|1084978|1|Protein|NONE|62.4	42.90	303	168	2	6	304	20	321	9e-58	 182
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0116|fabD|120762|121683|1|Protein|NONE|33.7	32.06	287	187	7	7	290	4	285	5e-39	 132
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1126|fabD|1276382|1277327|1|Protein|NONE|69.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1282|fabD|1243744|1244680|1|Protein|NONE|37.8	29.47	285	198	3	7	290	4	286	5e-34	 118

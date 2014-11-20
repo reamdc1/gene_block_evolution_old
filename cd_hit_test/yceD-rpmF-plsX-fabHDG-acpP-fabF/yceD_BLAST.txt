@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1088|yceD|1146016|1146538|1|Protein|ECK1074:JW1074|49.6
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/yceD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1088|yceD|1146016|1146538|1|Protein|ECK1074:JW1074|49.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1088|yceD|1146016|1146538|1|Protein|ECK1074:JW1074|49.6	100.00	173	0	0	1	173	1	173	4e-117	 320

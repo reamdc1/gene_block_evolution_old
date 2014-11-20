@@ -1,0 +1,118 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	100.00	909	0	0	1	909	1	909	0.0	1849
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	48.98	935	448	11	1	907	1	934	0.0	 971
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	50.47	967	417	14	1	908	1	964	0.0	 919
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	43.58	943	497	7	1	908	1	943	0.0	 861
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	43.76	937	491	9	1	906	1	932	0.0	 821
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	43.13	932	484	10	19	906	17	946	0.0	 813
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	44.32	950	469	11	10	906	6	948	0.0	 806
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	41.03	936	508	11	13	908	9	940	0.0	 766
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	41.53	874	464	14	75	907	137	1004	0.0	 689
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	100.00	943	0	0	1	943	1	943	0.0	1965
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	56.85	934	388	7	12	942	13	934	0.0	1101
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	56.99	944	388	8	3	941	2	932	0.0	1077
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	55.57	952	404	6	5	941	1	948	0.0	1076
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	55.21	940	404	9	14	941	12	946	0.0	1042
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	54.39	945	420	6	5	943	1	940	0.0	1035
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	44.90	980	487	16	1	943	1	964	0.0	 884
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	43.58	943	497	7	1	943	1	908	0.0	 861
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	46.21	1002	451	19	12	941	18	1003	0.0	 854
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	100.00	1004	0	0	1	1004	1	1004	0.0	2018
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	46.21	1002	451	19	18	1003	12	941	0.0	 837
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	46.31	1004	450	23	20	1003	12	946	0.0	 820
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	45.68	996	463	16	15	1003	8	932	0.0	 810
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	44.41	984	476	16	19	989	9	934	0.0	 791
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	43.42	995	488	17	19	1003	9	938	0.0	 782
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	45.10	867	434	12	145	1004	103	934	0.0	 760
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	43.48	46	26	0	9	54	4	49	2e-06	41.6
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	37.40	1000	563	20	18	1003	12	962	0.0	 688
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	41.45	866	460	14	145	1004	83	907	0.0	 681
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	100.00	952	0	0	1	952	1	952	0.0	1942
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	59.41	946	364	8	11	948	13	946	0.0	1122
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	55.53	949	410	6	1	948	1	938	0.0	1065
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	55.57	952	404	6	1	948	5	941	0.0	1040
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	52.37	951	417	12	6	948	11	933	0.0	 960
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	52.10	954	426	9	1	948	4	932	0.0	 955
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	44.52	986	477	21	3	948	7	962	0.0	 784
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	44.41	984	476	16	9	934	19	989	0.0	 773
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	44.32	950	469	11	6	948	10	906	0.0	 768
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	100.00	942	0	0	1	942	1	942	0.0	1965
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	58.68	939	376	7	10	939	12	947	0.0	1169
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	55.53	949	410	6	1	938	1	948	0.0	1107
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	54.39	945	420	6	1	940	5	943	0.0	1035
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	51.91	944	433	9	1	938	4	932	0.0	 981
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	50.75	934	440	9	11	939	16	934	0.0	 962
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	43.42	995	488	17	9	938	19	1003	0.0	 796
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	41.93	973	503	21	9	940	13	964	0.0	 768
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	41.03	936	508	11	9	940	13	908	0.0	 766
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	100.00	970	0	0	1	970	1	970	0.0	1991
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	47.97	961	462	15	6	962	7	933	0.0	 934
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	50.47	967	417	14	1	964	1	908	0.0	 910
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	44.90	980	487	16	1	964	1	943	0.0	 876
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	44.52	986	477	21	7	962	3	948	0.0	 818
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	42.95	971	501	18	4	962	3	932	0.0	 814
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	41.70	964	518	18	14	962	12	946	0.0	 779
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	41.59	981	511	21	5	964	1	940	0.0	 763
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	37.40	1000	563	20	12	962	18	1003	0.0	 692
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	100.00	942	0	0	1	942	1	942	0.0	1925
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	56.99	944	388	8	2	932	3	941	0.0	1068
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	52.10	954	426	9	4	932	1	948	0.0	 980
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	51.91	944	433	9	4	932	1	938	0.0	 976
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	52.26	928	430	8	11	932	13	933	0.0	 971
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	52.82	939	418	9	14	932	13	946	0.0	 966
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	43.68	934	496	8	1	932	1	906	0.0	 818
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	42.53	971	505	17	3	932	4	962	0.0	 818
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	45.88	996	461	17	8	932	15	1003	0.0	 818
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	100.00	944	0	0	14	957	14	957	0.0	1961
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	58.59	937	376	7	14	947	12	939	0.0	1164
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	59.37	945	364	8	14	946	12	948	0.0	1164
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	55.28	937	402	9	15	946	17	941	0.0	1040
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	51.07	936	436	11	15	947	18	934	0.0	 977
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	52.83	937	417	9	15	946	16	932	0.0	 973
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	46.31	1002	449	23	14	946	22	1003	0.0	 826
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	43.13	932	484	10	17	946	19	906	0.0	 813
+NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	41.77	960	515	18	16	946	18	962	0.0	 790
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	100.00	935	0	0	1	935	1	935	0.0	1966
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1585|sucA|1724243|1727075|1|Protein|NONE|63.1	56.85	934	388	7	13	934	12	942	0.0	1101
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2374|sucA|2580586|2583445|1|Protein|NONE|52.3	52.37	951	417	12	11	933	6	948	0.0	 996
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_002928|Bordetella_parapertussis_12822|BPP3217|sucA|3466237|3469111|-1|Protein|NONE|66.0	51.07	938	437	11	16	934	13	947	0.0	 977
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2749|sucA|3300780|3303609|1|Protein|NONE|64.3	52.26	928	430	8	13	933	11	932	0.0	 976
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_296|sucA|334567|337297|1|Protein|NONE|26.1	48.98	935	448	11	1	934	1	907	0.0	 971
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1071|sucA|1116794|1119623|1|Protein|NONE|65.9	50.75	934	440	9	16	934	11	939	0.0	 962
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl331|sucA|365625|368538|1|Protein|NONE|27.4	47.97	961	462	15	7	933	6	962	0.0	 942
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1662|sucA|1729502|1732310|-1|Protein|NONE|41.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1980|sucA|1873121|1876136|-1|Protein|NONE|59.4	42.07	1003	502	14	4	934	9	1004	0.0	 785

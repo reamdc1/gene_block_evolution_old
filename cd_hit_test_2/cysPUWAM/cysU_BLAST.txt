@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1
+# Database: cd_hit_test_2/cysPUWAM/cysU_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	100.00	278	0	0	1	278	1	278	3e-140	 389
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	48.76	201	103	0	42	242	50	250	3e-57	 177
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	47.21	233	123	0	10	242	19	251	7e-49	 155
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6
+# Database: cd_hit_test_2/cysPUWAM/cysU_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	100.00	296	0	0	1	296	1	296	5e-150	 416
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	62.93	232	86	0	46	277	45	276	2e-74	 223
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	44.12	238	133	0	45	282	36	273	6e-61	 187
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4
+# Database: cd_hit_test_2/cysPUWAM/cysU_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	100.00	286	0	0	1	286	1	286	4e-153	 422
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1345|cysU|1431549|1432464|1|Protein|NONE|68.6	61.17	273	102	1	8	276	5	277	8e-70	 211
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1018|cysU|1173924|1174785|1|Protein|NONE|65.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl513|cysU|569627|570464|-1|Protein|NONE|32.1	44.40	268	149	0	13	280	5	272	4e-61	 187

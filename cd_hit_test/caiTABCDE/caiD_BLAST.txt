@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2728|caiD|2924270|2925029|-1|Protein|NONE|67.7
+# Database: cd_hit_test/caiTABCDE/caiD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2728|caiD|2924270|2925029|-1|Protein|NONE|67.7	NC_002928|Bordetella_parapertussis_12822|BPP2728|caiD|2924270|2925029|-1|Protein|NONE|67.7	100.00	252	0	0	1	252	1	252	0.0	 510
+NC_002928|Bordetella_parapertussis_12822|BPP2728|caiD|2924270|2925029|-1|Protein|NONE|67.7	NC_004741|Shigella_flexneri_2a_str._2457T|S0035|caiD|34292|35186|-1|Protein|NONE|52.3	40.08	262	142	5	4	252	38	297	2e-49	 155
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S0035|caiD|34292|35186|-1|Protein|NONE|52.3
+# Database: cd_hit_test/caiTABCDE/caiD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S0035|caiD|34292|35186|-1|Protein|NONE|52.3	NC_004741|Shigella_flexneri_2a_str._2457T|S0035|caiD|34292|35186|-1|Protein|NONE|52.3	100.00	297	0	0	1	297	1	297	0.0	 574
+NC_004741|Shigella_flexneri_2a_str._2457T|S0035|caiD|34292|35186|-1|Protein|NONE|52.3	NC_002928|Bordetella_parapertussis_12822|BPP2728|caiD|2924270|2925029|-1|Protein|NONE|67.7	40.08	262	142	5	38	297	4	252	7e-44	 141

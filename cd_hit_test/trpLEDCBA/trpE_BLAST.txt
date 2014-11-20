@@ -1,0 +1,192 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	100.00	495	0	0	1	495	1	495	0.0	 963
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	59.80	490	193	2	5	491	2	490	0.0	 567
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	57.29	487	203	2	5	486	1	487	0.0	 546
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	57.40	507	198	5	5	494	17	522	0.0	 541
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	41.32	380	201	9	123	489	147	517	2e-79	 251
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	40.42	381	203	7	123	485	175	549	4e-77	 246
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	40.79	380	206	8	113	482	139	509	5e-77	 244
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	37.39	468	254	12	29	484	9	449	4e-76	 240
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	39.18	388	197	10	123	488	146	516	4e-73	 234
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	45.42	262	138	3	224	484	152	409	1e-62	 204
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	34.78	368	226	4	122	488	158	512	5e-61	 205
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	35.26	363	218	6	122	482	159	506	4e-52	 179
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	100.00	521	0	0	1	521	1	521	0.0	1040
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	60.40	505	199	1	18	521	17	521	0.0	 631
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	53.09	518	225	6	12	511	30	547	4e-179	 511
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	51.99	502	224	8	18	511	18	510	6e-177	 504
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	37.59	431	230	13	112	519	78	492	1e-77	 246
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	41.32	380	201	9	147	517	123	489	5e-75	 239
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	38.56	376	211	8	146	510	115	481	9e-73	 233
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	36.76	389	218	8	147	517	139	517	4e-68	 222
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	30.13	478	295	12	55	520	66	516	7e-57	 194
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	31.79	368	218	11	149	511	69	408	2e-48	 165
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	38.06	289	165	5	226	511	171	448	4e-48	 165
+NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	32.92	404	240	12	114	511	129	507	7e-47	 164
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	100.00	521	0	0	1	521	1	521	0.0	1078
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	60.40	505	199	1	17	521	18	521	0.0	 650
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	48.22	506	244	8	14	511	15	510	5e-169	 484
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	46.24	532	263	7	11	519	30	561	1e-163	 472
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	35.03	394	221	9	145	519	115	492	1e-72	 233
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	39.18	388	197	10	146	516	123	488	6e-69	 223
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	42.20	282	149	6	246	519	245	520	1e-64	 213
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	34.18	392	229	10	134	510	104	481	4e-61	 202
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	27.91	473	313	9	54	520	66	516	6e-53	 182
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	30.90	411	249	13	113	511	61	448	1e-48	 167
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	28.57	490	320	11	28	511	42	507	2e-48	 169
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	31.62	370	211	10	148	508	69	405	7e-43	 149
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	100.00	493	0	0	1	493	1	493	0.0	 974
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	56.91	492	203	3	1	489	2	487	0.0	 545
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	57.29	487	203	2	1	487	5	486	0.0	 532
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	55.69	501	197	8	1	483	17	510	4e-173	 493
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	36.89	431	233	12	78	492	112	519	2e-73	 235
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	35.02	454	251	15	65	488	112	551	9e-73	 235
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	33.33	519	271	14	17	484	16	510	1e-71	 230
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	35.03	394	221	9	115	492	145	519	5e-69	 223
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	34.75	472	276	11	19	484	3	448	1e-64	 210
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	34.65	404	234	10	82	483	32	407	4e-58	 191
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	33.07	378	234	5	116	492	156	515	2e-53	 183
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	31.37	373	226	8	118	484	159	507	6e-43	 152
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	100.00	731	0	0	1	731	1	731	0.0	1506
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	50.85	704	336	7	15	715	16	712	0.0	 724
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	31.59	478	288	14	66	516	55	520	2e-59	 202
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	34.78	368	226	4	158	512	122	488	2e-56	 192
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	32.35	374	230	5	158	512	118	487	3e-56	 192
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	28.57	462	306	9	66	508	55	511	2e-55	 190
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	33.07	378	234	5	156	515	116	492	8e-55	 187
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	34.03	382	220	7	158	511	138	515	3e-54	 186
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	27.91	473	313	9	66	516	54	520	9e-53	 182
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	29.30	471	282	11	80	508	87	548	3e-51	 179
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	28.89	360	224	8	165	507	104	448	4e-37	 135
+NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	26.30	365	248	9	158	515	66	416	3e-32	 120
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	100.00	522	0	0	1	522	1	522	0.0	 967
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	55.82	507	204	4	17	520	2	491	0.0	 525
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	57.40	507	198	5	17	522	5	494	1e-174	 497
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	55.69	501	197	8	17	510	1	483	5e-164	 470
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	35.99	389	220	6	135	510	174	546	2e-60	 202
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	38.27	392	213	10	133	515	143	514	2e-58	 196
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	36.76	389	218	8	139	517	147	517	8e-56	 188
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	34.43	485	277	13	35	514	3	451	3e-54	 182
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	42.55	282	148	6	245	520	246	519	1e-53	 182
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	36.39	294	164	6	232	515	132	412	3e-48	 165
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	33.77	379	225	6	138	515	158	511	1e-46	 164
+NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	30.48	374	233	5	138	510	159	506	3e-35	 130
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	100.00	518	0	0	1	518	1	518	0.0	1044
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	51.99	502	224	8	18	510	18	511	3e-170	 487
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	48.22	506	244	8	15	510	14	511	1e-161	 465
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	50.00	518	230	8	18	511	36	548	2e-161	 466
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	40.79	380	206	8	139	509	113	482	3e-73	 235
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	32.95	519	273	14	16	510	17	484	2e-72	 232
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	37.27	381	221	8	143	513	113	485	1e-66	 217
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	38.27	392	213	10	143	514	133	515	1e-66	 218
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	28.35	462	307	9	55	511	66	508	2e-54	 186
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	33.02	421	238	13	114	512	52	450	3e-51	 174
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	29.87	462	288	10	60	511	73	508	5e-50	 174
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	34.55	275	166	6	244	516	152	414	1e-40	 143
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	100.00	416	0	0	1	416	1	416	0.0	 795
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	45.42	262	138	3	152	409	224	484	6e-60	 196
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	42.21	263	148	3	155	413	225	487	1e-55	 185
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	34.65	404	234	10	32	407	82	483	1e-54	 182
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	36.05	294	165	6	132	412	232	515	5e-54	 181
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	31.37	373	223	7	69	409	177	548	7e-44	 152
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	31.25	368	220	11	69	408	149	511	2e-41	 145
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	35.69	269	167	3	147	410	183	450	1e-40	 142
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	34.55	275	166	6	152	414	244	516	5e-37	 132
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	31.35	370	212	10	69	405	148	508	7e-37	 131
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	25.82	364	251	8	66	416	158	515	3e-29	 110
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	23.60	267	194	5	151	410	246	509	5e-14	63.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	100.00	491	0	0	1	491	1	491	0.0	1019
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	56.91	492	203	3	2	487	1	489	0.0	 565
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	55.82	507	204	4	2	491	17	520	0.0	 564
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	59.80	490	193	2	2	490	5	491	0.0	 549
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	41.60	351	187	6	150	484	201	549	7e-82	 259
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	36.99	465	270	10	20	481	3	447	2e-74	 236
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	38.56	376	211	8	115	481	146	510	8e-73	 233
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	37.27	381	221	8	113	485	143	513	4e-69	 223
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	42.21	263	148	3	225	487	155	413	1e-65	 212
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	34.18	392	229	10	104	481	134	510	4e-61	 202
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	32.35	374	230	5	118	487	158	512	2e-56	 192
+NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	31.23	365	233	5	118	481	159	506	1e-44	 157
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	100.00	451	0	0	1	451	1	451	0.0	 738
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	37.00	473	249	14	9	449	29	484	3e-62	 203
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	36.34	465	273	10	3	447	20	481	1e-61	 201
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	43.01	272	144	4	189	451	245	514	1e-55	 186
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	42.91	261	146	2	189	448	226	484	2e-54	 182
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	39.05	274	154	4	186	450	243	512	2e-46	 160
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	38.60	272	155	3	187	449	280	548	2e-45	 158
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	35.32	269	168	3	183	450	147	410	2e-42	 147
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	36.73	275	162	3	183	448	240	511	5e-42	 147
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	45.45	154	84	0	295	448	358	511	3e-39	 139
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	30.83	266	178	4	186	448	245	507	4e-32	 119
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	35.75	221	140	2	230	448	287	507	2e-31	 117
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	100.00	574	0	0	1	574	1	574	0.0	1192
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	53.28	518	224	6	30	547	12	511	0.0	 523
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	50.00	518	230	8	36	548	18	511	1e-171	 493
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	46.24	532	263	7	30	561	11	519	2e-163	 472
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	41.60	351	187	6	201	549	150	484	8e-82	 259
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	34.73	452	255	13	112	551	65	488	4e-77	 246
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	36.50	389	218	7	174	546	135	510	4e-73	 236
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	46.00	300	150	5	254	549	194	485	2e-72	 234
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	35.43	381	215	9	174	548	94	449	4e-55	 186
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	29.30	471	282	11	87	548	80	508	2e-51	 179
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	32.17	373	220	8	177	548	69	409	2e-50	 172
+NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	27.62	478	297	11	78	548	73	508	5e-45	 160
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9
+# Database: cd_hit_test/trpLEDCBA/trpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	100.00	721	0	0	1	721	1	721	0.0	1427
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_004310|Brucella_suis_1330|BR1570|trpE|1519314|1521510|-1|Protein|NONE|58.4	51.95	668	312	6	52	712	50	715	0.0	 704
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1387|trpE|1482527|1484084|1|Protein|NONE|39.2	30.30	462	286	10	73	508	60	511	2e-50	 175
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2150|trpE|2334990|2336478|1|Protein|NONE|52.2	35.26	363	218	6	159	506	122	482	8e-49	 170
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_003143|Yersinia_pestis_CO92|YPO2208|trpE|2482591|2484157|-1|Protein|NONE|50.5	31.53	463	284	13	70	507	57	511	3e-48	 169
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl426|trpE|465507|467073|1|Protein|NONE|30.7	29.65	462	295	11	70	507	56	511	3e-48	 169
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3019|trpE|3129861|3131586|1|Protein|NONE|49.8	27.62	478	297	11	73	508	78	548	4e-45	 160
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0568|trpE|623638|625120|1|Protein|NONE|60.0	31.37	373	226	8	159	507	118	484	1e-44	 157
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_003112|Neisseria_meningitidis_MC58|NMB1021|trpE|1035921|1037397|-1|Protein|NONE|56.3	31.23	365	233	5	159	506	118	481	2e-44	 157
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_002928|Bordetella_parapertussis_12822|BPP4156|trpE|4490531|4492100|1|Protein|NONE|68.3	30.48	374	233	5	159	506	138	510	9e-42	 150
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1130|trpE|1280140|1281496|1|Protein|NONE|68.7	32.31	359	212	11	166	507	104	448	3e-36	 133
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2489|trpE|2713097|2715263|1|Protein|NONE|66.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0345|trpE|315397|316648|1|Protein|NONE|29.2	25.28	269	189	6	245	509	150	410	5e-18	76.6

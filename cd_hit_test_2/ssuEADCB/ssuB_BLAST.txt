@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6
+# Database: cd_hit_test_2/ssuEADCB/ssuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	100.00	271	0	0	1	271	1	271	6e-174	 474
+NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	62.83	226	84	0	2	227	15	240	2e-83	 245
+NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	66.06	221	75	0	8	228	16	236	2e-83	 244
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0
+# Database: cd_hit_test_2/ssuEADCB/ssuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	100.00	284	0	0	1	284	1	284	8e-174	 475
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	64.41	236	84	0	16	251	8	243	2e-84	 247
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	62.30	244	92	0	15	258	20	263	6e-82	 241
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7
+# Database: cd_hit_test_2/ssuEADCB/ssuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	100.00	291	0	0	1	291	1	291	4e-180	 491
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	NC_003143|Yersinia_pestis_CO92|YPO3627|ssuB|4044514|4045330|1|Protein|NONE|55.6	60.98	246	96	0	15	260	2	247	3e-82	 242
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3196|ssuB|3761458|3762334|-1|Protein|NONE|69.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1341|ssuB|1428655|1429510|1|Protein|NONE|74.0	62.30	244	92	0	20	263	15	258	6e-76	 226

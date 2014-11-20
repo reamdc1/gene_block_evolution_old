@@ -1,0 +1,101 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	100.00	484	0	0	22	505	22	505	0.0	 868
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	47.08	480	245	2	22	492	22	501	4e-142	 414
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	43.71	485	257	6	22	492	22	504	3e-117	 349
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	30.25	400	261	6	106	500	106	492	6e-64	 209
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	27.64	445	298	4	71	501	66	500	2e-60	 199
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	25.05	475	339	3	29	501	41	500	5e-55	 185
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	31.96	363	232	5	127	483	116	469	1e-54	 184
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	31.30	377	243	6	126	497	109	474	3e-50	 171
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	100.00	503	0	0	1	503	1	503	0.0	 978
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	52.76	453	212	2	37	487	42	494	1e-164	 471
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	49.30	503	236	5	1	490	1	497	7e-161	 461
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	37.00	454	272	6	51	497	43	489	2e-104	 317
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	40.19	413	234	4	80	481	88	498	9e-101	 307
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	35.88	432	255	8	75	497	62	480	3e-82	 258
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	31.07	428	277	7	78	492	78	500	7e-74	 236
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	34.53	417	257	8	79	481	87	501	7e-74	 236
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	100.00	509	0	0	1	509	1	509	0.0	 934
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	46.89	499	262	2	6	504	6	501	1e-156	 451
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	43.45	504	273	4	1	504	1	492	4e-129	 380
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	32.07	449	273	9	76	508	63	495	2e-72	 232
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	34.29	417	258	8	87	501	79	481	1e-71	 230
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	31.63	430	274	5	80	503	65	480	6e-64	 210
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	31.08	399	255	7	77	472	75	456	7e-63	 206
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	31.84	380	242	7	86	463	65	429	5e-54	 182
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	100.00	500	0	0	1	500	1	500	0.0	 920
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	58.53	504	192	4	9	500	2	500	0.0	 526
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	52.76	453	212	2	42	494	37	487	2e-146	 424
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	36.73	490	296	5	14	498	5	485	1e-90	 280
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	36.60	500	290	6	18	493	7	503	8e-85	 265
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	33.89	419	256	7	84	493	65	471	6e-64	 209
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	29.86	432	284	7	75	491	77	504	2e-56	 188
+NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	25.70	502	355	5	14	500	3	501	3e-56	 188
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0937|nuoM|889937|891125|1|Protein|NONE|46.5
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0937|nuoM|889937|891125|1|Protein|NONE|46.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0937|nuoM|889937|891125|1|Protein|NONE|46.5	100.00	395	0	0	1	395	1	395	0.0	 709
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	100.00	525	0	0	1	525	1	525	0.0	1005
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	39.44	497	275	6	4	490	1	481	1e-103	 315
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	38.72	501	283	7	4	486	6	500	4e-102	 311
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	36.48	455	273	6	43	489	51	497	2e-101	 309
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	36.73	490	296	5	5	485	14	498	4e-98	 300
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	36.34	476	279	6	22	474	23	497	3e-84	 264
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	31.63	430	274	5	65	480	80	503	3e-62	 205
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	33.33	363	227	6	116	469	127	483	2e-57	 192
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	100.00	495	0	0	1	495	1	495	0.0	 787
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	39.44	497	275	6	1	481	4	490	2e-76	 243
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	35.73	389	222	8	106	480	123	497	2e-57	 191
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	36.22	370	219	6	110	471	133	493	1e-52	 177
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	35.55	391	220	8	100	469	112	491	1e-48	 167
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	32.36	377	239	5	109	474	126	497	5e-37	 132
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	30.67	375	243	7	109	471	134	503	3e-36	 130
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	31.31	396	239	9	95	469	121	504	3e-35	 127
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	100.00	476	0	0	25	500	25	500	0.0	 874
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	60.17	472	174	3	31	500	41	500	3e-180	 510
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	50.75	465	215	3	34	497	39	490	1e-147	 427
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	38.59	482	271	8	26	500	23	486	2e-91	 283
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	38.94	434	240	4	66	488	79	498	2e-88	 275
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	30.94	501	299	10	26	495	24	508	5e-65	 212
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	28.99	445	292	5	66	500	71	501	5e-65	 212
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	35.13	390	223	7	112	491	100	469	5e-63	 206
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	100.00	514	0	0	1	514	1	514	0.0	 919
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl482|nuoM|534031|535561|-1|Protein|NONE|28.4	46.89	499	262	2	6	501	6	504	2e-150	 435
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_163|nuoM|176472|177990|1|Protein|NONE|25.6	45.74	505	257	3	1	501	1	492	1e-147	 428
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1282|nuoM|1269015|1270527|1|Protein|NONE|57.8	39.71	413	236	3	88	498	80	481	4e-95	 292
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2692|nuoM|3152079|3153582|-1|Protein|NONE|60.9	39.40	434	238	4	79	498	66	488	1e-93	 288
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_002928|Bordetella_parapertussis_12822|BPP3379|nuoM|3644063|3645566|-1|Protein|NONE|63.3	39.07	430	250	3	76	503	74	493	5e-89	 276
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1591|nuoM|1519849|1521427|-1|Protein|NONE|36.1	38.53	423	250	4	76	497	61	474	7e-81	 255
+NC_004347|Shewanella_oneidensis_MR-1|SO_1010|nuoM|1046740|1048285|-1|Protein|NONE|61.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1567c|nuoM|1497799|1499287|-1|Protein|NONE|29.2	31.69	426	264	9	86	503	65	471	1e-55	 187

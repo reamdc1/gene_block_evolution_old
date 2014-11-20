@@ -1,0 +1,26 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2093|gatB|2172303|2172588|-1|Protein|ECK2086:JW2077|41.8
+# Database: cd_hit_test_2/gatYZABCD/gatB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2093|gatB|2172303|2172588|-1|Protein|ECK2086:JW2077|41.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2093|gatB|2172303|2172588|-1|Protein|ECK2086:JW2077|41.8	100.00	94	0	0	1	94	1	94	2e-68	 193
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0
+# Database: cd_hit_test_2/gatYZABCD/gatB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	100.00	474	0	0	1	474	1	474	0.0	 975
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	51.02	488	218	9	4	474	3	486	2e-158	 452
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	48.86	483	228	10	4	474	38	513	5e-155	 444
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4
+# Database: cd_hit_test_2/gatYZABCD/gatB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	100.00	488	0	0	1	488	1	488	0.0	 915
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	52.58	485	220	7	3	486	38	513	4e-166	 473
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	50.20	488	222	9	3	486	4	474	9e-152	 435
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0
+# Database: cd_hit_test_2/gatYZABCD/gatB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	100.00	516	0	0	1	516	1	516	0.0	1017
+NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0054|gatB|59071|60538|-1|Protein|NONE|67.4	53.40	485	216	7	38	513	3	486	2e-161	 461
+NC_003047|Sinorhizobium_meliloti_1021|SMc01350|gatB|1431143|1432694|1|Protein|NONE|61.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0796|gatB|771080|772505|1|Protein|NONE|41.0	48.86	483	228	10	38	513	4	474	9e-144	 416

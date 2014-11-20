@@ -1,0 +1,65 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	100.00	642	0	0	1	642	1	642	0.0	1291
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	54.67	642	291	0	1	642	1	642	0.0	 759
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	44.09	635	354	1	1	634	1	635	0.0	 623
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	44.06	640	352	2	1	635	1	639	0.0	 600
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	43.55	620	335	6	3	609	71	688	0.0	 580
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	39.22	612	358	8	32	637	1	604	8e-145	 429
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	100.00	635	0	0	1	635	1	635	0.0	1297
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	58.23	632	263	1	1	632	1	631	0.0	 780
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	59.56	633	251	3	1	629	1	632	0.0	 779
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	50.61	652	300	9	2	635	70	717	0.0	 665
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	44.09	635	354	1	1	635	1	634	0.0	 623
+NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	42.81	570	319	5	65	632	34	598	6e-163	 475
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	100.00	649	0	0	1	649	1	649	0.0	1328
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	59.56	633	251	3	1	632	1	629	0.0	 791
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	56.25	640	274	3	1	639	1	635	0.0	 735
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	54.85	649	274	7	2	637	70	712	0.0	 726
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	44.06	640	352	2	1	639	1	635	0.0	 611
+NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	44.40	545	297	5	71	613	36	576	1e-172	 501
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1408|thrS|1347057|1347723|-1|Protein|NONE|47.9
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1408|thrS|1347057|1347723|-1|Protein|NONE|47.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS1408|thrS|1347057|1347723|-1|Protein|NONE|47.9	100.00	221	0	0	1	221	1	221	4e-153	 419
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	100.00	604	0	0	1	604	1	604	0.0	1249
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	44.40	545	297	5	36	576	71	613	1e-172	 501
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	42.09	594	328	7	15	599	46	632	3e-168	 489
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	42.88	569	318	5	35	598	66	632	4e-168	 488
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	42.07	580	316	9	33	595	131	707	3e-162	 476
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	39.22	612	358	8	1	604	32	637	3e-150	 442
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	100.00	643	0	0	1	643	1	643	0.0	1324
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	54.67	642	291	0	1	642	1	642	0.0	 782
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	58.23	632	263	1	1	631	1	632	0.0	 780
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	56.25	640	274	3	1	635	1	639	0.0	 735
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	50.56	625	293	7	4	615	72	693	0.0	 645
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	42.09	594	328	7	46	632	15	599	3e-168	 489
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6
+# Database: cd_hit_test/thrS-infC-rpmI-rplT-pheMST-ihfA/thrS_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	100.00	723	0	0	1	723	1	723	0.0	1504
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_002928|Bordetella_parapertussis_12822|BPP1963|thrS|2099756|2101706|1|Protein|NONE|61.5	54.85	649	274	7	70	712	2	637	0.0	 726
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_002488|Xylella_fastidiosa_9a5c|XF0736|thrS|691466|693374|1|Protein|NONE|51.5	50.61	652	300	9	70	717	2	635	0.0	 673
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1367|thrS|1454488|1456420|1|Protein|NONE|40.5	50.56	625	293	7	72	693	4	615	0.0	 645
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_123|thrS|130476|132405|1|Protein|NONE|27.2	43.87	620	333	6	71	688	3	609	0.0	 590
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr5537|thrS|6094948|6097120|1|Protein|NONE|63.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0442|thrS|422308|424123|1|Protein|NONE|37.7	42.07	580	316	9	131	707	33	595	3e-162	 476

@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	100.00	140	0	0	1	140	1	140	1e-105	 290
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	51.16	129	63	0	12	140	25	153	3e-52	 154
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	44.44	126	70	0	11	136	21	146	4e-41	 126
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	42.52	127	72	1	9	135	26	151	1e-32	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	100.00	156	0	0	1	156	1	156	8e-117	 320
+NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	58.16	141	59	0	13	153	10	150	1e-58	 172
+NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	51.16	129	63	0	25	153	12	140	3e-52	 154
+NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	53.73	134	61	1	14	147	18	150	4e-45	 137
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	100.00	155	0	0	1	155	1	155	2e-116	 318
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	58.16	141	59	0	10	150	13	153	1e-58	 172
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	55.00	140	60	2	14	152	21	158	2e-46	 140
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	44.44	126	70	0	21	146	11	136	4e-41	 126
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	100.00	158	0	0	1	158	1	158	5e-118	 323
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2874|paaI|3103276|3103744|1|Protein|NONE|70.1	55.00	140	60	2	21	158	14	152	2e-46	 140
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	NC_002928|Bordetella_parapertussis_12822|BPP1680|paaI|1789664|1790135|1|Protein|NONE|68.8	53.73	134	61	1	18	150	14	147	4e-45	 137
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr2896|paaI|3188457|3188934|1|Protein|NONE|65.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1396|paaI|1458494|1458917|1|Protein|ECK1393:JW1391:ydbV|51.5	42.52	127	72	1	26	151	9	135	2e-32	 104

@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rplT_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	100.00	134	0	0	1	134	1	134	3e-87	 243
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	62.75	102	38	0	1	102	1	102	8e-45	 134
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	52.43	103	49	0	1	103	1	103	2e-35	 110
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	51.52	99	48	0	1	99	1	99	6e-35	 108
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rplT_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	100.00	119	0	0	1	119	1	119	2e-75	 211
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	58.12	117	49	0	1	117	1	117	6e-39	 119
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	56.14	114	50	0	1	114	1	114	3e-37	 114
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	53.39	118	53	2	1	117	1	117	1e-31	99.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rplT_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	100.00	118	0	0	1	118	1	118	1e-84	 235
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	56.14	114	50	0	1	114	1	114	6e-46	 136
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	49.12	114	58	0	1	114	1	114	1e-37	 115
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	41.23	114	67	0	1	114	1	114	2e-29	93.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rplT_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	100.00	117	0	0	1	117	1	117	2e-75	 211
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A2180|rplT|2061209|2061614|1|Protein|NONE|57.5	52.99	117	55	0	1	117	1	117	5e-32	 100
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0955|rplT|1040927|1041287|-1|Protein|NONE|42.8	53.39	118	53	2	1	117	1	117	2e-30	96.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0823|rplT|779092|779446|1|Protein|NONE|41.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl354|rplT|390825|391182|1|Protein|NONE|30.5	41.23	114	67	0	1	114	1	114	2e-19	67.0

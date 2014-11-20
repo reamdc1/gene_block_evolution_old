@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3118|tdcA|3264148|3265087|-1|Protein|ECK3107:JW3089|42.2
+# Database: cd_hit_test_2/tdcABCDEFG/tdcA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3118|tdcA|3264148|3265087|-1|Protein|ECK3107:JW3089|42.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3118|tdcA|3264148|3265087|-1|Protein|ECK3107:JW3089|42.2	100.00	312	0	0	1	312	1	312	0.0	 639

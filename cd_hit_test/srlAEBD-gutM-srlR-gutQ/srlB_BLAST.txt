@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2704|srlB|2825383|2825755|1|Protein|ECK2699:gutB:JW2673|55.1
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/srlB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2704|srlB|2825383|2825755|1|Protein|ECK2699:gutB:JW2673|55.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2704|srlB|2825383|2825755|1|Protein|ECK2699:gutB:JW2673|55.1	100.00	123	0	0	1	123	1	123	2e-92	 253

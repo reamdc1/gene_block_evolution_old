@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1274|puuB|1322755|1324042|1|Protein|NONE|47.6
+# Database: cd_hit_test/puuDRCBE/puuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1274|puuB|1322755|1324042|1|Protein|NONE|47.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1274|puuB|1322755|1324042|1|Protein|NONE|47.6	100.00	428	0	0	1	428	1	428	0.0	 881

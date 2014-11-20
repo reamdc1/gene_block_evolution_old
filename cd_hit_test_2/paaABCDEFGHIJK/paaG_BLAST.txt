@@ -1,0 +1,30 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	100.00	262	0	0	1	262	1	262	9e-171	 466
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	60.08	258	102	1	5	262	6	262	5e-82	 240
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	36.47	266	165	2	1	262	1	266	4e-37	 123
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	33.33	144	90	4	13	151	15	157	4e-12	53.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	100.00	369	0	0	1	369	1	369	0.0	 665
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	33.33	168	105	5	15	180	13	175	7e-13	55.8
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	29.69	192	104	8	14	189	12	188	4e-10	47.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	100.00	266	0	0	1	266	1	266	0.0	 494
+NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	36.70	267	163	3	1	266	1	262	2e-37	 124
+NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	35.50	262	158	6	8	266	9	262	4e-28	98.6
+NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2082|paaG|2267658|2268768|-1|Protein|NONE|69.0	29.74	195	106	8	12	191	14	192	1e-08	42.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	100.00	262	0	0	1	262	1	262	1e-147	 407
+NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1394|paaG|1456287|1457076|1|Protein|ECK1391:JW1389:ydbT|54.5	60.08	258	102	1	6	262	5	262	6e-70	 209
+NC_002929|Bordetella_pertussis_Tohama_I|BP2677|paaG|2842295|2843084|-1|Protein|NONE|70.8	NC_002928|Bordetella_parapertussis_12822|BPP2727|paaG|2923441|2924242|-1|Protein|NONE|67.4	32.06	262	167	6	9	262	8	266	7e-20	74.7

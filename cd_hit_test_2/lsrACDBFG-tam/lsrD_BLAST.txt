@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1515|lsrD|1602070|1603063|1|Protein|ECK1508:JW1508:ydeZ|53.3
+# Database: cd_hit_test_2/lsrACDBFG-tam/lsrD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1515|lsrD|1602070|1603063|1|Protein|ECK1508:JW1508:ydeZ|53.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1515|lsrD|1602070|1603063|1|Protein|ECK1508:JW1508:ydeZ|53.3	100.00	330	0	0	1	330	1	330	2e-172	 474

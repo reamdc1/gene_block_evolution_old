@@ -1,0 +1,225 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	100.00	244	0	0	1	244	1	244	2e-165	 452
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	53.28	244	114	0	1	244	5	248	1e-90	 262
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	55.66	212	94	0	32	243	32	243	2e-78	 231
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	47.12	208	110	0	37	244	38	245	6e-68	 204
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	43.68	174	98	0	70	243	74	247	5e-48	 152
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	45.22	157	82	2	86	241	87	240	4e-45	 144
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	40.49	163	95	1	79	241	84	244	8e-39	 128
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	36.51	189	114	2	59	241	64	252	5e-38	 126
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	29.84	191	124	6	59	241	64	252	3e-27	97.1
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	26.91	249	173	3	1	240	1	249	2e-25	92.0
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	27.08	192	133	2	50	241	46	230	1e-22	83.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	27.37	179	117	4	64	239	56	224	2e-15	62.8
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	25.99	177	115	6	80	243	87	260	5e-13	56.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	100.00	255	0	0	1	255	1	255	2e-167	 458
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	39.76	254	142	4	1	252	1	245	3e-45	 145
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	36.46	192	116	2	61	252	56	241	7e-45	 144
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	38.71	248	145	3	5	252	2	242	2e-39	 130
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	36.51	189	114	2	64	252	59	241	6e-38	 126
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	33.01	206	134	3	49	252	49	252	9e-29	 101
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	29.21	202	128	4	52	251	41	229	2e-27	97.4
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	30.95	210	139	2	42	251	41	244	3e-27	97.4
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	31.53	203	131	3	51	253	47	241	2e-23	86.3
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	30.81	211	130	4	49	251	47	249	2e-22	83.2
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	29.59	169	111	2	83	251	83	243	2e-20	77.4
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	27.36	212	144	4	47	251	49	257	9e-20	75.5
+NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	29.41	187	117	4	64	250	53	224	2e-17	68.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3256|accC|3403938|3405288|1|Protein|ECK3243:fabG:JW3224|53.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3256|accC|3403938|3405288|1|Protein|ECK3243:fabG:JW3224|53.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3256|accC|3403938|3405288|1|Protein|ECK3243:fabG:JW3224|53.4	100.00	449	0	0	1	449	1	449	0.0	 893
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	100.00	245	0	0	1	245	1	245	1e-163	 448
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	51.84	245	118	0	1	245	4	248	3e-78	 231
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	44.81	241	133	0	4	244	3	243	2e-67	 202
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	44.26	244	134	2	3	245	2	244	4e-61	 186
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	42.04	245	138	1	4	244	3	247	8e-52	 162
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	42.08	240	131	3	8	242	4	240	4e-47	 150
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	42.04	245	125	3	7	242	8	244	2e-40	 132
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	37.90	248	147	3	2	242	5	252	1e-35	 120
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	34.00	250	150	5	4	241	3	249	3e-32	 110
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	32.84	201	127	4	51	244	55	254	3e-27	97.1
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	31.20	234	151	4	9	242	7	230	3e-25	91.3
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	25.58	258	165	5	9	244	8	260	2e-16	65.9
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	28.93	242	149	8	4	240	1	224	1e-14	60.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	100.00	234	0	0	1	234	1	234	9e-175	 475
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	33.33	237	142	5	7	230	9	242	1e-32	 111
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	30.42	240	149	4	5	230	10	245	2e-29	 102
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	28.69	244	153	5	5	229	10	251	6e-28	99.0
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	25.73	241	159	5	5	230	6	241	4e-24	87.8
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	35.20	250	140	8	3	231	5	253	4e-23	85.1
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	26.69	236	163	3	5	230	6	241	1e-22	83.6
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	28.75	240	157	5	5	230	6	245	7e-22	81.3
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	30.83	240	151	4	4	230	7	244	9e-22	80.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	26.64	244	160	6	5	229	6	249	2e-20	77.0
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	30.67	238	147	6	8	230	6	240	1e-17	68.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	27.39	230	152	6	5	228	4	224	1e-16	65.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	23.57	263	162	9	2	231	3	259	9e-09	43.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	100.00	244	0	0	1	244	1	244	0.0	 495
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	52.67	243	115	0	1	243	5	247	2e-101	 290
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	53.50	243	113	0	1	243	1	243	1e-81	 239
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	44.81	241	133	0	3	243	4	244	2e-76	 226
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	39.36	249	143	3	1	243	1	247	1e-59	 182
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	34.27	248	156	3	1	241	5	252	2e-47	 151
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	40.64	187	107	2	56	241	57	240	4e-43	 139
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	43.64	165	89	2	78	241	83	244	2e-41	 135
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	29.32	249	167	3	1	240	1	249	4e-36	 121
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	34.18	196	121	5	56	244	61	255	9e-29	 101
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	25.73	241	159	5	6	241	5	230	4e-24	87.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	26.36	239	159	5	3	239	1	224	3e-23	85.1
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	24.22	256	175	7	6	243	6	260	1e-14	61.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	100.00	245	0	0	1	245	1	245	5e-131	 365
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	50.92	163	78	2	83	244	79	240	2e-45	 145
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	41.00	239	136	2	8	244	7	242	3e-40	 132
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	44.85	165	87	2	83	244	82	245	6e-37	 123
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	43.90	164	90	1	83	244	78	241	2e-36	 122
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	40.49	163	95	1	84	244	79	241	4e-34	 115
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	36.36	165	101	2	83	244	82	245	1e-28	 101
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	35.19	162	100	1	83	244	74	230	3e-17	68.2
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	29.59	169	111	2	83	243	83	251	1e-16	66.6
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	33.72	172	102	5	83	244	83	252	3e-15	62.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	30.59	170	108	5	83	243	81	249	1e-14	61.2
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	27.59	174	114	5	83	244	85	258	5e-09	44.7
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	25.90	139	96	2	104	242	93	224	4e-07	38.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	100.00	248	0	0	1	248	1	248	8e-168	 458
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	52.67	243	115	0	5	247	1	243	7e-91	 263
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	53.28	244	114	0	5	248	1	244	2e-83	 244
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	51.84	245	118	0	4	248	1	245	4e-77	 228
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	45.34	247	131	1	5	247	1	247	2e-57	 177
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	39.76	254	142	4	1	245	1	252	2e-43	 140
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	39.08	238	138	4	12	245	10	244	9e-36	 120
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	42.86	238	128	3	13	245	6	240	2e-35	 119
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	32.53	249	159	3	5	244	1	249	9e-31	 107
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	30.42	240	149	4	10	245	5	230	3e-27	96.7
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	33.47	248	151	7	10	245	7	252	2e-23	86.3
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	32.49	237	147	4	7	243	1	224	3e-22	82.4
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	29.18	257	161	6	10	247	6	260	7e-20	75.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	100.00	252	0	0	1	252	1	252	5e-160	 439
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	33.87	248	153	4	3	249	4	241	3e-35	 119
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	29.18	257	157	4	1	249	1	240	5e-34	 115
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	32.40	250	162	3	1	249	1	244	4e-33	 113
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	32.53	249	159	3	1	249	5	244	7e-32	 110
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	29.34	167	112	2	83	249	80	240	6e-24	87.8
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	32.12	193	121	5	58	249	56	239	4e-20	76.3
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	30.56	252	146	7	3	251	1	226	4e-20	75.9
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	30.65	199	122	4	59	249	61	251	3e-19	73.9
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	30.59	170	108	5	81	249	83	243	6e-18	70.1
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	28.64	199	134	4	58	252	60	254	6e-18	70.5
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	25.82	244	162	5	6	249	5	229	2e-17	68.2
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	27.76	263	170	6	1	249	1	257	8e-16	64.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	100.00	247	0	0	1	247	1	247	0.0	 500
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	45.34	247	131	1	1	247	5	247	4e-68	 204
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	43.27	245	135	2	3	247	4	244	1e-60	 185
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	39.36	249	143	3	1	247	1	243	1e-59	 182
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	37.25	247	151	1	1	247	1	243	8e-50	 157
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	38.08	239	144	2	8	245	5	240	2e-46	 148
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	33.20	250	160	3	1	244	1	249	8e-41	 134
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	34.44	241	153	3	6	245	8	244	6e-39	 129
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	32.26	248	159	3	3	244	7	251	3e-29	 102
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	28.75	240	157	5	6	245	5	230	8e-22	81.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	26.61	233	161	6	21	245	22	252	6e-20	75.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	26.54	260	178	4	1	247	1	260	1e-15	63.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	26.02	246	155	8	3	243	1	224	1e-13	57.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	100.00	263	0	0	1	263	1	263	0.0	 520
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	40.84	262	148	2	2	263	3	257	1e-56	 176
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	29.18	257	161	6	6	260	10	247	2e-22	83.2
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	25.58	258	165	5	8	260	9	244	7e-21	78.6
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	28.74	254	165	5	7	257	11	251	2e-20	77.8
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	27.86	262	171	5	1	257	1	249	6e-18	70.5
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	26.54	260	178	4	1	260	1	247	1e-15	63.9
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	25.48	263	173	9	1	260	1	243	2e-15	63.5
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	24.22	256	175	7	6	260	6	243	1e-14	61.2
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	25.30	253	169	9	8	258	10	244	1e-09	46.6
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	26.38	254	164	8	9	258	6	240	3e-09	45.4
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	23.57	263	162	9	3	259	2	231	1e-08	43.9
+NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	25.86	116	63	4	66	174	53	152	1e-04	31.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	100.00	257	0	0	1	257	1	257	2e-172	 471
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	40.84	262	148	2	3	257	2	263	2e-54	 170
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	35.15	202	123	4	54	254	50	244	1e-31	 109
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	33.01	206	134	3	49	252	49	252	1e-28	 101
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	34.18	196	121	5	61	255	56	244	1e-28	 101
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	31.36	220	139	6	35	252	36	245	3e-27	97.4
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	29.84	191	124	6	64	252	59	241	5e-27	96.7
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	32.59	224	141	5	30	252	26	240	1e-25	92.4
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	35.20	250	140	8	5	253	3	231	2e-20	77.0
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	28.30	212	144	4	47	254	45	252	3e-20	76.6
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	26.70	206	141	6	49	252	48	245	6e-19	73.2
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	33.72	172	102	5	83	252	83	244	2e-18	72.0
+NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	26.20	187	123	4	64	250	53	224	5e-11	50.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	100.00	241	0	0	1	241	1	241	2e-146	 404
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	50.92	163	78	2	79	240	83	244	2e-50	 158
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	48.75	160	78	2	84	240	84	242	4e-49	 155
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	45.22	157	82	2	87	240	86	241	5e-45	 144
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	46.25	160	82	2	84	240	83	241	6e-43	 139
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	46.50	157	80	2	87	240	90	245	2e-41	 135
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	38.08	239	144	2	5	240	8	245	4e-37	 124
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	33.73	166	102	3	84	241	88	253	3e-22	82.8
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	32.97	182	108	6	72	240	72	252	2e-20	77.0
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	30.91	165	104	4	84	239	86	249	1e-19	74.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	33.81	139	85	3	105	240	96	230	3e-17	67.8
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	35.59	118	68	3	122	238	114	224	1e-14	60.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	NC_004741|Shigella_flexneri_2a_str._2457T|S4547|fabG|4452842|4453634|1|Protein|NONE|54.0	30.70	114	67	4	135	240	149	258	7e-08	41.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	100.00	226	0	0	1	226	1	226	3e-155	 425
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3009|fabG|3074136|3074883|-1|Protein|NONE|48.2	32.49	237	147	4	1	224	7	243	3e-26	94.0
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl404|fabG|444939|445674|-1|Protein|NONE|31.7	26.36	239	159	5	1	224	3	239	5e-22	81.6
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	31.35	252	144	8	1	226	3	251	2e-21	79.7
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0493|fabG|477656|478394|1|Protein|NONE|59.1	28.93	242	149	8	1	224	4	240	5e-19	72.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_002696|Caulobacter_crescentus_CB15|CC_1492|fabG|1649983|1650751|1|Protein|NONE|66.4	30.18	169	103	4	71	224	82	250	8e-16	63.9
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_344|fabG|386306|387041|1|Protein|NONE|27.5	25.11	231	158	4	8	224	10	239	1e-15	63.2
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4382|fabG|4577308|4578034|1|Protein|NONE|52.6	35.59	118	68	3	114	224	122	238	9e-15	60.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1338|fabG|1322982|1323687|1|Protein|NONE|61.7	27.95	161	108	3	69	224	71	228	3e-14	59.3
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0631|fabG|616469|617213|-1|Protein|NONE|49.7	24.79	242	163	6	1	224	3	243	6e-13	55.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_4092|fabG|4821904|4822642|-1|Protein|NONE|66.8	25.90	139	96	2	93	224	104	242	2e-10	48.5
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4164|fabG|4604507|4605188|-1|Protein|NONE|68.1	NC_003047|Sinorhizobium_meliloti_1021|SMc04391|fabG|3594437|3595211|-1|Protein|NONE|66.1	26.20	187	123	4	53	224	64	250	2e-08	42.4

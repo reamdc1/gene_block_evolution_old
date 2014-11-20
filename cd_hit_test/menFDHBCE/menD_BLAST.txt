@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0
+# Database: cd_hit_test/menFDHBCE/menD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	100.00	567	0	0	1	567	1	567	0.0	1096
+NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	48.39	560	269	6	1	549	1	551	2e-174	 500
+NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	44.99	569	268	12	4	550	6	551	1e-143	 421
+NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	42.08	568	299	14	2	550	5	561	4e-120	 360
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9
+# Database: cd_hit_test/menFDHBCE/menD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	100.00	564	0	0	1	564	1	564	0.0	1116
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	44.81	578	274	12	6	560	4	559	9e-137	 403
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	41.26	572	313	11	6	564	4	565	4e-117	 352
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	40.00	570	317	14	4	556	5	566	1e-102	 315
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9
+# Database: cd_hit_test/menFDHBCE/menD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	100.00	568	0	0	1	568	1	568	0.0	1137
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	47.81	571	278	6	1	562	1	560	2e-176	 505
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	41.61	572	311	12	4	565	6	564	3e-126	 376
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	40.38	572	303	15	2	551	5	560	8e-107	 326
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8
+# Database: cd_hit_test/menFDHBCE/menD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	100.00	573	0	0	1	573	1	573	0.0	1181
+NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	NC_003143|Yersinia_pestis_CO92|YPO2527|menD|2835952|2837656|-1|Protein|NONE|57.0	41.88	573	303	14	5	566	2	555	4e-129	 384
+NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3172|menD|3245572|3247267|-1|Protein|NONE|50.9	40.00	570	317	14	5	566	4	556	5e-121	 363
+NC_004347|Shewanella_oneidensis_MR-1|SO_4573|menD|4766996|4768718|1|Protein|NONE|50.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0283|menD|316653|318360|-1|Protein|NONE|40.9	40.38	572	303	15	5	560	2	551	1e-116	 351

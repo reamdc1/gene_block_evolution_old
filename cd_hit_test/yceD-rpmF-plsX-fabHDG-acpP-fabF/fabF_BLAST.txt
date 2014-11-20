@@ -1,0 +1,56 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	100.00	398	0	0	1	398	1	398	0.0	 730
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	24.71	263	169	6	143	386	138	390	4e-09	46.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	30.47	128	87	1	142	267	133	260	5e-09	45.8
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	25.71	140	97	3	144	281	143	277	1e-07	42.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	100.00	414	0	0	1	414	1	414	0.0	 742
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	49.11	395	194	2	4	394	2	393	1e-116	 340
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	52.63	418	188	7	4	412	2	418	2e-115	 338
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	37.26	416	244	9	4	412	12	417	1e-56	 184
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	42.04	157	84	3	220	376	214	363	4e-29	 106
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	100.00	411	0	0	1	411	1	411	0.0	 804
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	49.88	413	200	2	2	411	4	412	9e-126	 364
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	44.47	434	200	8	1	410	1	417	5e-117	 342
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	36.28	419	243	10	2	410	12	416	1e-71	 224
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	36.67	270	151	7	145	410	144	397	5e-48	 160
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	25.00	268	183	7	4	260	7	267	3e-11	52.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	100.00	399	0	0	1	399	1	399	0.0	 662
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	35.29	255	145	7	142	380	143	393	4e-39	 135
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	40.27	221	116	7	154	359	159	378	1e-36	 128
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	35.91	259	152	6	153	399	162	418	1e-33	 119
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	42.78	194	99	5	214	397	220	411	2e-27	 101
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	100.00	421	0	0	1	421	1	421	0.0	 787
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	52.63	418	188	7	2	418	4	412	2e-123	 358
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	45.37	421	215	6	1	417	1	410	3e-116	 340
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	42.60	277	148	7	145	418	149	417	3e-57	 186
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	40.00	260	139	8	159	417	154	397	9e-45	 152
+NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	26.98	189	120	3	128	312	133	307	1e-09	47.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	100.00	420	0	0	1	420	1	420	0.0	 823
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0727|fabF|707694|708930|-1|Protein|NONE|41.0	34.67	398	245	7	30	416	17	410	1e-68	 216
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3830|fabF|4337831|4339076|-1|Protein|NONE|61.4	37.80	373	216	8	55	417	46	412	2e-61	 197
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_003047|Sinorhizobium_meliloti_1021|SMc00574|fabF|1243254|1244520|1|Protein|NONE|63.7	39.81	314	178	7	112	417	108	418	4e-58	 189
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4086|fabF|4790375|4791575|1|Protein|fabJ|69.8	35.91	259	152	6	162	418	153	399	6e-41	 141
+NC_004347|Shewanella_oneidensis_MR-1|SO_4383|fabF|4578034|4579297|1|Protein|NONE|53.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1597|fabF|1579601|1580798|-1|Protein|NONE|62.3	24.89	221	148	6	73	277	63	281	8e-08	42.4

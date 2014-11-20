@@ -1,0 +1,145 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	100.00	558	0	0	1	558	1	558	0.0	 952
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	49.64	558	261	5	11	556	4	553	2e-142	 418
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	35.94	192	106	4	292	483	126	300	5e-22	87.4
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	36.79	193	100	5	305	497	217	387	5e-22	88.2
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	35.24	210	116	5	290	496	52	244	6e-21	83.2
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	33.64	220	115	4	292	498	50	251	2e-19	78.6
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	28.95	190	115	3	290	478	73	243	3e-15	65.9
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	30.00	180	105	4	301	478	73	233	2e-13	60.5
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	31.67	180	100	2	302	475	62	224	4e-12	56.6
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	26.46	189	119	3	291	478	52	221	1e-11	54.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	100.00	296	0	0	1	296	1	296	0.0	 553
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	61.02	254	98	1	34	287	45	297	2e-111	 320
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	59.56	272	109	1	23	294	12	282	9e-103	 296
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	54.41	272	115	3	15	279	4	273	4e-95	 277
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	54.38	274	125	0	19	292	4	277	1e-93	 273
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	39.22	204	118	5	96	294	85	287	6e-34	 117
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	34.94	166	100	3	95	254	234	397	4e-21	82.4
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	31.34	217	120	5	99	286	323	539	6e-21	82.0
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	36.50	137	85	1	95	229	155	291	2e-20	79.7
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	35.71	154	81	3	98	233	325	478	5e-20	79.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	100.00	307	0	0	1	307	1	307	0.0	 560
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	62.78	266	98	1	33	297	22	287	9e-116	 330
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	62.12	264	100	0	34	297	12	275	4e-103	 298
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	60.30	267	99	2	30	289	7	273	8e-100	 290
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	56.73	275	118	1	30	303	4	278	5e-98	 285
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	31.02	245	162	6	66	305	45	287	1e-30	 108
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	28.74	254	150	4	73	296	287	539	5e-26	97.8
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	32.11	190	109	2	73	243	290	478	4e-24	92.0
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	30.85	201	133	3	72	267	201	400	3e-20	80.1
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	31.71	164	108	2	78	239	130	291	6e-18	72.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	100.00	440	0	0	1	440	1	440	0.0	 780
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	48.45	291	142	1	149	439	78	360	5e-81	 248
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	33.46	254	138	4	215	440	300	550	1e-33	 122
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	33.88	242	144	6	205	438	54	287	1e-32	 116
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	35.57	194	103	3	216	387	304	497	2e-32	 118
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	31.94	216	139	3	214	427	75	284	3e-22	85.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	28.81	236	161	3	204	439	53	281	3e-19	77.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	27.59	232	154	4	201	427	72	294	8e-17	70.5
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	32.12	193	116	4	217	400	65	251	6e-16	67.4
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	30.09	216	139	7	221	432	67	274	3e-13	59.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	100.00	290	0	0	1	290	1	290	1e-156	 434
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	60.30	267	99	2	7	273	30	289	5e-78	 234
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	56.25	272	110	4	4	273	15	279	2e-77	 232
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	56.65	263	107	1	11	273	12	267	3e-70	 213
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	51.49	268	122	2	7	273	4	264	1e-64	 198
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	38.41	138	78	2	90	226	92	223	6e-20	77.0
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	36.09	169	93	3	69	224	306	472	2e-14	62.8
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	35.50	169	94	4	69	224	309	475	1e-13	60.1
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	29.94	167	102	4	91	251	243	400	7e-13	57.8
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	32.85	137	79	2	91	223	164	291	7e-09	45.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	100.00	556	0	0	1	556	1	556	0.0	1047
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	49.64	558	261	5	4	553	11	556	4e-166	 478
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	37.63	194	105	1	300	493	215	392	1e-30	 114
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	34.34	265	142	5	287	548	52	287	2e-30	 110
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	35.48	186	100	3	291	476	131	296	3e-28	 106
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	26.77	254	155	4	287	539	73	296	2e-19	79.0
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	29.18	257	153	4	283	539	44	271	7e-18	73.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	26.74	258	158	5	283	539	59	286	9e-18	73.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	27.47	182	106	2	298	475	62	221	5e-17	70.9
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	33.91	174	104	2	298	471	61	223	1e-13	60.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0141|pstA|146191|147115|1|Protein|NONE|49.6
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0141|pstA|146191|147115|1|Protein|NONE|49.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0141|pstA|146191|147115|1|Protein|NONE|49.6	100.00	307	0	0	1	307	1	307	0.0	 545
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	100.00	282	0	0	1	282	1	282	0.0	 545
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	59.56	272	109	1	12	282	23	294	4e-110	 315
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	63.64	253	92	0	23	275	45	297	8e-110	 315
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	56.65	263	107	1	12	267	11	273	3e-94	 274
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	52.55	274	129	1	9	281	5	278	4e-92	 269
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	29.03	279	193	4	2	276	3	280	5e-33	 114
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	32.02	178	103	2	62	221	298	475	3e-21	83.2
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	31.34	201	126	3	53	245	204	400	7e-19	75.5
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	29.26	188	115	2	52	221	291	478	3e-18	73.9
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	27.86	201	141	2	52	248	124	324	1e-16	68.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	100.00	362	0	0	1	362	1	362	0.0	 613
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	48.67	263	127	1	78	332	149	411	2e-67	 213
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	36.55	197	119	4	124	318	53	245	9e-25	92.0
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	35.57	194	108	3	126	302	292	485	1e-24	94.4
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	34.42	154	85	2	159	296	323	476	1e-24	94.4
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	36.84	133	82	1	159	291	99	229	2e-17	71.6
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	33.83	133	86	1	159	291	109	239	2e-12	56.6
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	34.59	133	85	1	159	291	84	214	6e-12	55.1
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	28.95	190	131	2	135	324	63	248	5e-10	48.9
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	34.06	138	86	1	159	291	86	223	9e-08	42.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	100.00	287	0	0	1	287	1	287	0.0	 573
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	34.34	265	142	5	52	287	287	548	8e-39	 134
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	37.62	210	111	4	52	244	290	496	5e-36	 126
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	32.98	282	181	7	9	287	18	294	8e-36	 122
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	37.50	200	120	4	54	250	205	402	9e-36	 124
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	29.96	277	182	6	13	284	8	277	3e-35	 120
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	36.55	197	119	4	53	245	124	318	9e-35	 120
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	29.03	279	193	4	3	280	2	276	5e-33	 114
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	30.62	258	172	6	32	287	53	305	5e-33	 115
+NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	35.44	206	123	3	27	223	22	226	1e-27	99.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3
+# Database: cd_hit_test_2/pstSCAB-phoU/pstA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	100.00	281	0	0	1	281	1	281	0.0	 519
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0936|pstA|971308|972232|-1|Protein|NONE|66.2	58.46	260	107	1	19	278	45	303	6e-95	 276
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3726|pstA|3906571|3907462|-1|Protein|ECK3719:JW3704:phoR2b:phoT:R2pho|56.2	54.38	274	125	0	4	277	19	292	7e-94	 274
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1381|pstA|1477192|1478041|-1|Protein|NONE|37.1	52.55	274	129	1	5	278	9	281	3e-88	 259
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3267|pstA|3692558|3693431|-1|Protein|NONE|59.7	52.24	268	120	2	4	264	7	273	2e-81	 242
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_004347|Shewanella_oneidensis_MR-1|SO_4290|pstA|4469238|4470102|-1|Protein|NONE|41.7	29.96	277	182	6	8	277	13	284	2e-29	 104
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5367|pstA|6034059|6035736|-1|Protein|NONE|65.9	33.64	220	115	4	50	251	292	498	2e-21	83.6
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0462|pstA|457207|458878|-1|Protein|NONE|48.8	29.18	257	153	4	44	271	283	539	2e-19	77.4
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0615|pstA|575139|576228|1|Protein|NONE|34.6	31.10	164	109	2	53	214	130	291	3e-13	58.5
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1093|pstA|1206839|1207685|1|Protein|NONE|66.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0422|pstA|419081|420404|1|Protein|NONE|60.9	31.03	174	107	3	67	237	221	384	1e-12	56.6

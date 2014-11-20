@@ -1,0 +1,77 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	100.00	370	0	0	1	370	1	370	0.0	 756
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	52.09	359	157	4	8	362	16	363	1e-123	 355
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	45.51	356	184	5	8	361	10	357	1e-104	 306
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	47.98	321	157	4	43	362	1	312	4e-103	 301
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	46.15	364	184	7	8	367	7	362	3e-100	 295
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	46.74	368	179	7	1	366	1	353	8e-98	 289
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	35.64	362	186	14	5	344	6	342	4e-49	 162
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	100.00	364	0	0	1	364	1	364	0.0	 746
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	57.94	359	149	1	5	361	2	360	3e-154	 433
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	55.46	357	152	2	5	361	3	352	2e-133	 380
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	51.40	358	163	4	5	357	11	362	3e-120	 346
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	50.48	311	152	2	47	357	3	311	3e-108	 314
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	45.51	356	184	5	10	357	8	361	1e-104	 306
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	35.29	357	198	9	3	341	2	343	3e-61	 194
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	100.00	367	0	0	1	367	1	367	0.0	 742
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	52.09	359	157	4	16	363	8	362	1e-123	 355
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	51.76	369	157	6	10	366	1	360	7e-122	 350
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	51.40	358	163	4	11	362	5	357	3e-120	 346
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	50.47	319	151	2	49	366	3	315	8e-113	 326
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	49.17	362	166	5	11	366	3	352	1e-108	 317
+NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	39.42	378	185	12	11	366	4	359	4e-64	 201
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	100.00	316	0	0	1	316	1	316	0.0	 649
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	50.47	319	151	2	3	315	49	366	7e-113	 326
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	50.48	311	152	2	3	311	47	357	2e-108	 314
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	51.92	312	143	3	3	313	45	350	3e-105	 306
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	47.98	321	157	4	1	312	43	362	4e-103	 301
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	47.95	317	161	3	3	315	44	360	1e-102	 299
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	36.73	275	152	6	2	265	43	306	2e-54	 174
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	100.00	358	0	0	1	358	1	358	0.0	 691
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	58.33	360	141	3	3	353	2	361	3e-143	 405
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	55.46	357	152	2	3	352	5	361	8e-130	 370
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	49.17	362	166	5	3	352	11	366	2e-106	 310
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	51.92	312	143	3	45	350	3	313	6e-104	 303
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	46.74	368	179	7	1	353	1	366	8e-97	 286
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	34.60	367	212	10	3	352	4	359	4e-51	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	100.00	364	0	0	1	364	1	364	0.0	 694
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	57.94	359	149	1	2	360	5	361	7e-142	 402
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	58.33	360	141	3	2	361	3	353	7e-131	 373
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	51.76	369	157	6	1	360	10	366	2e-108	 316
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	47.95	317	161	3	44	360	3	315	3e-91	 270
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	46.15	364	184	7	7	362	8	367	9e-89	 266
+NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	40.51	316	168	8	2	309	4	307	4e-54	 175
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1
+# Database: cd_hit_test_2/leuLABCD/leuB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	100.00	359	0	0	1	359	1	359	0.0	 650
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_004347|Shewanella_oneidensis_MR-1|SO_4235|leuB|4412480|4413575|-1|Protein|NONE|51.4	39.81	314	171	7	4	306	2	308	9e-58	 184
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_002928|Bordetella_parapertussis_12822|BPP1944|leuB|2081423|2082527|1|Protein|NONE|66.8	38.62	378	188	11	4	359	11	366	1e-57	 184
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl132|leuB|151395|152490|-1|Protein|NONE|31.6	34.73	357	200	9	2	343	3	341	8e-53	 171
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1134|leuB|1101726|1102677|-1|Protein|NONE|40.6	36.53	271	158	5	43	306	2	265	9e-51	 164
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu2791|leuB|2792471|2793584|1|Protein|NONE|60.9	35.29	357	194	12	6	342	5	344	5e-45	 150
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6321|leuB|6964434|6965514|-1|Protein|NONE|64.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1718c|leuB|1629319|1630396|-1|Protein|NONE|34.4	34.06	367	214	10	4	359	3	352	8e-44	 147

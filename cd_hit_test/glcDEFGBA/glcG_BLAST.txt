@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2977|glcG|3121848|3122253|-1|Protein|ECK2971:JW2944:yghC|54.6
+# Database: cd_hit_test/glcDEFGBA/glcG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2977|glcG|3121848|3122253|-1|Protein|ECK2971:JW2944:yghC|54.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2977|glcG|3121848|3122253|-1|Protein|ECK2971:JW2944:yghC|54.6	100.00	118	0	0	1	118	1	118	1e-86	 241
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2977|glcG|3121848|3122253|-1|Protein|ECK2971:JW2944:yghC|54.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1967|glcG|2144669|2145083|-1|Protein|NONE|65.0	59.83	117	46	1	1	116	1	117	3e-49	 145
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1967|glcG|2144669|2145083|-1|Protein|NONE|65.0
+# Database: cd_hit_test/glcDEFGBA/glcG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1967|glcG|2144669|2145083|-1|Protein|NONE|65.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1967|glcG|2144669|2145083|-1|Protein|NONE|65.0	100.00	137	0	0	1	137	1	137	8e-86	 238
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1967|glcG|2144669|2145083|-1|Protein|NONE|65.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2977|glcG|3121848|3122253|-1|Protein|ECK2971:JW2944:yghC|54.6	59.22	103	41	1	1	103	1	102	2e-43	 130

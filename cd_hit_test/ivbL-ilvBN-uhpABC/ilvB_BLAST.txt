@@ -1,0 +1,77 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	100.00	562	0	0	1	562	1	562	0.0	1135
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	46.91	550	285	4	13	560	1	545	2e-162	 469
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	41.42	565	315	4	11	560	22	585	3e-151	 442
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	40.97	559	302	8	13	549	4	556	2e-144	 424
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	31.82	528	334	12	44	548	5	529	5e-82	 261
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	26.18	550	378	11	12	538	3	547	3e-56	 191
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	26.81	552	385	11	11	551	2	545	1e-52	 180
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	100.00	607	0	0	1	607	1	607	0.0	1261
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	50.35	574	276	6	24	591	4	574	0.0	 591
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	43.79	564	296	6	24	585	1	545	8e-156	 454
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	41.42	565	315	4	22	585	11	560	3e-151	 442
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	30.17	590	354	17	53	599	3	577	5e-72	 235
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	28.85	558	377	12	23	568	3	552	4e-61	 205
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	26.48	559	378	12	29	576	9	545	1e-47	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	100.00	577	0	0	1	577	1	577	0.0	1136
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	31.82	528	334	12	5	529	44	548	7e-77	 247
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	29.06	561	360	15	1	546	31	568	5e-68	 223
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	30.17	590	354	17	3	577	53	599	1e-66	 221
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	31.58	513	327	9	18	529	44	533	3e-66	 218
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	25.94	532	356	13	21	536	52	561	3e-36	 132
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	27.87	549	321	19	3	522	33	535	7e-32	 119
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	100.00	574	0	0	1	574	1	574	0.0	1164
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	50.35	574	276	6	4	574	24	591	0.0	 574
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	41.06	565	310	7	4	566	1	544	1e-137	 406
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	40.97	559	302	8	4	556	13	549	2e-137	 405
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	29.06	561	360	15	31	568	1	546	5e-67	 221
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	29.91	545	363	8	1	534	1	537	4e-61	 204
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	26.38	542	357	15	9	535	9	523	1e-38	 139
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	100.00	548	0	0	1	548	1	548	0.0	1093
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	46.73	550	286	4	1	545	13	560	1e-162	 469
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	43.79	564	296	6	1	545	24	585	7e-156	 454
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	41.06	565	310	7	1	544	4	566	1e-145	 426
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	31.58	513	327	9	44	533	18	529	4e-72	 234
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	26.17	554	372	9	1	525	4	549	3e-48	 167
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	27.62	543	349	15	6	523	9	532	1e-40	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	100.00	564	0	0	1	564	1	564	0.0	1053
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	30.19	540	368	7	1	537	1	534	1e-62	 208
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	28.96	556	379	11	3	552	23	568	8e-58	 196
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	26.19	546	383	9	3	547	12	538	3e-51	 176
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	25.95	551	377	8	4	549	1	525	3e-46	 161
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	29.91	565	345	17	1	547	1	532	1e-41	 147
+NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	25.94	532	356	14	52	561	21	536	1e-35	 130
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	100.00	560	0	0	1	560	1	560	0.0	1017
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3671|ilvB|3849118|3850807|-1|Protein|ECK3662:JW3646|56.3	26.99	552	384	11	2	545	11	551	9e-47	 163
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1436|ilvB|1363278|1365102|-1|Protein|NONE|58.6	25.94	559	381	12	9	545	29	576	1e-38	 139
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0981|ilvB|1065590|1067315|1|Protein|NONE|58.4	26.19	504	333	12	9	487	9	498	1e-36	 133
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1032|ilvB|1034359|1036006|-1|Protein|NONE|52.4	27.79	493	321	11	9	487	6	477	2e-32	 120
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_002929|Bordetella_pertussis_Tohama_I|BP0784|ilvB|806151|807846|-1|Protein|NONE|71.0	27.81	579	339	19	1	532	1	547	2e-30	 114
+NC_002927|Bordetella_bronchiseptica_RB50|BB3134|ilvB|3344126|3345809|-1|Protein|NONE|69.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3889|ilvB|4196301|4198035|-1|Protein|NONE|69.0	28.76	539	329	18	33	535	3	522	4e-26	 101

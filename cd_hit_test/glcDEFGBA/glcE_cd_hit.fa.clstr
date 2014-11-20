@@ -1,0 +1,18 @@
+>Cluster 0
+0	412aa, >NC_004463|Bradyrhiz... *
+>Cluster 1
+0	400aa, >NC_003062|Agrobacte... at 64.50%
+1	405aa, >NC_003047|Sinorhizo... *
+>Cluster 2
+0	372aa, >NC_003295|Ralstonia... *
+>Cluster 3
+0	331aa, >NC_002928|Bordetell... at 99.40%
+1	369aa, >NC_002929|Bordetell... *
+2	369aa, >NC_002927|Bordetell... at 100.00%
+>Cluster 4
+0	361aa, >NC_004757|Nitrosomo... *
+>Cluster 5
+0	359aa, >NC_002516|Pseudomon... *
+1	350aa, >NC_000913|Escherich... at 60.00%
+2	352aa, >NC_004578|Pseudomon... at 66.48%
+3	350aa, >NC_002947|Pseudomon... at 64.86%

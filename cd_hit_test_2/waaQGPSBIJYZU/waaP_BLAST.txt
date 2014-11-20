@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5009|waaP|5627864|5628671|-1|Protein|NONE|66.4
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5009|waaP|5627864|5628671|-1|Protein|NONE|66.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5009|waaP|5627864|5628671|-1|Protein|NONE|66.4	100.00	268	0	0	1	268	1	268	0.0	 517
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5009|waaP|5627864|5628671|-1|Protein|NONE|66.4	NC_004741|Shigella_flexneri_2a_str._2457T|S4101|waaP|3999754|4000561|1|Protein|NONE|47.8	56.37	259	113	0	5	263	7	265	9e-100	 285
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4101|waaP|3999754|4000561|1|Protein|NONE|47.8
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4101|waaP|3999754|4000561|1|Protein|NONE|47.8	NC_004741|Shigella_flexneri_2a_str._2457T|S4101|waaP|3999754|4000561|1|Protein|NONE|47.8	100.00	268	0	0	1	268	1	268	0.0	 520
+NC_004741|Shigella_flexneri_2a_str._2457T|S4101|waaP|3999754|4000561|1|Protein|NONE|47.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5009|waaP|5627864|5628671|-1|Protein|NONE|66.4	56.37	259	113	0	7	265	5	263	2e-98	 282

@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	100.00	225	0	0	1	225	1	225	8e-174	 470
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	51.80	139	66	1	47	185	21	158	6e-56	 168
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	45.09	173	81	4	10	181	35	194	9e-49	 150
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	40.44	136	76	4	42	174	15	148	3e-29	 100
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	100.00	276	0	0	1	276	1	276	0.0	 545
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	37.06	143	82	4	20	161	21	156	4e-32	 107
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	35.83	120	73	1	43	162	82	197	9e-32	 107
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	40.44	136	76	4	15	148	42	174	3e-29	 100
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	100.00	169	0	0	1	169	1	169	2e-130	 356
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	54.17	144	65	1	18	160	57	200	3e-60	 178
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	51.80	139	66	1	21	158	47	185	4e-56	 168
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	37.06	143	82	4	21	156	20	161	2e-32	 107
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0
+# Database: cd_hit_test_2/nuoABCEFGHIJKLMN/nuoB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	100.00	202	0	0	1	202	1	202	3e-139	 381
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1602|nuoB|1531261|1531771|-1|Protein|NONE|40.0	55.00	140	62	1	57	196	18	156	2e-53	 161
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2638|nuoB|2983204|2983882|1|Protein|NONE|62.8	43.93	173	83	4	35	194	10	181	7e-41	 130
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4918|nuoB|5451168|5451777|-1|Protein|NONE|65.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS1836|nuoB|1726811|1727642|-1|Protein|NONE|52.7	35.83	120	73	1	82	197	43	162	1e-25	89.7

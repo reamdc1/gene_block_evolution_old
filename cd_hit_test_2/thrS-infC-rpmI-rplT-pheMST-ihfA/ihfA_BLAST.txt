@@ -1,0 +1,50 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	100.00	85	0	0	1	85	1	85	1e-42	 127
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	59.52	84	34	0	2	85	11	94	2e-24	80.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	56.63	83	36	0	3	85	4	86	8e-24	78.6
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	47.56	82	43	0	3	84	6	87	4e-18	63.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	46.25	80	43	0	3	82	14	93	1e-16	60.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2429|pheS|2730477|2731461|-1|Protein|NONE|47.6
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2429|pheS|2730477|2731461|-1|Protein|NONE|47.6	NC_003143|Yersinia_pestis_CO92|YPO2429|pheS|2730477|2731461|-1|Protein|NONE|47.6	100.00	327	0	0	1	327	1	327	0.0	 649
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	100.00	101	0	0	1	101	1	101	2e-72	 204
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	64.21	95	34	0	4	98	12	106	2e-43	 130
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	53.41	88	41	0	4	91	10	97	2e-32	 102
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	43.48	92	52	0	5	96	3	94	2e-25	83.2
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	47.19	89	47	0	6	94	3	91	4e-22	74.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	100.00	113	0	0	1	113	1	113	1e-81	 227
+NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	54.35	92	42	0	11	102	3	94	9e-36	 110
+NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	53.41	88	41	0	10	97	4	91	2e-32	 101
+NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	58.89	90	37	0	11	100	2	91	2e-31	99.0
+NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	44.33	97	54	0	1	97	3	99	6e-28	90.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	100.00	96	0	0	1	96	1	96	2e-69	 195
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	54.35	92	42	0	3	94	11	102	8e-36	 110
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	55.06	89	40	0	4	92	3	91	1e-29	93.6
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	47.78	90	47	0	3	92	13	102	1e-26	86.3
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	43.48	92	52	0	3	94	5	96	2e-25	83.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/ihfA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	100.00	119	0	0	1	119	1	119	8e-89	 246
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu1180|ihfA|1173773|1174112|1|Protein|NONE|56.9	64.21	95	34	0	12	106	4	98	2e-43	 130
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	NC_002928|Bordetella_parapertussis_12822|BPP2600|ihfA|2802890|2803232|1|Protein|NONE|65.5	44.33	97	54	0	3	99	1	97	6e-28	90.5
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1313|ihfA|1391711|1392002|1|Protein|NONE|37.8	47.78	90	47	0	13	102	3	92	2e-26	86.3
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5019|ihfA|5565902|5566262|-1|Protein|NONE|61.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_129|ihfA|137216|137525|1|Protein|NONE|26.5	45.56	90	49	0	14	103	3	92	4e-21	72.4

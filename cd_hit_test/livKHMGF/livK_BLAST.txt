@@ -1,0 +1,35 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1
+# Database: cd_hit_test/livKHMGF/livK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	100.00	369	0	0	1	369	1	369	0.0	 755
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	40.83	360	210	3	1	359	1	358	2e-90	 270
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	28.23	248	173	4	25	270	19	263	2e-28	 103
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	23.05	295	221	6	34	323	42	335	2e-11	52.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3810|tnp|4276418|4276877|-1|Protein|NONE|46.0
+# Database: cd_hit_test/livKHMGF/livK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3810|tnp|4276418|4276877|-1|Protein|NONE|46.0	NC_003143|Yersinia_pestis_CO92|YPO3810|tnp|4276418|4276877|-1|Protein|NONE|46.0	100.00	152	0	0	1	152	1	152	8e-117	 320
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0
+# Database: cd_hit_test/livKHMGF/livK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	100.00	392	0	0	1	392	1	392	0.0	 722
+NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	22.13	244	186	4	42	284	34	274	5e-09	45.4
+NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	21.46	247	190	4	33	278	24	267	2e-06	37.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3
+# Database: cd_hit_test/livKHMGF/livK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	100.00	369	0	0	1	369	1	369	0.0	 715
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	26.27	335	235	6	19	349	24	350	5e-29	 104
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	28.23	248	173	4	19	263	25	270	2e-28	 103
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4
+# Database: cd_hit_test/livKHMGF/livK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	100.00	372	0	0	1	372	1	372	0.0	 753
+NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3458|livK|3594473|3595583|-1|Protein|ECK3442:hrbB:hrbC:hrbD:JW3423|54.1	40.83	360	210	3	1	358	1	359	2e-90	 270
+NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1018c|livK|950758|951868|-1|Protein|NONE|32.3	26.27	335	235	6	24	350	19	349	5e-29	 104
+NC_003047|Sinorhizobium_meliloti_1021|SMc01946|livK|2668388|2669507|-1|Protein|NONE|61.4	NC_002928|Bordetella_parapertussis_12822|BPP2040|livK|2178955|2180134|1|Protein|NONE|64.0	22.36	313	233	8	24	329	33	342	6e-07	38.5

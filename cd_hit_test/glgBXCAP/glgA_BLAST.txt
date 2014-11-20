@@ -1,0 +1,119 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	100.00	477	0	0	1	477	1	477	0.0	 931
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	58.19	476	199	0	1	476	1	476	0.0	 556
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	48.64	477	238	4	2	476	5	476	2e-135	 394
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	45.83	480	251	5	1	476	1	475	4e-131	 383
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	41.54	479	264	7	2	476	44	510	3e-106	 320
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	39.50	476	270	8	4	475	1	462	5e-97	 295
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	40.40	495	267	12	1	476	4	489	1e-85	 266
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	38.37	490	270	16	1	473	6	480	6e-79	 248
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	29.70	532	288	22	15	476	18	533	1e-37	 134
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	100.00	481	0	0	1	481	1	481	0.0	 864
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	50.73	481	233	2	2	481	5	482	6e-143	 414
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	45.83	480	251	5	1	475	1	476	7e-123	 362
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	41.67	480	275	4	1	477	1	478	5e-112	 334
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	41.56	486	259	9	2	478	44	513	1e-98	 300
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	37.71	480	264	9	6	472	3	460	6e-87	 269
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	39.26	489	284	7	1	477	4	491	4e-73	 233
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	31.35	488	316	10	1	477	6	485	6e-59	 194
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	42.59	54	31	0	353	406	417	470	4e-10	50.8
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	24.72	271	160	13	15	249	18	280	5e-09	47.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	100.00	462	0	0	1	462	1	462	0.0	 836
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	55.72	463	203	1	1	461	46	508	2e-160	 459
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	39.08	476	272	8	1	462	4	475	9e-93	 284
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	36.86	472	280	7	5	462	8	475	5e-88	 271
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	36.67	480	269	9	3	460	6	472	5e-83	 258
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	38.19	474	272	10	1	460	7	473	1e-81	 255
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	35.95	484	282	13	1	460	7	486	2e-56	 188
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	29.77	487	300	16	1	460	9	480	5e-52	 176
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	28.18	479	245	18	12	410	18	477	2e-25	99.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	100.00	498	0	0	1	498	1	498	0.0	 823
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	40.88	477	267	7	1	476	1	463	9e-81	 254
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	40.46	482	259	12	4	476	1	463	3e-78	 247
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	39.32	473	274	7	4	475	1	461	1e-77	 245
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	36.13	476	288	9	4	476	1	463	4e-71	 228
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	39.58	475	261	12	5	475	44	496	2e-68	 221
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	37.84	473	266	13	7	475	1	449	9e-62	 203
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	30.66	486	307	16	2	476	4	470	3e-46	 160
+NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	26.92	483	269	16	5	418	3	470	5e-20	82.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	100.00	485	0	0	1	485	1	485	0.0	 967
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	38.04	489	273	15	6	480	1	473	2e-84	 262
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	35.82	483	289	9	8	482	6	475	2e-80	 252
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	35.61	497	284	14	6	485	1	478	7e-78	 245
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	31.35	488	316	10	6	485	1	477	3e-66	 214
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	31.72	495	292	19	4	480	41	507	1e-59	 197
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	32.08	505	299	20	4	482	2	488	2e-58	 194
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	29.98	487	299	16	9	480	1	460	3e-58	 192
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	27.71	545	305	22	8	480	4	531	6e-40	 141
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	100.00	519	0	0	1	519	1	519	0.0	1045
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	55.72	463	203	1	46	508	1	461	2e-180	 511
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	41.25	480	266	6	44	511	2	477	1e-116	 347
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	41.54	479	264	7	44	510	2	476	3e-115	 344
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	42.18	486	256	9	44	513	2	478	1e-111	 334
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	40.91	484	267	10	44	515	5	481	5e-102	 310
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	39.27	494	274	12	44	515	5	494	5e-85	 266
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	31.92	495	291	19	41	507	4	480	4e-63	 207
+NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	26.67	495	278	19	43	464	2	484	2e-26	 102
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	100.00	480	0	0	1	480	1	480	0.0	 947
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	58.19	476	199	0	1	476	1	476	0.0	 548
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	41.67	480	275	4	1	478	1	477	5e-117	 347
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	44.56	478	258	4	2	477	5	477	4e-116	 345
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	39.79	480	273	6	2	477	44	511	1e-106	 321
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	36.44	472	282	7	8	475	5	462	1e-95	 291
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	36.46	491	296	9	1	478	4	491	6e-72	 230
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	35.73	501	278	15	1	478	6	485	3e-71	 228
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	30.15	481	244	24	15	416	18	485	3e-33	 122
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	100.00	534	0	0	1	534	1	534	0.0	1036
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	30.08	532	286	22	18	533	15	476	4e-43	 151
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	27.71	545	305	22	4	531	8	480	4e-41	 145
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	31.19	481	239	24	18	485	15	416	3e-39	 139
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	29.33	549	279	24	3	526	5	469	2e-36	 131
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	29.44	479	239	18	18	477	12	410	7e-35	 126
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	26.67	495	278	19	2	484	43	464	5e-27	 104
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	28.75	480	264	20	3	470	5	418	2e-26	 102
+NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	25.16	465	263	20	18	470	15	406	4e-24	95.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0
+# Database: cd_hit_test/glgBXCAP/glgA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	100.00	482	0	0	1	482	1	482	0.0	 926
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr7589|glgA|6276797|6278243|1|Protein|NONE|65.6	50.73	481	233	2	5	482	2	481	5e-158	 452
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3429|glgA|3564622|3566056|-1|Protein|ECK3415:JW3392|55.0	48.85	477	237	4	5	476	2	476	3e-140	 407
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0544|glgA|624157|625600|1|Protein|NONE|42.4	43.51	478	263	4	5	477	2	477	4e-121	 358
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_002947|Pseudomonas_putida_KT2440|PP_4050|glgA|4564754|4566314|1|Protein|NONE|63.8	40.87	482	266	10	5	479	44	513	2e-97	 298
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_002928|Bordetella_parapertussis_12822|BPP2889|glgA|3095097|3096630|1|Protein|NONE|72.7	41.58	493	273	7	1	479	1	492	2e-91	 282
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_0421|glgA|494332|495757|1|Protein|NONE|69.3	38.40	474	267	11	9	473	3	460	3e-85	 264
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP1024|glgA|1074296|1075754|1|Protein|NONE|44.9	35.82	483	289	9	6	475	8	482	4e-77	 243
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	31.89	254	126	12	5	224	3	243	6e-19	79.0
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6459|glgA|7110721|7112170|1|Protein|NONE|68.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1499|glgA|1568713|1570318|1|Protein|NONE|50.2	33.56	146	87	3	327	469	388	526	6e-17	72.4

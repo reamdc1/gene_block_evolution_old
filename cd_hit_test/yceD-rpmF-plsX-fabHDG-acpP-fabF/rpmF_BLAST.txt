@@ -1,0 +1,41 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/rpmF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	100.00	60	0	0	1	60	1	60	1e-42	 122
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	55.36	56	25	0	1	56	1	56	3e-22	70.9
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	51.72	58	28	0	1	58	1	58	8e-22	69.7
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	45.45	55	29	1	1	54	1	55	2e-12	44.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/rpmF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	100.00	61	0	0	1	61	1	61	2e-43	 125
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	47.54	61	31	1	1	61	1	60	1e-15	53.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	45.45	55	29	1	1	55	1	54	2e-12	44.7
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	43.64	55	30	1	1	55	1	54	7e-12	43.1
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	42.00	50	28	1	1	50	1	49	4e-10	38.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/rpmF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	100.00	56	0	0	1	56	1	56	4e-40	 116
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	55.36	56	25	0	1	56	1	56	3e-22	70.9
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	57.41	54	23	0	1	54	1	54	4e-21	67.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	43.64	55	30	1	1	54	1	55	7e-12	43.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/rpmF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	100.00	64	0	0	1	64	1	64	2e-45	 130
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA2970|rpmF|3328202|3328385|-1|Protein|NONE|57.4	51.72	58	28	0	1	58	1	58	8e-22	69.7
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl408|rpmF|448729|448900|-1|Protein|NONE|29.2	57.41	54	23	0	1	54	1	54	5e-21	67.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	47.54	61	31	1	1	60	1	61	1e-15	53.9
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	37.21	43	26	1	1	43	1	42	4e-06	27.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/rpmF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	100.00	49	0	0	1	49	1	49	5e-34	 100
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu0112|rpmF|117211|117397|1|Protein|NONE|55.4	42.00	50	28	1	1	49	1	50	3e-10	38.5
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0679|rpmF|658673|658823|1|Protein|NONE|38.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3230|rpmF|3875724|3875919|-1|Protein|NONE|63.1	37.21	43	26	1	1	42	1	43	3e-06	27.3

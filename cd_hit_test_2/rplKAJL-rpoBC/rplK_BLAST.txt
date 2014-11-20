@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	100.00	142	0	0	1	142	1	142	3e-82	 230
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	59.86	142	57	0	1	142	1	142	9e-54	 158
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	60.43	139	55	0	3	141	5	143	3e-44	 133
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	100.00	146	0	0	1	146	1	146	1e-106	 292
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	60.43	139	55	0	5	143	3	141	5e-57	 166
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	56.12	139	61	0	5	143	3	141	2e-54	 159
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	100.00	144	0	0	1	144	1	144	2e-93	 259
+NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_037|rplK|46765|47194|-1|Protein|NONE|29.1	59.86	142	57	0	1	142	1	142	1e-61	 177
+NC_003112|Neisseria_meningitidis_MC58|NMB0127|rplK|134561|134996|1|Protein|NONE|44.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl561|rplK|630834|631275|-1|Protein|NONE|31.5	56.12	139	61	0	3	141	5	143	3e-49	 146

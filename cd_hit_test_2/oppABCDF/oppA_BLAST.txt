@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7
+# Database: cd_hit_test_2/oppABCDF/oppA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	100.00	545	0	0	1	545	1	545	0.0	1066
+NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	56.57	548	234	3	1	544	1	548	0.0	 608
+NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	54.98	522	231	3	28	545	20	541	0.0	 556
+NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	23.39	496	305	17	43	498	32	492	5e-24	94.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5
+# Database: cd_hit_test_2/oppABCDF/oppA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	100.00	541	0	0	1	541	1	541	0.0	1078
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	52.71	535	250	1	6	540	17	548	0.0	 578
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	54.16	541	240	4	5	541	9	545	0.0	 574
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	25.05	491	297	19	42	496	39	494	3e-28	 107
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0
+# Database: cd_hit_test_2/oppABCDF/oppA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	100.00	538	0	0	1	538	1	538	0.0	1038
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	28.87	291	168	9	40	305	51	327	1e-26	 102
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	24.80	500	297	21	39	499	42	501	4e-24	94.4
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	25.00	400	237	13	31	383	42	425	3e-23	92.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3
+# Database: cd_hit_test_2/oppABCDF/oppA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	100.00	548	0	0	1	548	1	548	0.0	1074
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	NC_003143|Yersinia_pestis_CO92|YPO2182|oppA|2457568|2459206|1|Protein|NONE|42.7	56.57	548	234	3	1	548	1	544	0.0	 612
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1124|oppA|1190308|1191934|-1|Protein|NONE|40.5	53.86	518	239	0	31	548	23	540	0.0	 572
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1910|oppA|2149438|2151085|-1|Protein|NONE|40.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0856|oppA|1017610|1019227|1|Protein|NONE|69.0	25.00	492	290	17	51	502	40	492	4e-28	 106

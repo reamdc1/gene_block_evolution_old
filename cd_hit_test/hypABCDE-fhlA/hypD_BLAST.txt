@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4
+# Database: cd_hit_test/hypABCDE-fhlA/hypD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	100.00	373	0	0	1	373	1	373	0.0	 776
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	48.46	357	177	3	23	372	21	377	6e-124	 356
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	41.30	368	208	2	1	368	1	360	6e-117	 337
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	42.98	363	196	2	15	366	14	376	2e-116	 337
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9
+# Database: cd_hit_test/hypABCDE-fhlA/hypD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	100.00	380	0	0	1	380	1	380	0.0	 786
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	58.20	366	147	3	14	379	2	361	6e-156	 437
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	45.78	367	187	5	18	376	9	371	5e-118	 341
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	42.98	363	196	2	14	376	15	366	2e-116	 337
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7
+# Database: cd_hit_test/hypABCDE-fhlA/hypD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	100.00	363	0	0	1	363	1	363	0.0	 742
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	58.20	366	147	3	2	361	14	379	6e-156	 437
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	43.82	372	199	4	1	362	4	375	2e-120	 347
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	41.30	368	208	2	1	360	1	368	6e-117	 337
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1
+# Database: cd_hit_test/hypABCDE-fhlA/hypD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	100.00	383	0	0	1	383	1	383	0.0	 792
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2729|hypD|2850157|2851279|1|Protein|ECK2724:hydF:JW2699|55.4	48.46	357	177	3	21	377	23	372	7e-124	 356
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0625|hypD|585101|586193|1|Protein|NONE|34.7	43.82	372	199	4	4	375	1	362	2e-120	 347
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr1736|hypD|1900380|1901532|1|Protein|NONE|60.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0322|hypD|319507|320650|-1|Protein|NONE|38.9	45.78	367	187	5	9	371	18	376	5e-118	 341

@@ -1,0 +1,117 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	100.00	165	0	0	1	165	1	165	7e-109	 301
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	44.85	165	90	1	1	165	1	164	2e-43	 134
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	40.91	132	78	0	24	155	24	155	4e-35	 112
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	34.75	118	77	0	22	139	22	139	2e-22	79.7
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	32.86	140	92	2	22	161	22	159	2e-19	70.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	26.54	162	117	2	1	162	1	160	8e-17	63.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	31.65	139	91	3	26	164	24	158	2e-16	62.0
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	26.67	135	96	2	29	163	27	158	1e-13	53.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	30.25	119	82	1	22	140	20	137	3e-13	53.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	100.00	166	0	0	1	166	1	166	3e-102	 284
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	50.00	130	65	0	32	161	32	161	7e-43	 133
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	44.85	165	90	1	1	164	1	165	6e-39	 122
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	38.46	130	79	1	32	160	32	161	1e-34	 111
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	40.69	145	74	2	31	164	31	174	2e-33	 108
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	42.24	161	92	1	1	161	1	160	7e-32	 104
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	40.80	125	73	1	32	156	30	153	6e-25	86.3
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	30.37	135	87	2	31	163	29	158	7e-17	63.5
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	28.79	132	92	1	31	162	29	158	1e-15	60.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	100.00	172	0	0	1	172	1	172	1e-123	 339
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	37.21	172	106	1	1	172	3	172	2e-32	 106
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	40.67	150	88	1	5	153	7	156	8e-29	96.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	40.26	154	91	1	1	153	3	156	8e-29	96.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	39.58	144	87	0	6	149	8	151	9e-25	85.9
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	32.03	153	102	1	1	153	1	151	6e-24	83.6
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	31.72	145	96	2	1	144	1	143	4e-20	72.8
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	29.85	134	93	1	5	137	7	140	1e-18	68.9
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	29.10	134	94	1	5	137	7	140	6e-15	58.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	100.00	165	0	0	1	165	1	165	7e-118	 324
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	37.27	161	100	1	1	161	1	160	2e-41	 129
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	40.65	155	92	0	1	155	1	155	5e-39	 123
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	27.27	143	104	0	1	143	1	143	1e-25	87.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	32.62	141	90	3	3	140	1	139	2e-20	73.9
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	29.85	134	93	1	7	140	5	137	1e-18	68.9
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	26.90	145	105	1	1	145	1	144	2e-16	62.0
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	27.46	142	90	3	7	143	5	138	5e-16	60.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	27.33	161	102	5	7	161	5	156	8e-15	57.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	100.00	165	0	0	1	165	1	165	1e-118	 327
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	47.20	161	85	0	1	161	1	161	2e-48	 148
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	44.24	165	91	1	1	165	1	164	8e-41	 128
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	40.85	164	96	1	1	164	1	163	3e-37	 119
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	40.26	154	91	1	3	156	1	153	1e-28	96.7
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	33.81	139	92	0	1	139	1	139	1e-26	90.9
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	27.27	143	104	0	1	143	1	143	2e-25	87.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	27.56	156	110	1	6	161	4	156	3e-20	73.6
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	33.82	136	85	3	21	154	18	150	7e-19	69.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	100.00	174	0	0	1	174	1	174	6e-125	 343
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	55.81	172	65	1	1	172	1	161	8e-58	 172
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	38.29	175	96	2	1	174	1	164	4e-38	 120
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	40.85	164	96	1	1	163	1	164	3e-37	 119
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	37.21	172	106	1	3	172	1	172	2e-32	 106
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	35.03	157	100	1	3	159	1	155	4e-27	92.0
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	30.32	155	105	2	3	156	1	153	4e-23	81.3
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	30.43	161	110	2	1	159	1	161	8e-22	77.8
+NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	32.62	141	90	3	1	139	3	140	2e-20	73.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	100.00	160	0	0	1	160	1	160	4e-119	 327
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	50.00	158	78	1	1	158	1	157	4e-57	 169
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	30.32	155	105	2	1	153	3	156	4e-23	81.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	31.72	145	96	2	1	143	1	144	3e-20	72.8
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	32.67	150	98	2	10	157	12	160	7e-20	72.0
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	33.82	136	85	3	18	150	21	154	5e-19	69.7
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	28.21	156	110	1	5	158	7	162	8e-18	66.2
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	27.33	161	102	5	5	156	7	161	7e-15	57.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	26.67	135	96	2	27	158	29	163	1e-13	53.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	100.00	159	0	0	1	159	1	159	9e-94	 262
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	50.00	158	78	1	1	157	1	158	2e-45	 139
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	35.03	157	100	1	1	155	3	159	6e-19	69.3
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	38.73	142	85	1	20	159	22	163	1e-17	65.5
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	32.03	153	102	1	1	151	1	153	1e-16	62.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	30.82	159	103	2	5	158	7	163	2e-14	55.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	27.56	156	110	1	4	156	6	161	4e-13	52.4
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	27.46	142	90	3	5	138	7	143	3e-08	39.7
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	29.87	154	104	3	9	158	11	164	1e-07	38.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	100.00	151	0	0	1	151	1	151	5e-100	 279
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_002928|Bordetella_parapertussis_12822|BPP0012|rplJ|10557|11082|1|Protein|NONE|61.3	58.94	151	62	0	1	151	1	151	4e-56	 167
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3349|rplJ|3999133|3999667|-1|Protein|NONE|62.0	46.05	152	81	1	1	151	1	152	2e-38	 122
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4272|rplJ|4781285|4781786|-1|Protein|NONE|59.5	42.11	152	87	1	1	151	1	152	1e-34	 111
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0274|rplJ|192229|192748|1|Protein|NONE|61.8	39.58	144	87	0	8	151	6	149	9e-25	85.9
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0476|rplJ|438005|438485|1|Protein|NONE|32.5	37.50	128	78	1	22	149	20	145	5e-24	83.2
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_035|rplJ|45304|45802|-1|Protein|NONE|28.5	26.17	149	109	1	1	148	1	149	1e-19	71.2
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0465|rplJ|457347|457830|1|Protein|NONE|40.8	33.09	139	90	2	12	149	10	146	8e-19	68.9
+NC_003112|Neisseria_meningitidis_MC58|NMB0130|rplJ|135920|136421|1|Protein|NONE|47.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl559|rplJ|629315|629813|-1|Protein|NONE|27.1	27.08	144	104	1	1	143	1	144	2e-16	62.0

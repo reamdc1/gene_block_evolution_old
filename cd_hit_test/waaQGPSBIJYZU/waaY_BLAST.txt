@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3625|rfaY|3798289|3798988|-1|Protein|ECK3615:JW3600:waaY|35.3
+# Database: cd_hit_test/waaQGPSBIJYZU/waaY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3625|rfaY|3798289|3798988|-1|Protein|ECK3615:JW3600:waaY|35.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3625|rfaY|3798289|3798988|-1|Protein|ECK3615:JW3600:waaY|35.3	100.00	232	0	0	1	232	1	232	6e-173	 468
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3625|rfaY|3798289|3798988|-1|Protein|ECK3615:JW3600:waaY|35.3	NC_004741|Shigella_flexneri_2a_str._2457T|S4103|waaY|4001636|4002344|1|Protein|NONE|30.5	58.22	213	89	0	1	213	1	213	8e-88	 252
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4103|waaY|4001636|4002344|1|Protein|NONE|30.5
+# Database: cd_hit_test/waaQGPSBIJYZU/waaY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4103|waaY|4001636|4002344|1|Protein|NONE|30.5	NC_004741|Shigella_flexneri_2a_str._2457T|S4103|waaY|4001636|4002344|1|Protein|NONE|30.5	100.00	235	0	0	1	235	1	235	1e-160	 437
+NC_004741|Shigella_flexneri_2a_str._2457T|S4103|waaY|4001636|4002344|1|Protein|NONE|30.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3625|rfaY|3798289|3798988|-1|Protein|ECK3615:JW3600:waaY|35.3	58.22	213	89	0	1	213	1	213	8e-88	 252

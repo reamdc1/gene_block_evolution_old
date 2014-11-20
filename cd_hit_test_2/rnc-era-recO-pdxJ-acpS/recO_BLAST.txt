@@ -1,0 +1,141 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	100.00	250	0	0	1	250	1	250	9e-168	 458
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	39.34	244	146	2	8	250	1	243	1e-52	 164
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	38.91	221	134	1	8	228	13	232	1e-49	 157
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	38.33	240	145	2	8	245	1	239	1e-44	 143
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	26.83	164	94	7	12	163	8	157	7e-08	40.8
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	36.84	57	35	1	15	70	5	61	6e-06	35.0
+NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	35.38	65	37	2	14	75	8	70	2e-05	33.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	100.00	233	0	0	1	233	1	233	4e-150	 412
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	37.83	230	136	2	4	226	39	268	4e-45	 144
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	37.55	229	134	4	7	228	8	234	2e-38	 127
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	37.28	228	137	4	10	233	5	230	4e-36	 120
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	33.04	230	140	4	7	224	10	237	3e-28	99.4
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	32.35	238	148	3	7	231	6	243	2e-26	94.0
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	30.83	240	151	4	9	233	11	250	4e-25	90.5
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	27.42	124	79	4	50	167	62	180	6e-05	32.0
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	27.78	144	93	5	11	146	9	149	9e-05	31.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	100.00	247	0	0	1	247	1	247	2e-170	 465
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	57.89	247	103	1	1	247	13	258	3e-93	 269
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	53.33	240	111	1	1	239	1	240	2e-76	 226
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	39.34	244	146	2	1	243	8	250	4e-46	 147
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	42.11	38	19	1	122	159	127	161	8e-05	31.6
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	27.78	144	91	6	9	148	11	145	0.001	28.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	100.00	245	0	0	1	245	1	245	3e-177	 482
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	44.44	243	122	3	6	243	38	272	2e-60	 185
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	40.59	239	140	2	6	243	5	242	7e-54	 167
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	33.91	230	143	3	10	237	8	230	4e-33	 112
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	36.09	230	133	5	10	237	7	224	2e-31	 108
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	34.04	235	146	6	12	245	4	230	4e-29	 101
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	32.03	153	103	1	7	158	3	155	7e-23	84.0
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	25.41	181	111	6	14	178	21	193	1e-06	37.4
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	31.67	60	39	1	9	68	4	61	1e-05	33.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	100.00	243	0	0	1	243	1	243	4e-180	 489
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	33.77	231	150	2	3	233	39	266	7e-36	 120
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	35.00	240	139	6	6	243	7	231	2e-31	 107
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	30.04	233	152	4	8	237	10	234	2e-30	 105
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	33.63	226	142	4	8	233	4	221	6e-27	95.5
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	30.74	244	157	5	3	240	6	243	4e-26	93.6
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	32.03	153	103	1	3	155	7	158	7e-23	84.0
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	31.25	160	89	6	8	156	19	168	2e-11	51.6
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	30.91	165	89	6	8	159	7	159	3e-09	45.1
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	30.52	154	100	4	10	159	9	159	2e-06	36.6
+NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	35.38	65	37	2	8	70	14	75	2e-05	33.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	100.00	243	0	0	1	243	1	243	1e-172	 470
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	39.74	229	129	5	8	234	7	228	1e-39	 129
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	35.22	230	145	2	8	234	42	270	1e-38	 128
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	39.21	227	133	5	7	232	1	223	9e-38	 124
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	33.91	230	143	3	8	230	10	237	2e-27	97.4
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	33.05	236	141	5	10	234	11	240	6e-27	96.3
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	30.04	233	152	4	10	234	8	237	3e-26	93.6
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	25.48	157	100	4	10	157	19	167	4e-05	32.3
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	27.12	59	41	1	8	66	12	68	9e-05	31.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	100.00	272	0	0	1	272	1	272	0.0	 518
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	44.44	243	122	3	38	272	6	243	6e-55	 171
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	40.00	230	131	3	39	268	4	226	3e-45	 145
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	35.95	242	150	3	35	272	2	242	4e-41	 135
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	35.22	230	145	2	42	270	8	234	3e-39	 129
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	33.77	231	150	2	39	266	3	233	2e-32	 111
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	32.44	225	147	4	44	268	4	223	2e-25	91.7
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	26.99	163	107	6	44	201	7	162	7e-08	41.2
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	27.03	148	101	4	44	187	19	163	5e-07	38.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	100.00	263	0	0	1	263	1	263	5e-171	 468
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	40.56	249	126	4	5	242	6	243	5e-47	 150
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	35.54	242	151	2	2	242	35	272	2e-41	 136
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	34.75	236	137	5	11	240	10	234	7e-27	95.9
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	31.33	249	138	4	11	250	9	233	5e-25	90.5
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	36.05	147	93	1	6	151	3	149	3e-23	85.5
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	29.37	143	97	3	12	153	5	144	1e-14	60.5
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	31.47	143	79	4	21	153	29	162	5e-09	44.7
+NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	27.34	139	88	3	21	152	17	149	1e-04	31.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	100.00	248	0	0	1	248	1	248	0.0	 499
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	59.92	237	94	1	13	248	1	237	1e-105	 301
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	53.16	237	109	1	13	247	1	237	8e-85	 248
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	38.91	221	134	1	13	232	8	228	1e-49	 157
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	31.25	160	89	6	19	168	8	156	2e-11	51.6
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	29.96	227	126	9	29	237	21	232	5e-11	50.4
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	25.48	157	100	4	19	167	10	157	2e-09	45.8
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	26.67	165	108	6	21	180	11	167	2e-07	39.7
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	25.62	160	88	5	19	163	44	187	7e-07	38.1
+NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	25.41	181	111	6	21	193	14	178	8e-07	37.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	100.00	233	0	0	1	233	1	233	6e-164	 447
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	38.77	227	134	5	1	223	7	232	1e-37	 124
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	39.91	228	131	5	5	230	10	233	4e-37	 123
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2069|recO|2255655|2256393|1|Protein|NONE|71.7	34.04	235	146	6	4	230	12	245	3e-25	90.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	32.59	224	146	4	5	223	45	268	4e-25	90.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	33.63	226	142	4	4	221	8	233	5e-23	84.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_003112|Neisseria_meningitidis_MC58|NMB0447|recO|461794|462586|1|Protein|NONE|61.7	29.19	161	110	3	5	162	12	171	1e-12	55.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	36.84	57	35	1	5	61	15	70	5e-06	35.0
+NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	44.44	45	24	1	4	48	7	50	1e-04	31.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/recO_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	100.00	250	0	0	1	250	1	250	2e-168	 460
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0701|recO|673745|674489|1|Protein|NONE|59.0	53.33	240	111	1	1	240	1	239	2e-80	 236
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_003047|Sinorhizobium_meliloti_1021|SMc02635|recO|1184358|1185138|1|Protein|NONE|65.4	53.16	237	109	1	1	237	13	247	6e-77	 227
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_002696|Caulobacter_crescentus_CB15|CC_1564|recO|1727435|1728188|1|Protein|NONE|69.3	38.33	240	145	2	1	239	8	245	1e-35	 119
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_002488|Xylella_fastidiosa_9a5c|XF2248|recO|2138169|2138901|1|Protein|NONE|54.0	31.52	165	88	7	7	159	8	159	3e-09	45.4
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0772|recO|840384|841086|1|Protein|NONE|69.2	31.29	147	84	7	9	149	11	146	2e-08	42.4
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1065|recO|1118279|1119098|1|Protein|NONE|68.0	27.44	164	105	6	7	162	44	201	3e-07	38.9
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1567|recO|1538187|1538919|1|Protein|NONE|48.9	25.00	160	103	4	8	159	11	161	8e-07	37.7
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5058|recO|5613291|5614044|-1|Protein|NONE|69.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1350|recO|1406679|1407381|1|Protein|NONE|47.4	44.44	45	24	1	7	50	4	48	1e-04	30.8

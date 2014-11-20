@@ -1,0 +1,30 @@
+>Cluster 0
+0	237aa, >NC_012441|Brucella_... at 70.89%
+1	369aa, >NC_003062|Agrobacte... *
+2	237aa, >NC_004310|Brucella_... at 71.31%
+>Cluster 1
+0	166aa, >NC_002516|Pseudomon... at 71.08%
+1	166aa, >NC_000913|Escherich... at 69.88%
+2	172aa, >NC_003143|Yersinia_... at 66.86%
+3	165aa, >NC_004578|Pseudomon... at 71.52%
+4	166aa, >NC_003198|Salmonell... at 70.48%
+5	166aa, >NC_003197|Salmonell... at 70.48%
+6	166aa, >NC_004741|Shigella_... at 69.88%
+7	165aa, >NC_002947|Pseudomon... at 69.70%
+8	180aa, >NC_004347|Shewanell... *
+>Cluster 2
+0	175aa, >NC_003919|Xanthomon... *
+>Cluster 3
+0	162aa, >NC_004757|Nitrosomo... at 70.37%
+1	166aa, >NC_005085|Chromobac... at 62.05%
+2	164aa, >NC_002928|Bordetell... at 63.41%
+3	167aa, >NC_003295|Ralstonia... *
+4	164aa, >NC_002929|Bordetell... at 64.02%
+5	157aa, >NC_003112|Neisseria... at 65.61%
+6	164aa, >NC_002927|Bordetell... at 64.02%
+>Cluster 4
+0	162aa, >NC_011833|Buchnera_... *
+>Cluster 5
+0	162aa, >NC_004463|Bradyrhiz... *
+>Cluster 6
+0	154aa, >NC_005061|Candidatu... *

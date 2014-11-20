@@ -1,0 +1,165 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	100.00	215	0	0	1	215	1	215	9e-161	 437
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	57.14	203	87	0	1	203	1	203	2e-75	 220
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	57.81	192	79	1	12	201	13	204	4e-75	 219
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	53.88	206	90	1	1	201	1	206	1e-71	 210
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	48.73	197	99	1	7	203	12	206	6e-68	 201
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	33.49	212	121	3	9	201	7	217	1e-38	 125
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	45.16	93	50	1	16	107	14	106	4e-27	92.8
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	41.76	91	53	0	15	105	20	110	5e-26	90.1
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	43.96	91	49	1	17	105	30	120	2e-25	88.6
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	39.13	92	55	1	15	105	12	103	5e-24	84.3
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	42.22	90	51	1	17	105	15	104	9e-24	83.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	100.00	134	0	0	1	134	1	134	8e-101	 278
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	57.25	138	54	2	2	134	3	140	3e-57	 167
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	58.40	125	52	0	2	126	3	127	2e-52	 155
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	52.42	124	53	3	9	127	17	139	7e-37	 115
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	41.09	129	72	2	1	126	1	128	8e-37	 118
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	51.02	98	47	1	10	106	26	123	4e-30	98.6
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	38.94	113	67	2	1	112	4	115	7e-29	96.7
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	44.12	102	55	2	3	103	10	110	1e-27	93.2
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	39.25	107	61	3	8	112	10	114	1e-24	85.5
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	39.13	92	55	1	12	103	15	105	3e-24	84.3
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	40.82	98	56	2	7	103	9	105	4e-24	84.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	100.00	153	0	0	1	153	1	153	2e-116	 320
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	61.48	135	50	1	16	150	8	140	6e-56	 165
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	50.89	112	49	2	12	123	2	107	5e-33	 106
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	51.02	98	47	1	25	122	10	106	3e-30	99.4
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	51.02	98	47	1	26	123	10	106	5e-30	98.6
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	42.71	96	53	1	31	126	15	108	3e-29	99.0
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	49.45	91	44	1	30	120	22	110	7e-28	94.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	43.96	91	49	1	30	120	17	105	1e-25	88.6
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	40.86	93	53	1	30	122	18	108	1e-23	83.6
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	39.13	92	54	1	30	121	17	106	1e-21	77.4
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	42.86	91	50	1	30	120	17	105	2e-21	77.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	100.00	213	0	0	1	213	1	213	4e-162	 441
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	54.37	206	89	1	1	206	1	201	2e-73	 215
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	53.88	206	90	1	1	206	1	201	1e-71	 210
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	49.75	203	95	2	8	208	9	206	2e-66	 197
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	47.06	204	101	3	3	206	8	204	3e-65	 194
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	32.88	219	122	4	7	206	5	217	4e-36	 119
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	39.25	107	61	3	10	114	8	112	2e-24	85.5
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	42.39	92	52	1	15	105	13	104	5e-24	84.3
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	40.00	90	54	0	17	106	22	111	3e-23	82.4
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	36.96	92	57	1	17	107	15	106	3e-22	79.3
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	39.13	92	54	1	17	106	30	121	2e-21	77.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	100.00	203	0	0	1	203	1	203	3e-142	 389
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	60.49	205	75	2	5	203	2	206	5e-84	 241
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	57.14	203	87	0	1	203	1	203	2e-73	 214
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	54.37	206	89	1	1	201	1	206	2e-71	 210
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	61.76	170	63	1	10	179	15	182	8e-70	 205
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	34.27	213	120	3	8	201	6	217	3e-39	 127
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	47.78	90	46	1	17	105	15	104	3e-27	93.2
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	43.33	90	50	1	17	105	15	104	2e-25	87.8
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	41.57	89	52	0	17	105	22	110	2e-25	87.8
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	40.82	98	56	2	9	105	7	103	7e-24	83.6
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	42.86	91	50	1	17	105	30	120	2e-21	77.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	100.00	231	0	0	1	231	1	231	5e-176	 477
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	35.85	212	118	3	7	217	10	204	2e-44	 140
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	34.27	213	120	3	6	217	8	201	6e-40	 129
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	33.49	212	121	3	7	217	9	201	1e-38	 125
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	34.01	197	108	3	3	198	10	185	7e-38	 124
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	41.09	129	72	2	1	128	1	126	1e-36	 118
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	32.88	219	122	4	5	217	7	206	5e-36	 119
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	44.66	103	56	1	5	106	6	108	8e-34	 111
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	36.79	106	66	1	2	106	3	108	9e-32	 105
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	42.71	96	53	1	15	108	31	126	4e-29	99.0
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	41.11	90	53	0	15	104	23	112	6e-27	92.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	100.00	207	0	0	1	207	1	207	3e-155	 422
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	60.49	205	75	2	2	206	5	203	2e-85	 245
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	57.81	192	79	1	13	204	12	201	4e-75	 219
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	52.58	194	88	1	13	206	17	206	3e-73	 214
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	49.75	203	95	2	9	206	8	208	2e-66	 197
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	35.85	212	118	3	10	204	7	217	2e-44	 140
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	43.97	116	58	4	5	115	4	117	4e-31	 103
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	44.44	99	54	1	18	115	15	113	3e-29	98.2
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	38.94	113	67	2	4	115	1	112	1e-28	96.7
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	36.79	106	64	1	6	108	7	112	3e-26	90.5
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	40.86	93	53	1	18	108	30	122	1e-23	83.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	100.00	140	0	0	1	140	1	140	4e-106	 292
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	57.25	138	54	2	3	140	2	134	4e-57	 167
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	51.15	131	60	1	1	131	1	127	7e-47	 141
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	50.40	125	56	3	10	131	17	138	5e-38	 119
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	44.66	103	56	1	6	108	5	106	5e-34	 111
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	43.97	116	58	4	4	117	5	115	3e-31	 103
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	51.02	98	47	1	10	106	25	122	3e-30	99.4
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	47.78	90	46	1	15	104	17	105	2e-27	93.2
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	45.16	93	50	1	14	106	16	107	3e-27	92.8
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	45.00	100	53	2	6	104	12	110	1e-26	90.9
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	42.39	92	52	1	13	104	15	105	3e-24	84.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	100.00	131	0	0	1	131	1	131	1e-98	 273
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	58.40	125	52	0	3	127	2	126	2e-52	 155
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	51.15	131	60	1	1	127	1	131	7e-47	 141
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	51.89	106	50	1	1	106	8	112	5e-34	 108
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	50.89	112	49	2	2	107	12	123	4e-33	 106
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	36.79	106	66	1	3	108	2	106	5e-32	 105
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	44.44	99	54	1	15	113	18	115	2e-29	98.2
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	43.96	91	50	1	14	104	21	110	5e-26	89.0
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	43.33	90	50	1	15	104	17	105	1e-25	88.2
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	42.22	90	51	1	15	104	17	105	5e-24	83.6
+NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	36.96	92	57	1	15	106	17	107	2e-22	79.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	100.00	206	0	0	1	206	1	206	3e-140	 384
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	61.76	170	63	1	15	182	10	179	9e-70	 205
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	52.58	194	88	1	17	206	13	206	2e-68	 201
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	51.70	176	83	1	12	185	7	182	1e-65	 194
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	48.65	185	88	3	8	185	3	187	6e-62	 185
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	33.50	197	109	2	10	185	3	198	1e-37	 123
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	49.45	91	44	1	22	110	30	120	1e-27	94.7
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	44.12	102	55	2	10	110	3	103	2e-27	93.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	45.00	100	53	2	12	110	6	104	2e-26	90.9
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	43.96	91	50	1	21	110	14	104	8e-26	89.0
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	44.94	89	49	0	22	110	22	110	6e-25	86.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5
+# Database: cd_hit_test_2/hisLGDCBHAFI/hisI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	100.00	140	0	0	1	140	1	140	9e-106	 291
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr0923|hisI|745535|745997|1|Protein|NONE|60.8	61.48	135	50	1	8	140	16	150	6e-56	 165
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2945|hisI|3175324|3175747|-1|Protein|NONE|61.7	50.40	125	56	3	17	138	10	131	5e-38	 119
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5066|hisI|5705793|5706198|1|Protein|NONE|63.7	52.42	124	53	3	17	139	9	127	8e-37	 115
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_003112|Neisseria_meningitidis_MC58|NMB0627|hisI|660939|661335|-1|Protein|NONE|54.5	51.89	106	50	1	8	112	1	106	5e-34	 108
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0449|hisI|427433|428129|-1|Protein|NONE|36.4	41.11	90	53	0	23	112	15	104	4e-27	92.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1604|hisI|1531710|1532334|1|Protein|NONE|32.9	36.79	106	64	1	7	112	6	108	2e-26	90.5
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_104|hisI|110622|111270|1|Protein|NONE|26.1	41.76	91	53	0	20	110	15	105	3e-26	90.1
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY2287|hisI|2112920|2113532|1|Protein|NONE|53.4	41.57	89	52	0	22	110	17	105	2e-25	87.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1835|hisI|2130066|2130687|1|Protein|NONE|65.5	44.94	89	49	0	22	110	22	110	4e-25	86.7
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5521|hisI|6080962|6081385|-1|Protein|NONE|65.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl469|hisI|516329|516971|1|Protein|NONE|30.7	40.00	90	54	0	22	111	17	106	2e-23	82.4

@@ -1,0 +1,53 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4
+# Database: cd_hit_test/dppABCDF/dppF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	100.00	693	0	0	1	693	1	693	0.0	1365
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	47.48	318	157	4	356	671	28	337	2e-87	 271
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	35.63	334	190	8	4	325	33	353	1e-56	 188
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	45.65	322	164	5	361	680	4	316	4e-81	 253
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	37.50	312	172	7	14	317	20	316	7e-57	 187
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	39.38	259	134	5	361	618	1	237	3e-41	 141
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	35.62	233	131	8	4	235	1	215	2e-36	 127
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	33.33	261	155	6	375	632	5	249	8e-29	 105
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	33.05	236	141	6	24	258	17	236	2e-28	 105
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2
+# Database: cd_hit_test/dppABCDF/dppF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	100.00	358	0	0	1	358	1	358	0.0	 741
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	57.73	317	134	0	33	349	4	320	4e-136	 384
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	47.48	318	157	4	28	337	356	671	5e-98	 298
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	35.52	335	191	8	33	354	4	326	2e-57	 189
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	40.60	234	132	4	57	289	15	242	6e-54	 171
+NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	35.68	241	146	4	59	298	17	249	5e-43	 142
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0
+# Database: cd_hit_test/dppABCDF/dppF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	100.00	232	0	0	1	232	1	232	1e-173	 472
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	44.59	222	116	4	17	232	30	250	3e-56	 175
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	40.62	224	126	4	15	232	57	279	2e-52	 166
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	39.37	254	131	5	1	232	361	613	1e-50	 166
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	35.62	233	131	8	1	215	4	235	5e-37	 128
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	37.77	233	140	3	1	232	1	229	1e-45	 145
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9
+# Database: cd_hit_test/dppABCDF/dppF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	100.00	250	0	0	1	250	1	250	0.0	 504
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	38.14	236	141	3	1	232	1	235	5e-47	 149
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	35.68	241	146	4	17	249	59	298	3e-43	 142
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	35.39	243	144	6	17	249	30	269	2e-37	 125
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	33.33	261	155	6	5	249	375	632	1e-36	 127
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	33.05	236	141	6	17	236	24	258	7e-29	 104
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2
+# Database: cd_hit_test/dppABCDF/dppF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	100.00	322	0	0	1	322	1	322	0.0	 662
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_003143|Yersinia_pestis_CO92|YPO3999|dppF|4507552|4508629|-1|Protein|NONE|49.2	57.73	317	134	0	4	320	33	349	4e-136	 384
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	45.65	322	164	5	4	316	361	680	2e-91	 280
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2480|dppF|2705151|2707233|1|Protein|NONE|53.4	37.58	306	180	6	20	316	14	317	3e-57	 187
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu2514|dppF|2483059|2483800|-1|Protein|NONE|61.0	44.10	229	121	4	30	257	17	239	5e-57	 177
+NC_002947|Pseudomonas_putida_KT2440|PP_0878|dppF|1018089|1019058|-1|Protein|NONE|64.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0977|dppF|940311|941064|-1|Protein|NONE|52.9	35.39	243	144	6	30	269	17	249	3e-37	 125

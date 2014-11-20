@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0054|lptD|54754|57109|-1|Protein|ECK0055:imp:JW0053:ostA:yabG|51.4
+# Database: cd_hit_test_2/lptD-surA-pdxA-rsmA-apaGH/lptD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0054|lptD|54754|57109|-1|Protein|ECK0055:imp:JW0053:ostA:yabG|51.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0054|lptD|54754|57109|-1|Protein|ECK0055:imp:JW0053:ostA:yabG|51.4	100.00	784	0	0	1	784	1	784	0.0	1629
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0054|lptD|54754|57109|-1|Protein|ECK0055:imp:JW0053:ostA:yabG|51.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3636|lptD|3793828|3796126|1|Protein|NONE|45.0	34.59	772	460	14	25	784	23	761	8e-148	 445
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3636|lptD|3793828|3796126|1|Protein|NONE|45.0
+# Database: cd_hit_test_2/lptD-surA-pdxA-rsmA-apaGH/lptD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3636|lptD|3793828|3796126|1|Protein|NONE|45.0	NC_004347|Shewanella_oneidensis_MR-1|SO_3636|lptD|3793828|3796126|1|Protein|NONE|45.0	100.00	765	0	0	1	765	1	765	0.0	1514
+NC_004347|Shewanella_oneidensis_MR-1|SO_3636|lptD|3793828|3796126|1|Protein|NONE|45.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0054|lptD|54754|57109|-1|Protein|ECK0055:imp:JW0053:ostA:yabG|51.4	34.59	772	460	14	23	761	25	784	3e-144	 436

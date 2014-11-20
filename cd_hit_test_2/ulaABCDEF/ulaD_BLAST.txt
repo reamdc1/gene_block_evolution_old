@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4196|ulaD|4420208|4420859|1|Protein|ECK4192:JW4154:sgaH:yjfV|57.1
+# Database: cd_hit_test_2/ulaABCDEF/ulaD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4196|ulaD|4420208|4420859|1|Protein|ECK4192:JW4154:sgaH:yjfV|57.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4196|ulaD|4420208|4420859|1|Protein|ECK4192:JW4154:sgaH:yjfV|57.1	100.00	216	0	0	1	216	1	216	1e-162	 440
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4196|ulaD|4420208|4420859|1|Protein|ECK4192:JW4154:sgaH:yjfV|57.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1024|ulaD|1089387|1090065|-1|Protein|NONE|35.0	43.11	225	117	3	1	215	1	224	1e-61	 184
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1024|ulaD|1089387|1090065|-1|Protein|NONE|35.0
+# Database: cd_hit_test_2/ulaABCDEF/ulaD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1024|ulaD|1089387|1090065|-1|Protein|NONE|35.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1024|ulaD|1089387|1090065|-1|Protein|NONE|35.0	100.00	225	0	0	1	225	1	225	4e-170	 460
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1024|ulaD|1089387|1090065|-1|Protein|NONE|35.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4196|ulaD|4420208|4420859|1|Protein|ECK4192:JW4154:sgaH:yjfV|57.1	43.11	225	117	3	1	224	1	215	2e-63	 188

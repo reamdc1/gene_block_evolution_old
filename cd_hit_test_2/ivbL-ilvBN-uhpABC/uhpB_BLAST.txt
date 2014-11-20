@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3668|uhpB|3846656|3848159|-1|Protein|ECK3659:JW3643|57.1
+# Database: cd_hit_test_2/ivbL-ilvBN-uhpABC/uhpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3668|uhpB|3846656|3848159|-1|Protein|ECK3659:JW3643|57.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3668|uhpB|3846656|3848159|-1|Protein|ECK3659:JW3643|57.1	100.00	500	0	0	1	500	1	500	0.0	 820
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3668|uhpB|3846656|3848159|-1|Protein|ECK3659:JW3643|57.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1339|uhpB|1531165|1532731|-1|Protein|NONE|43.5	37.86	486	289	8	6	484	15	494	6e-72	 229
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1339|uhpB|1531165|1532731|-1|Protein|NONE|43.5
+# Database: cd_hit_test_2/ivbL-ilvBN-uhpABC/uhpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1339|uhpB|1531165|1532731|-1|Protein|NONE|43.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1339|uhpB|1531165|1532731|-1|Protein|NONE|43.5	100.00	521	0	0	1	521	1	521	0.0	 759
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1339|uhpB|1531165|1532731|-1|Protein|NONE|43.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3668|uhpB|3846656|3848159|-1|Protein|ECK3659:JW3643|57.1	42.99	335	186	4	162	494	153	484	3e-51	 173

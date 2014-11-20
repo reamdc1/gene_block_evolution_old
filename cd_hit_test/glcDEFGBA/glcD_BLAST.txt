@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3
+# Database: cd_hit_test/glcDEFGBA/glcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	100.00	499	0	0	1	499	1	499	0.0	 890
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	58.53	463	192	0	37	499	35	497	1e-167	 477
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	49.89	439	219	1	41	479	41	478	1e-126	 372
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	36.83	429	267	4	46	470	30	458	2e-84	 261
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5
+# Database: cd_hit_test/glcDEFGBA/glcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	100.00	466	0	0	1	466	1	466	0.0	 956
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	37.06	429	266	4	30	458	46	470	3e-99	 300
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	36.62	456	280	7	7	459	20	469	1e-93	 285
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	34.57	457	287	7	7	459	22	470	6e-89	 273
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8
+# Database: cd_hit_test/glcDEFGBA/glcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	100.00	479	0	0	1	479	1	479	0.0	 969
+NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	55.98	468	205	1	12	478	10	477	3e-179	 506
+NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	48.80	459	234	1	21	478	21	479	1e-149	 431
+NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	35.68	426	263	6	53	470	37	459	4e-90	 276
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1
+# Database: cd_hit_test/glcDEFGBA/glcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	100.00	497	0	0	1	497	1	497	0.0	 987
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5355|glcD|6022202|6023702|-1|Protein|NONE|68.3	57.20	479	205	0	19	497	21	499	0.0	 528
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	NC_003047|Sinorhizobium_meliloti_1021|SMc00832|glcD|853443|854883|1|Protein|NONE|63.8	55.98	468	205	1	10	477	12	478	2e-175	 496
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll7543|glcD|8278765|8280259|-1|Protein|NONE|66.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0869|glcD|847273|848674|-1|Protein|NONE|39.5	36.62	456	280	7	20	469	7	459	1e-93	 285

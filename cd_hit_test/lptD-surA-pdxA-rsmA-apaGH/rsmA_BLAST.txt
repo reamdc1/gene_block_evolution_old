@@ -1,0 +1,20 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA0905|rsmA|991012|991198|1|Protein|NONE|55.4
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/rsmA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0905|rsmA|991012|991198|1|Protein|NONE|55.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0905|rsmA|991012|991198|1|Protein|NONE|55.4	100.00	61	0	0	1	61	1	61	6e-30	92.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0051|rsmA|51608|52430|-1|Protein|ECK0052:JW0050:ksgA|53.0
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/rsmA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0051|rsmA|51608|52430|-1|Protein|ECK0052:JW0050:ksgA|53.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0051|rsmA|51608|52430|-1|Protein|ECK0052:JW0050:ksgA|53.0	100.00	273	0	0	1	273	1	273	0.0	 564
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3737|grp|4039573|4040044|-1|Protein|NONE|60.5
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/rsmA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3737|grp|4039573|4040044|-1|Protein|NONE|60.5	NC_002928|Bordetella_parapertussis_12822|BPP3737|grp|4039573|4040044|-1|Protein|NONE|60.5	100.00	156	0	0	1	156	1	156	1e-115	 317
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3343|tolB|3565761|3567078|-1|Protein|NONE|65.9
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/rsmA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3343|tolB|3565761|3567078|-1|Protein|NONE|65.9	NC_002929|Bordetella_pertussis_Tohama_I|BP3343|tolB|3565761|3567078|-1|Protein|NONE|65.9	100.00	438	0	0	1	438	1	438	0.0	 848

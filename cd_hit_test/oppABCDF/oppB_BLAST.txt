@@ -1,0 +1,37 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7
+# Database: cd_hit_test/oppABCDF/oppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	100.00	306	0	0	1	306	1	306	0.0	 612
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	54.90	306	138	0	1	306	1	306	6e-118	 335
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	26.15	348	212	6	1	306	1	345	4e-39	 132
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	29.13	309	209	5	1	304	17	320	7e-30	 105
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7
+# Database: cd_hit_test/oppABCDF/oppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	100.00	306	0	0	1	306	1	306	0.0	 558
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	54.90	306	138	0	1	306	1	306	6e-115	 328
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	26.59	346	213	6	1	306	1	345	1e-31	 111
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	30.97	268	175	3	9	271	25	287	7e-25	90.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1551|oppB|1476622|1477153|1|Protein|NONE|53.5
+# Database: cd_hit_test/oppABCDF/oppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1551|oppB|1476622|1477153|1|Protein|NONE|53.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS1551|oppB|1476622|1477153|1|Protein|NONE|53.5	100.00	176	0	0	1	176	1	176	2e-98	 276
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0
+# Database: cd_hit_test/oppABCDF/oppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	100.00	350	0	0	1	350	1	350	0.0	 662
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	26.20	355	203	8	1	345	1	306	9e-35	 120
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	27.17	346	211	7	1	345	1	306	5e-31	 109
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	24.82	274	182	6	77	348	74	325	4e-18	72.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8
+# Database: cd_hit_test/oppABCDF/oppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	100.00	325	0	0	1	325	1	325	2e-166	 460
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1244|oppB|1300922|1301843|1|Protein|ECK1238:JW1236:stkB|45.7	28.37	282	192	5	44	320	28	304	6e-20	77.0
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4328|oppB|4668770|4669691|-1|Protein|NONE|63.7	30.97	268	164	3	66	320	45	304	2e-15	63.9
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0857|oppB|1019223|1020201|1|Protein|NONE|69.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1784|oppB|1706320|1707373|1|Protein|NONE|36.0	23.67	283	192	6	65	325	68	348	8e-13	56.2

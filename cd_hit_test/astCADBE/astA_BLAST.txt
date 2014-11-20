@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3
+# Database: cd_hit_test/astCADBE/astA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	100.00	347	0	0	1	347	1	347	0.0	 715
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	55.24	353	146	3	1	346	1	348	5e-138	 390
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	47.98	346	168	6	1	341	1	339	5e-110	 318
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	44.90	343	179	4	1	339	1	337	5e-102	 297
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7
+# Database: cd_hit_test/astCADBE/astA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	100.00	350	0	0	1	350	1	350	0.0	 699
+NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	55.24	353	146	3	1	348	1	346	5e-138	 390
+NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	43.35	346	186	3	1	343	1	339	1e-97	 286
+NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	42.03	345	188	3	1	341	1	337	1e-93	 276
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6
+# Database: cd_hit_test/astCADBE/astA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	100.00	339	0	0	1	339	1	339	0.0	 684
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	52.66	338	158	2	1	337	1	337	3e-126	 359
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	44.61	343	180	4	1	337	1	339	5e-100	 292
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	42.03	345	188	3	1	337	1	341	1e-92	 273
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1
+# Database: cd_hit_test/astCADBE/astA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	100.00	339	0	0	1	339	1	339	0.0	 701
+NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1314|astA|1302433|1303453|1|Protein|NONE|47.6	52.66	338	158	2	1	337	1	337	3e-129	 367
+NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1498|astA|1602102|1603146|1|Protein|NONE|66.3	47.98	346	168	6	1	339	1	341	5e-110	 318
+NC_004347|Shewanella_oneidensis_MR-1|SO_0618|astA|644796|645816|1|Protein|NONE|48.1	NC_003143|Yersinia_pestis_CO92|YPO1963|astA|2229667|2230720|1|Protein|NONE|50.7	43.35	346	186	3	1	339	1	343	1e-97	 286

@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4
+# Database: cd_hit_test/tdcABCDEFG/tdcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	100.00	329	0	0	1	329	1	329	0.0	 600
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	44.37	302	164	2	17	316	10	309	3e-66	 206
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	35.69	311	183	6	6	316	16	309	2e-54	 174
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	31.15	305	207	2	14	317	8	310	8e-36	 123
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2
+# Database: cd_hit_test/tdcABCDEFG/tdcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	100.00	321	0	0	1	321	1	321	0.0	 553
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	37.46	307	181	4	8	308	7	308	2e-34	 119
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	31.15	305	207	2	8	310	14	317	7e-31	 108
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	30.86	269	172	6	8	275	24	279	1e-16	68.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0
+# Database: cd_hit_test/tdcABCDEFG/tdcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	100.00	405	0	0	1	405	1	405	0.0	 734
+NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	44.37	302	164	2	10	309	17	316	1e-63	 200
+NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	36.16	318	184	5	2	318	19	318	3e-48	 160
+NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	37.46	307	181	4	7	308	8	308	4e-42	 142
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7
+# Database: cd_hit_test/tdcABCDEFG/tdcB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	100.00	372	0	0	1	372	1	372	0.0	 604
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3117|tdcB|3263060|3264050|-1|Protein|ECK3106:JW3088|46.4	39.59	293	164	5	30	309	24	316	1e-55	 178
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	NC_002928|Bordetella_parapertussis_12822|BPP3429|tdcB|3703077|3704295|-1|Protein|NONE|68.0	36.93	306	174	5	31	318	14	318	8e-49	 161
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3454|tdcB|4075264|4076383|1|Protein|NONE|67.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3250|tdcB|3533796|3534762|-1|Protein|NONE|69.2	30.89	259	165	6	31	276	15	272	4e-21	81.3

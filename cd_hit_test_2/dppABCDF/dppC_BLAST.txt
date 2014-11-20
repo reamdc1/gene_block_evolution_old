@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5
+# Database: cd_hit_test_2/dppABCDF/dppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	100.00	300	0	0	1	300	1	300	0.0	 565
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	42.96	277	152	1	28	298	18	294	3e-73	 220
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	44.04	277	149	2	28	298	27	303	2e-65	 200
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8
+# Database: cd_hit_test_2/dppABCDF/dppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	100.00	308	0	0	1	308	1	308	1e-179	 492
+NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	59.86	284	114	0	23	306	14	297	2e-91	 267
+NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	44.04	277	149	2	27	303	28	298	8e-48	 154
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1
+# Database: cd_hit_test_2/dppABCDF/dppC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	100.00	297	0	0	1	297	1	297	0.0	 570
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	NC_002947|Pseudomonas_putida_KT2440|PP_0880|dppC|1020036|1020963|-1|Protein|NONE|65.8	59.86	284	114	0	14	297	23	306	6e-114	 324
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0238|dppC|268707|269601|1|Protein|NONE|43.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu2516|dppC|2484630|2485533|-1|Protein|NONE|62.5	42.96	277	152	1	18	294	28	298	2e-74	 223

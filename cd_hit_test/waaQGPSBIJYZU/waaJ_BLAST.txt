@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8
+# Database: cd_hit_test/waaQGPSBIJYZU/waaJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	100.00	338	0	0	1	338	1	338	0.0	 663
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	58.41	339	137	3	1	338	1	336	9e-128	 362
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	39.88	326	188	2	7	330	13	332	6e-76	 229
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7
+# Database: cd_hit_test/waaQGPSBIJYZU/waaJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	100.00	336	0	0	1	336	1	336	0.0	 686
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	58.41	339	137	3	1	336	1	338	1e-136	 385
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	44.52	310	170	2	21	328	23	332	9e-92	 270
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9
+# Database: cd_hit_test/waaQGPSBIJYZU/waaJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	100.00	337	0	0	1	337	1	337	0.0	 646
+NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4078|waaJ|3935640|3936651|1|Protein|rfaJ|34.7	45.49	277	149	2	23	299	21	295	2e-85	 254
+NC_004741|Shigella_flexneri_2a_str._2457T|S4104|waaJ|4002368|4003382|1|Protein|NONE|30.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3626|rfaJ|3799005|3800022|-1|Protein|ECK3616:JW3601:waaJ:waaR|33.8	39.88	326	188	2	13	332	7	330	3e-78	 235

@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3
+# Database: cd_hit_test/hypABCDE-fhlA/hypE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	100.00	336	0	0	1	336	1	336	0.0	 674
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	49.55	337	161	3	4	336	15	346	5e-108	 313
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	46.45	338	167	6	4	336	11	339	9e-94	 276
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	41.89	339	182	4	4	336	6	335	3e-91	 270
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	41.06	341	179	9	1	336	1	324	2e-79	 239
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2
+# Database: cd_hit_test/hypABCDE-fhlA/hypE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	100.00	335	0	0	1	335	1	335	0.0	 681
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	46.59	337	173	3	2	335	7	339	1e-103	 301
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	47.46	335	161	7	4	335	2	324	4e-102	 297
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	41.89	339	182	4	6	335	4	336	3e-91	 270
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	39.58	336	193	5	6	335	15	346	8e-80	 240
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4
+# Database: cd_hit_test/hypABCDE-fhlA/hypE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	100.00	324	0	0	1	324	1	324	0.0	 569
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	49.40	332	158	6	2	324	9	339	3e-93	 274
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	47.46	335	161	7	2	324	4	335	9e-87	 257
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	41.06	341	179	9	1	324	1	336	3e-66	 204
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	36.94	333	197	7	4	324	15	346	2e-58	 184
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2
+# Database: cd_hit_test/hypABCDE-fhlA/hypE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	100.00	339	0	0	1	339	1	339	0.0	 691
+NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	49.10	332	159	6	9	339	2	324	3e-106	 308
+NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	46.59	337	173	3	7	339	2	335	1e-103	 301
+NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	46.45	338	167	6	11	339	4	336	9e-94	 276
+NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	43.11	334	183	4	11	339	15	346	1e-81	 245
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2
+# Database: cd_hit_test/hypABCDE-fhlA/hypE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	100.00	346	0	0	1	346	1	346	0.0	 664
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2730|hypE|2851275|2852286|1|Protein|ECK2725:hydB:JW2700|57.3	49.55	337	161	3	15	346	4	336	3e-103	 300
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2090|hypE|2186023|2187043|-1|Protein|NONE|49.2	43.11	334	183	4	15	346	11	339	5e-79	 238
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0320|hypE|316795|317803|-1|Protein|NONE|42.2	39.58	336	193	5	15	346	6	335	6e-75	 228
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll6927|hypE|7624530|7625571|-1|Protein|NONE|67.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0626|hypE|586189|587164|1|Protein|NONE|34.4	36.34	333	199	7	15	346	4	324	1e-65	 203

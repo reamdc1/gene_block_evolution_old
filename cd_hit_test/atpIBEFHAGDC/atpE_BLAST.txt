@@ -1,0 +1,62 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	100.00	79	0	0	1	79	1	79	9e-40	 118
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	51.16	43	21	0	34	76	37	79	2e-15	55.1
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	52.24	67	32	0	11	77	18	84	4e-14	51.6
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	54.35	46	19	1	34	79	39	82	2e-13	49.7
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	46.67	75	38	1	5	79	3	75	2e-11	43.9
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	32.43	37	25	0	41	77	69	105	7e-04	23.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	100.00	90	0	0	1	90	1	90	6e-41	 121
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	61.70	47	18	0	39	85	41	87	5e-19	65.5
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	61.22	49	19	0	39	87	37	85	6e-19	65.1
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	63.04	46	17	0	39	84	32	77	1e-18	63.5
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	56.82	44	17	1	39	80	34	77	3e-13	49.3
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	29.27	41	29	0	46	86	69	109	2e-04	25.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	100.00	95	0	0	1	95	1	95	7e-45	 132
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	63.27	49	18	0	37	85	32	80	6e-22	72.8
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	65.22	46	16	0	37	82	41	86	1e-19	67.4
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	61.22	49	19	0	37	85	39	87	1e-19	67.0
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	51.16	43	21	0	37	79	34	76	2e-15	55.5
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	29.27	41	29	0	44	84	69	109	1e-04	26.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8	NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8	100.00	58	0	0	1	58	1	58	4e-39	 116
+NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	32.14	56	37	1	4	58	11	66	1e-05	28.1
+NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	45.45	22	12	0	20	41	23	44	5e-04	23.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	100.00	80	0	0	1	80	1	80	2e-36	 109
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	64.71	51	18	0	29	79	34	84	3e-23	75.9
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	64.00	50	18	0	29	78	38	87	5e-22	73.2
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	60.78	51	20	0	29	79	36	86	4e-20	67.8
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	48.98	49	23	1	29	75	31	79	5e-13	48.5
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	36.59	41	26	0	39	79	69	109	3e-06	30.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	100.00	112	0	0	1	112	1	112	6e-40	 120
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: cd_hit_test/atpIBEFHAGDC/atpE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	100.00	100	0	0	1	100	1	100	5e-48	 140
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	65.22	46	16	0	41	86	32	77	2e-20	68.9
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	65.22	46	16	0	41	86	37	82	1e-19	67.0
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	60.00	50	20	0	41	90	39	88	2e-19	66.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	52.27	44	21	0	41	84	34	77	5e-14	51.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6	38.46	39	24	0	48	86	69	107	3e-06	30.8

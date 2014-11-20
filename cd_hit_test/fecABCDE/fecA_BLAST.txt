@@ -1,0 +1,23 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6
+# Database: cd_hit_test/fecABCDE/fecA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	100.00	767	0	0	18	784	18	784	0.0	1448
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	22.42	397	250	16	403	784	345	698	4e-11	54.3
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	26.13	199	123	5	573	756	542	731	4e-09	47.8
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	29.82	57	37	1	162	218	69	122	2e-04	33.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3
+# Database: cd_hit_test/fecABCDE/fecA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	100.00	700	0	0	1	700	1	700	0.0	1352
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	21.22	688	417	29	83	698	150	784	1e-10	52.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	23.05	243	143	8	472	676	496	732	2e-06	38.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0
+# Database: cd_hit_test/fecABCDE/fecA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	100.00	766	0	0	1	766	1	766	0.0	1476
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	24.39	246	153	6	495	731	535	756	2e-09	48.9
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA3901|fecA|4368836|4371191|1|Protein|NONE|68.6	27.27	99	66	4	69	164	162	257	2e-05	36.2
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4368|fecA|5165187|5167488|-1|Protein|NONE|64.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0289|fecA|286828|288931|1|Protein|NONE|48.3	23.05	243	143	8	496	732	472	676	3e-06	38.5

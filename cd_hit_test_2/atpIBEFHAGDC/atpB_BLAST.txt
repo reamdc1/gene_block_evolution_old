@@ -1,0 +1,233 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	100.00	274	0	0	1	274	1	274	0.0	 515
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	55.15	272	121	1	2	273	1	271	2e-99	 287
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	55.64	266	110	3	9	274	10	267	2e-99	 286
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	48.57	280	118	7	7	272	3	270	1e-76	 228
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	47.70	283	129	4	10	273	7	289	2e-74	 223
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	46.77	263	120	3	12	268	10	258	1e-73	 220
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	42.03	276	143	5	4	272	4	269	2e-70	 212
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	38.10	273	154	4	5	272	4	266	2e-63	 194
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	38.49	291	157	6	1	272	1	288	5e-62	 191
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	39.36	282	146	5	9	272	33	307	2e-60	 187
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	39.25	293	145	7	7	272	7	293	9e-54	 170
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	28.78	205	112	7	70	268	43	219	5e-14	59.3
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	26.32	209	124	5	72	268	54	244	7e-14	59.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	100.00	289	0	0	1	289	1	289	0.0	 575
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	55.56	288	100	6	1	287	1	261	2e-99	 287
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	52.10	286	113	4	3	288	7	268	4e-96	 279
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	49.66	292	118	5	3	288	2	270	4e-86	 253
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	47.55	286	130	4	2	287	4	269	1e-82	 244
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	47.70	283	129	4	7	289	10	273	3e-80	 238
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	45.33	289	129	7	3	289	5	266	5e-77	 230
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	45.58	283	130	5	7	288	10	269	4e-76	 227
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	44.82	299	139	6	1	286	1	286	7e-74	 222
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	44.33	300	128	7	5	289	32	307	1e-71	 217
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	40.20	301	153	8	2	288	6	293	6e-59	 184
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	24.66	223	133	7	75	289	55	250	2e-11	52.8
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	27.78	216	108	8	75	284	46	219	1e-08	44.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	100.00	269	0	0	1	269	1	269	2e-178	 487
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	46.86	271	137	5	1	269	1	266	1e-80	 238
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	46.05	291	132	8	1	269	1	288	2e-72	 218
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	46.72	274	133	6	1	268	1	267	2e-71	 215
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	46.81	282	126	8	7	269	31	307	1e-69	 211
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	46.04	265	136	6	5	268	3	261	2e-69	 209
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	46.59	279	120	8	8	269	4	270	3e-69	 209
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	41.54	272	142	5	8	269	8	272	2e-67	 204
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	44.17	283	134	6	10	269	7	288	8e-66	 201
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	44.19	267	133	4	12	269	11	270	3e-65	 199
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	41.50	294	146	8	1	269	1	293	3e-59	 184
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	25.12	211	131	5	62	265	54	244	4e-12	54.7
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	26.37	201	119	5	62	262	45	216	1e-05	34.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	100.00	270	0	0	1	270	1	270	0.0	 499
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	49.82	275	115	5	2	268	7	266	2e-80	 238
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	50.00	290	116	5	2	268	3	286	1e-78	 234
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	45.36	280	125	6	2	270	5	267	2e-75	 225
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	48.21	280	119	6	3	270	7	272	7e-74	 221
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	47.31	279	118	9	4	270	8	269	5e-70	 211
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	46.55	275	121	7	1	266	1	258	3e-69	 209
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	39.93	288	128	7	2	270	5	266	4e-64	 196
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	42.09	297	127	8	4	270	7	288	1e-63	 195
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	48.29	234	83	8	58	270	91	307	1e-59	 185
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	45.33	289	136	8	2	270	7	293	1e-56	 177
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	35.44	158	86	6	112	267	77	220	1e-11	52.4
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	26.55	226	117	8	58	268	55	246	7e-11	50.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9	100.00	190	0	0	1	190	1	190	2e-99	 282
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3	30.91	55	37	1	64	117	8	62	1e-04	30.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	100.00	272	0	0	1	272	1	272	0.0	 514
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	55.15	272	121	1	1	271	2	273	2e-98	 284
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	55.56	261	112	2	9	269	11	267	2e-94	 274
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	45.36	280	125	6	5	267	2	270	2e-77	 230
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	47.55	286	130	4	4	269	2	287	3e-76	 228
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	45.72	269	127	3	2	264	1	256	5e-74	 221
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	44.19	267	133	4	11	270	12	269	2e-67	 205
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	39.72	287	151	6	1	267	1	285	9e-61	 187
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	37.82	275	154	5	1	267	1	266	2e-60	 186
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	40.79	277	140	6	9	267	34	304	7e-58	 181
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	39.46	294	147	6	3	270	5	293	8e-49	 157
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	25.89	224	130	7	59	266	41	244	6e-17	67.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	28.02	207	121	7	63	266	38	219	1e-14	61.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	100.00	270	0	0	1	270	1	270	0.0	 548
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	55.64	266	110	3	10	267	9	274	7e-107	 305
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	55.56	261	112	2	11	267	9	269	2e-101	 291
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	53.90	269	109	4	8	270	5	264	2e-97	 281
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	52.10	286	113	4	7	268	3	288	4e-96	 279
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	49.82	275	115	5	7	266	2	268	7e-88	 257
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	47.08	274	124	6	5	268	3	265	5e-81	 239
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	46.72	274	133	6	1	267	1	268	5e-81	 239
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	44.64	280	129	7	8	266	31	305	6e-71	 214
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	42.76	290	132	8	5	266	3	286	2e-68	 207
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	42.23	296	136	6	1	266	1	291	3e-63	 194
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	24.65	215	132	4	68	270	54	250	9e-15	62.0
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	30.52	213	107	10	68	270	45	226	2e-13	58.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	100.00	293	0	0	1	293	1	293	0.0	 530
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	59.86	284	103	5	11	293	34	307	3e-100	 291
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	52.58	291	119	5	11	293	9	288	3e-93	 272
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	42.86	294	142	8	1	293	1	269	5e-68	 207
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	45.33	289	136	8	7	293	2	270	6e-65	 199
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	43.24	296	133	6	1	291	1	266	9e-65	 198
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	42.42	297	133	9	3	293	2	266	1e-61	 190
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	38.91	293	146	6	7	293	7	272	2e-60	 187
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	41.72	302	147	8	6	293	2	288	3e-60	 187
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	40.48	294	144	7	5	293	3	270	3e-59	 184
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	42.65	279	132	7	13	291	10	260	3e-55	 174
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	23.32	253	159	9	41	292	30	248	5e-09	45.4
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	26.36	220	114	8	67	286	45	216	6e-08	42.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	100.00	226	0	0	1	226	1	226	1e-155	 426
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	30.00	200	120	4	39	220	48	245	6e-15	61.6
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	28.02	207	121	7	38	219	63	266	1e-14	61.2
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	31.60	212	110	9	36	216	48	255	4e-14	59.3
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	28.78	205	112	7	43	219	70	268	6e-14	58.9
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	30.52	213	107	10	45	226	68	270	1e-13	58.2
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	27.23	224	123	8	36	219	61	284	6e-13	56.2
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	29.63	216	109	9	45	219	90	303	2e-12	55.1
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	28.37	208	119	8	45	226	63	266	8e-12	52.8
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	35.44	158	86	6	77	220	112	267	1e-11	52.4
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	26.36	220	114	8	45	216	67	286	4e-09	45.1
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	27.78	216	108	8	46	219	75	284	8e-09	44.3
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	26.47	204	121	5	45	219	62	265	4e-08	42.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	100.00	307	0	0	1	307	1	307	0.0	 578
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	59.86	284	103	5	34	307	11	293	8e-103	 297
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	54.14	290	113	6	31	307	6	288	4e-95	 278
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	46.81	282	126	8	31	307	7	269	7e-81	 240
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	46.95	279	126	8	32	307	7	266	5e-73	 220
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	44.33	300	128	7	32	307	5	289	1e-71	 217
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	44.64	280	129	7	31	305	8	266	9e-71	 214
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	44.73	275	133	7	31	305	5	260	2e-66	 203
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	39.36	282	146	5	33	307	9	272	3e-65	 200
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	43.99	291	120	9	34	307	6	270	8e-65	 199
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	40.36	280	143	6	34	307	9	270	1e-63	 196
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	25.59	254	153	10	55	303	22	244	3e-14	60.8
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	29.63	216	109	9	90	303	45	219	2e-12	55.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	100.00	288	0	0	1	288	1	288	0.0	 546
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	54.14	290	113	6	6	288	31	307	2e-88	 260
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	52.58	291	119	5	9	288	11	293	6e-83	 246
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	44.33	291	137	7	1	288	1	269	2e-77	 231
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	44.15	299	141	5	1	286	1	286	3e-70	 213
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	45.52	290	132	7	1	288	1	266	1e-69	 210
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	42.41	290	133	8	3	286	5	266	7e-67	 204
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	41.36	295	132	7	7	288	4	270	5e-64	 196
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	40.48	289	146	8	1	285	1	267	6e-62	 191
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	36.75	302	147	7	1	288	1	272	1e-61	 190
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	43.25	289	132	7	1	286	1	260	7e-61	 188
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	26.69	251	153	8	36	284	23	244	6e-13	57.0
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	25.45	224	127	8	61	284	36	219	5e-09	45.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	100.00	266	0	0	1	266	1	266	0.0	 496
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	49.08	271	131	5	1	266	1	269	4e-85	 249
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	47.21	269	131	5	3	265	5	268	7e-80	 236
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	44.98	289	130	7	5	266	3	289	7e-73	 219
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	43.82	267	142	4	1	265	1	261	2e-72	 217
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	44.14	290	136	7	1	266	1	288	8e-72	 216
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	45.65	276	134	6	7	266	32	307	2e-70	 213
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	39.93	288	128	7	5	266	2	270	6e-68	 206
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	36.92	279	149	5	4	266	5	272	1e-63	 194
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	36.62	284	145	6	1	266	1	267	6e-63	 192
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	42.27	291	142	6	2	266	3	293	1e-60	 187
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	24.23	260	165	5	13	262	7	244	3e-14	60.5
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	27.27	198	117	5	63	259	45	216	3e-11	51.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	100.00	250	0	0	1	250	1	250	1e-163	 448
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	25.81	248	143	8	17	244	40	266	5e-16	65.5
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	24.24	198	131	3	7	185	13	210	2e-14	61.2
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	22.79	215	136	3	54	250	68	270	5e-14	59.7
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	24.65	215	137	5	54	250	57	264	5e-14	59.7
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	26.32	209	124	5	54	244	72	268	2e-13	58.2
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	29.85	201	121	4	47	245	38	220	3e-13	57.0
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	26.98	189	110	7	23	185	36	222	1e-11	53.1
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	23.51	251	162	7	22	244	55	303	2e-11	52.8
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	24.72	178	112	6	30	185	36	213	1e-10	50.1
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	24.32	222	135	6	55	250	75	289	5e-10	48.1
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	25.22	226	120	7	55	246	58	268	4e-09	45.4
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	23.32	253	159	8	30	248	41	292	2e-05	34.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	100.00	264	0	0	1	264	1	264	0.0	 531
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	55.56	288	100	6	1	261	1	287	1e-99	 287
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	53.90	269	109	4	5	264	8	270	2e-97	 281
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	46.77	263	120	3	10	258	12	268	2e-80	 238
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	45.72	269	127	3	1	256	2	264	2e-79	 235
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	47.55	265	132	6	3	261	5	268	1e-78	 233
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	46.55	275	121	7	1	258	1	266	5e-77	 229
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	44.57	267	140	4	1	261	1	265	1e-74	 223
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	44.73	275	133	7	5	260	31	305	1e-66	 203
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	43.60	289	131	8	1	260	1	286	3e-64	 196
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	43.37	279	130	8	10	260	13	291	7e-52	 164
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	25.93	216	133	6	57	264	54	250	1e-15	64.3
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	31.60	212	110	9	48	255	36	216	5e-14	59.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3	100.00	161	0	0	1	161	1	161	3e-93	 262
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9	30.39	102	70	1	8	109	64	164	6e-06	34.3

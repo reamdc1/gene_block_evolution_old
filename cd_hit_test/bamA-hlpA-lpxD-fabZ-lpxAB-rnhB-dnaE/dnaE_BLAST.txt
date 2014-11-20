@@ -1,0 +1,252 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	100.00	1161	0	0	1	1161	1	1161	0.0	2237
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	57.19	1161	496	1	1	1161	12	1171	0.0	1381
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	52.72	1176	526	7	4	1161	3	1166	0.0	1183
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	45.53	1175	616	8	6	1161	5	1174	0.0	1070
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	43.33	1094	578	17	2	1076	7	1077	0.0	 939
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	42.35	1098	577	12	1	1056	1	1084	0.0	 930
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	41.22	1184	652	17	1	1156	1	1168	0.0	 904
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	41.18	1066	593	15	1	1056	1	1042	0.0	 842
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	40.67	1067	582	18	1	1044	1	1039	0.0	 792
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	40.34	1071	590	18	6	1051	29	1075	0.0	 788
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	40.62	975	540	13	6	968	9	956	0.0	 742
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	40.95	1099	562	24	6	1050	5	1070	0.0	 738
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	37.27	1108	619	15	5	1072	3	1074	0.0	 702
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.24	1068	578	18	6	999	3	1041	0.0	 666
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	100.00	1143	0	0	1	1143	1	1143	0.0	2277
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	51.51	1157	534	4	8	1137	5	1161	0.0	1139
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	50.52	1156	542	11	9	1143	29	1175	0.0	1057
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	42.27	1119	595	18	9	1096	11	1109	0.0	 801
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	41.67	1116	611	17	9	1095	17	1121	0.0	 800
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	42.14	1132	618	18	9	1121	6	1119	0.0	 790
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	40.50	1163	633	15	9	1126	5	1153	0.0	 781
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	39.47	1054	602	14	8	1033	4	1049	0.0	 767
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	44.84	979	509	12	9	964	6	976	0.0	 761
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	38.63	1064	575	16	9	1026	6	1037	0.0	 752
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	43.75	992	499	18	9	956	6	982	0.0	 744
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	39.39	1051	592	13	9	1019	5	1050	0.0	 709
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.33	989	554	14	9	956	4	987	0.0	 682
+NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.52	1079	611	14	8	1019	2	1073	0.0	 669
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	100.00	1144	0	0	1	1144	1	1144	0.0	2291
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	55.84	1164	486	10	2	1144	7	1163	0.0	1261
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	55.79	1174	487	10	1	1144	1	1172	0.0	1245
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	48.18	1179	562	17	1	1140	1	1169	0.0	1025
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	48.97	1168	559	18	1	1142	12	1168	0.0	1020
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	45.22	1192	577	21	1	1131	1	1177	0.0	 914
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	40.70	1172	651	18	4	1142	3	1163	0.0	 870
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	39.13	1168	675	17	1	1142	1	1158	0.0	 847
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	42.15	1134	615	18	6	1119	9	1121	0.0	 764
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	42.18	1062	575	16	1	1038	1	1047	0.0	 756
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	40.12	1149	635	22	6	1123	29	1155	0.0	 733
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.68	1013	540	22	5	966	3	995	0.0	 646
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	37.54	1140	644	26	1	1090	1	1122	0.0	 642
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.16	1134	629	26	6	1063	3	1117	0.0	 619
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	100.00	1175	0	0	1	1175	1	1175	0.0	2306
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	59.45	1169	441	8	29	1173	6	1165	0.0	1347
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	50.26	1156	545	11	29	1175	9	1143	0.0	1070
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	41.13	1184	627	22	29	1174	17	1168	0.0	 819
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	40.28	1075	585	19	29	1075	6	1051	0.0	 798
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	41.47	1208	610	28	29	1169	6	1183	0.0	 799
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	41.39	1126	596	18	29	1114	5	1106	0.0	 780
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	42.00	1112	594	17	29	1117	11	1094	0.0	 771
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	40.56	1149	630	22	29	1155	6	1123	0.0	 759
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	40.58	1168	633	22	29	1157	6	1151	0.0	 751
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	37.36	1076	621	15	29	1075	5	1056	0.0	 717
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	36.21	1193	692	19	29	1172	5	1177	0.0	 701
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	36.73	1119	637	19	29	1098	4	1100	0.0	 687
+NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.32	1162	645	26	29	1120	3	1139	0.0	 678
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	100.00	1171	0	0	1	1171	1	1171	0.0	2406
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	57.19	1161	496	1	12	1171	1	1161	0.0	1430
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	55.81	1170	500	6	14	1171	2	1166	0.0	1363
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	57.70	1175	470	8	17	1170	5	1173	0.0	1343
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	49.19	1175	558	15	15	1170	9	1163	0.0	1116
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	49.23	1168	556	18	12	1168	1	1142	0.0	1061
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	48.57	1190	555	20	12	1166	1	1168	0.0	1051
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	48.07	1163	539	15	12	1128	1	1144	0.0	1047
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	41.30	1184	625	22	17	1168	29	1174	0.0	 828
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	42.67	1125	591	21	12	1112	1	1095	0.0	 815
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	41.67	1116	611	17	17	1121	9	1095	0.0	 808
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	40.54	1157	615	22	12	1124	1	1128	0.0	 802
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.85	1089	584	19	16	1058	3	1066	0.0	 779
+NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	38.16	1098	592	17	17	1047	3	1080	0.0	 741
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	100.00	1166	0	0	1	1166	1	1166	0.0	2401
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	55.81	1170	500	6	2	1166	14	1171	0.0	1363
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	52.99	1172	529	6	3	1166	4	1161	0.0	1231
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	45.69	1182	614	8	1	1164	1	1172	0.0	1071
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	42.65	1177	635	19	3	1163	9	1161	0.0	 960
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	41.52	1197	632	21	2	1161	3	1168	0.0	 912
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	40.77	1170	653	17	3	1163	4	1142	0.0	 902
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	40.23	1198	642	21	5	1153	6	1178	0.0	 890
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	39.30	1061	610	13	4	1057	8	1041	0.0	 774
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	38.44	1103	617	16	4	1088	5	1063	0.0	 746
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	37.73	1076	617	15	5	1056	29	1075	0.0	 729
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	37.37	1132	612	27	1	1075	1	1092	0.0	 701
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	37.68	1096	603	22	5	1053	4	1066	0.0	 699
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.18	1111	605	25	4	1042	2	1080	0.0	 663
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	100.00	1196	0	0	1	1196	1	1196	0.0	2396
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	48.07	1163	539	15	1	1144	12	1128	0.0	1026
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	47.88	1180	523	22	6	1145	5	1132	0.0	1011
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	48.35	1154	516	20	6	1136	11	1107	0.0	 994
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	49.02	1171	520	25	1	1141	1	1124	0.0	 978
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	45.47	1192	574	21	1	1177	1	1131	0.0	 942
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	41.07	1159	623	14	1	1142	1	1116	0.0	 925
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	40.23	1198	642	21	6	1178	5	1153	0.0	 870
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	42.21	1156	585	22	1	1133	1	1096	0.0	 809
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	41.43	1207	612	27	6	1183	29	1169	0.0	 799
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	39.21	1140	601	23	6	1104	5	1093	0.0	 739
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	43.75	992	499	18	6	982	9	956	0.0	 735
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.53	1027	550	16	4	991	2	996	0.0	 717
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.92	1170	611	29	6	1104	3	1116	0.0	 689
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	100.00	1163	0	0	1	1163	1	1163	0.0	2352
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	59.61	1186	435	11	7	1163	2	1172	0.0	1354
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	55.93	1164	485	10	7	1163	2	1144	0.0	1290
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	49.19	1175	558	15	9	1163	15	1170	0.0	1104
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	49.79	1189	543	15	10	1163	4	1173	0.0	1098
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	48.27	1154	517	20	11	1107	6	1136	0.0	 989
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	41.48	1179	648	17	7	1163	2	1160	0.0	 963
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	42.57	1177	636	19	9	1161	3	1163	0.0	 953
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	42.45	1119	593	18	11	1109	9	1096	0.0	 801
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	41.45	1141	618	18	11	1127	6	1120	0.0	 785
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	41.87	1113	596	17	10	1094	28	1117	0.0	 768
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	40.30	1119	604	21	10	1085	4	1101	0.0	 755
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	38.47	1149	635	23	11	1111	4	1128	0.0	 744
+NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	36.44	1128	626	23	11	1068	3	1109	0.0	 688
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	100.00	1178	0	0	1	1178	1	1178	0.0	2342
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	58.85	1220	449	11	5	1175	3	1218	0.0	1412
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	61.99	1076	378	7	5	1065	4	1063	0.0	1338
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	40.36	1157	617	21	1	1128	12	1124	0.0	 783
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	40.04	1119	607	21	4	1101	10	1085	0.0	 757
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	40.91	1100	561	24	5	1070	6	1050	0.0	 746
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	39.03	1158	589	25	1	1101	1	1098	0.0	 743
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	39.29	1097	609	19	5	1085	6	1061	0.0	 735
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	39.21	1140	601	23	5	1093	6	1104	0.0	 723
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	39.77	1051	588	14	5	1050	9	1019	0.0	 708
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	36.26	1194	692	19	4	1177	28	1172	0.0	 709
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	36.87	1131	619	26	1	1092	1	1075	0.0	 687
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	40.22	1022	536	21	1	995	1	974	0.0	 670
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	37.19	1140	648	26	1	1122	1	1090	0.0	 666
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	100.00	1218	0	0	1	1218	1	1218	0.0	2449
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	58.52	1220	453	11	3	1218	5	1175	0.0	1417
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	58.08	1095	421	10	3	1091	4	1066	0.0	1273
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	38.25	1098	591	18	3	1080	17	1047	0.0	 733
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	39.63	1027	551	15	3	1020	6	972	0.0	 726
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	37.57	1062	546	22	1	1017	3	992	0.0	 714
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	38.75	1053	546	23	3	1021	6	993	0.0	 699
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	36.61	1128	624	23	3	1109	11	1068	0.0	 691
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	35.97	1112	608	20	3	1085	6	1042	0.0	 678
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	36.68	1137	626	25	3	1114	29	1096	0.0	 675
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	36.52	1079	611	14	2	1073	8	1019	0.0	 669
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	38.08	1040	549	21	3	1017	6	975	0.0	 659
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	36.29	1072	573	24	2	1037	4	1001	0.0	 656
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	36.60	1093	603	24	3	1080	6	1023	0.0	 640
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	100.00	1200	0	0	1	1200	1	1200	0.0	2370
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	62.36	1076	374	7	4	1063	5	1065	0.0	1338
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	58.26	1095	419	10	4	1066	3	1091	0.0	1257
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	39.80	1088	586	18	3	1066	16	1058	0.0	 775
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	38.89	1098	596	14	4	1066	5	1062	0.0	 757
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	40.51	1049	559	18	4	1031	11	1015	0.0	 751
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	38.54	1082	594	19	4	1062	6	1039	0.0	 736
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	39.24	1027	553	15	2	996	4	991	0.0	 723
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	37.33	1109	617	16	3	1074	5	1072	0.0	 715
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	39.69	1018	539	18	3	993	5	974	0.0	 700
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	37.68	1096	603	22	4	1066	5	1053	0.0	 696
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	36.73	1119	637	19	4	1100	29	1098	0.0	 689
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	39.23	989	555	13	4	987	9	956	0.0	 678
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	39.49	1013	542	20	3	995	5	966	0.0	 674
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	100.00	1173	0	0	1	1173	1	1173	0.0	2232
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	59.61	1186	435	11	2	1172	7	1163	0.0	1301
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	55.79	1174	487	10	1	1172	1	1144	0.0	1206
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	47.77	1212	554	22	1	1172	1	1173	0.0	1006
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	48.57	1190	555	20	1	1168	12	1166	0.0	 998
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	48.25	1171	529	24	1	1124	1	1141	0.0	 954
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	41.27	1185	650	18	1	1168	1	1156	0.0	 896
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	41.52	1197	632	21	3	1168	2	1161	0.0	 875
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	43.12	1083	562	20	1	1065	1	1047	0.0	 737
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	44.68	987	515	12	6	984	9	972	0.0	 725
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	40.58	1168	633	22	6	1151	29	1157	0.0	 721
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.94	1019	535	19	5	974	3	993	0.0	 673
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	40.00	1020	541	20	1	974	1	995	0.0	 658
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	37.94	1041	549	22	6	975	3	1017	0.0	 630
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	100.00	1174	0	0	1	1174	1	1174	0.0	2386
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	57.70	1175	470	8	5	1173	17	1170	0.0	1318
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	49.79	1189	543	15	4	1173	10	1163	0.0	1095
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	45.53	1175	616	8	5	1174	6	1161	0.0	1073
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	45.69	1182	614	8	1	1172	1	1164	0.0	1050
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	48.60	1179	557	17	1	1169	1	1140	0.0	1045
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	47.77	1212	554	22	1	1173	1	1172	0.0	1022
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	47.88	1180	523	22	5	1132	6	1145	0.0	1003
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	41.44	1127	596	18	4	1106	28	1114	0.0	 769
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	40.10	1152	619	20	2	1128	3	1108	0.0	 769
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	40.43	1160	638	14	5	1153	9	1126	0.0	 766
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	39.46	1158	584	25	1	1098	1	1101	0.0	 739
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	39.31	1099	590	16	5	1062	4	1066	0.0	 739
+NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	35.25	1180	640	26	3	1106	1	1132	0.0	 698
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1
+# Database: cd_hit_test/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE/dnaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	100.00	1167	0	0	1	1167	1	1167	0.0	2254
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll0870|dnaE|695574|699102|-1|Protein|NONE|64.3	59.28	1159	439	8	1	1150	24	1158	0.0	1312
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_002696|Caulobacter_crescentus_CB15|CC_1926|dnaE|2122930|2126362|-1|Protein|NONE|65.5	51.71	1143	525	4	5	1147	8	1123	0.0	1133
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2880|dnaE|3460719|3464310|1|Protein|NONE|66.3	45.36	1012	491	17	1	971	1	991	0.0	 807
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_003143|Yersinia_pestis_CO92|YPO1059|dnaE|1200845|1204361|1|Protein|polC|48.3	42.62	1124	593	19	1	1095	12	1112	0.0	 802
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_234|dnaE|264004|267490|1|Protein|NONE|26.2	40.69	1069	579	17	1	1039	1	1044	0.0	 791
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0911|dnaE|940090|943525|-1|Protein|NONE|65.2	42.14	1063	574	17	1	1047	1	1038	0.0	 781
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_002928|Bordetella_parapertussis_12822|BPP1707|dnaE|1820163|1823655|1|Protein|polC|67.0	42.54	1065	567	15	6	1047	11	1053	0.0	 781
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_002947|Pseudomonas_putida_KT2440|PP_1606|dnaE|1800012|1803537|1|Protein|NONE|62.2	39.95	1154	618	21	3	1108	2	1128	0.0	 766
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc2205|dnaE|2387017|2390539|-1|Protein|NONE|67.7	44.92	1004	513	17	1	981	1	987	0.0	 755
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl286|dnaE|311182|314683|1|Protein|NONE|27.9	38.44	1103	617	16	5	1063	4	1088	0.0	 739
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS1983|dnaE|1883220|1886757|-1|Protein|NONE|50.1	39.03	1094	616	17	6	1061	5	1085	0.0	 736
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0718|dnaE|671945|675548|1|Protein|NONE|32.2	38.24	1080	600	17	6	1039	4	1062	0.0	 729
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll4866|dnaE|5391658|5395162|-1|Protein|NONE|67.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1270|dnaE|1231083|1234740|-1|Protein|NONE|36.7	37.85	1128	627	20	6	1071	3	1118	0.0	 721

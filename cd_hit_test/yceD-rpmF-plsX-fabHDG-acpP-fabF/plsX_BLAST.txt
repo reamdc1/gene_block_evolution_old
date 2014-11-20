@@ -1,0 +1,192 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	100.00	348	0	0	1	348	1	348	0.0	 706
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	58.86	333	136	1	1	332	1	333	5e-148	 417
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	50.16	317	156	2	4	319	5	320	9e-112	 323
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	49.70	330	163	3	3	330	2	330	9e-108	 314
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	45.27	338	183	2	2	337	3	340	7e-106	 308
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	47.23	343	160	6	2	333	3	335	1e-101	 298
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	42.86	336	187	3	3	333	4	339	3e-94	 279
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	42.72	316	172	4	2	311	4	316	6e-85	 255
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	39.09	330	192	4	3	326	2	328	8e-80	 242
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	40.33	300	174	4	10	304	1	300	8e-73	 223
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	37.06	313	191	5	3	315	2	308	7e-69	 213
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	33.95	324	195	6	3	319	2	313	2e-62	 196
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	100.00	353	0	0	1	353	1	353	0.0	 647
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	62.05	332	126	0	2	333	5	336	1e-140	 398
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	45.59	340	173	6	2	336	3	335	2e-78	 238
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	39.09	330	192	4	2	328	3	326	1e-72	 223
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	39.70	335	195	5	2	333	4	334	2e-72	 223
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	41.14	333	188	6	1	330	1	328	1e-66	 208
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	37.98	337	201	5	2	333	4	337	1e-65	 205
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	40.36	332	191	5	4	333	6	332	2e-65	 204
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	38.78	343	186	10	2	333	4	333	6e-60	 190
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	35.12	336	209	4	1	336	1	327	8e-58	 184
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	36.18	304	184	7	9	306	1	300	2e-57	 183
+NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	32.93	331	212	5	1	330	1	322	4e-53	 172
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	100.00	341	0	0	1	341	1	341	0.0	 699
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	52.21	339	161	1	1	338	1	339	6e-125	 357
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	48.97	339	169	2	1	335	1	339	7e-109	 317
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	50.15	327	159	2	11	333	1	327	7e-105	 305
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	48.67	339	167	3	1	336	1	335	7e-103	 300
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	47.23	343	160	6	3	335	2	333	1e-101	 298
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	43.41	334	185	3	3	334	2	333	8e-87	 259
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	45.29	340	156	7	4	328	2	326	7e-86	 257
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	41.49	323	171	10	1	313	2	316	4e-73	 224
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	38.78	343	186	10	4	333	2	333	5e-67	 208
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	36.56	331	199	8	4	332	2	323	2e-63	 198
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	35.26	329	203	7	4	330	2	322	5e-58	 184
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	100.00	359	0	0	1	359	1	359	0.0	 560
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	49.68	310	153	1	1	310	1	307	5e-87	 260
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	48.16	299	155	0	11	309	1	299	5e-83	 249
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	48.54	309	155	2	1	309	1	305	9e-82	 247
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	45.78	308	162	3	1	308	1	303	1e-75	 231
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	43.97	307	167	3	4	310	3	304	1e-75	 231
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	43.46	306	169	2	4	309	3	304	5e-71	 219
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	41.88	308	173	4	4	310	2	304	7e-61	 193
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	40.45	309	176	5	1	306	2	305	3e-57	 183
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	40.58	308	172	7	4	311	2	298	5e-55	 177
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	39.48	309	179	5	4	309	2	305	8e-54	 174
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	35.39	308	189	5	4	311	2	299	2e-44	 148
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	100.00	333	0	0	1	333	1	333	0.0	 682
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	52.85	316	148	1	1	316	1	315	5e-121	 346
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	36.97	330	200	5	2	324	3	331	1e-69	 215
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	33.95	324	195	6	2	313	3	319	2e-62	 196
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	35.76	330	202	5	2	321	4	333	3e-61	 193
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	33.84	328	210	4	2	322	4	331	1e-58	 186
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	35.49	324	200	6	4	320	6	327	1e-58	 186
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	34.81	339	203	6	1	327	1	333	2e-58	 185
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	35.26	329	203	7	2	322	4	330	5e-58	 184
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	32.93	331	212	5	1	322	1	330	6e-58	 184
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	33.23	328	201	6	2	312	5	331	2e-53	 172
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	35.55	301	182	7	9	298	1	300	8e-53	 170
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	100.00	328	0	0	1	328	1	328	0.0	 639
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	52.85	316	148	1	1	315	1	316	8e-116	 333
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	38.74	333	193	6	2	323	4	336	3e-68	 211
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	36.42	313	193	4	2	308	3	315	3e-67	 208
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	34.55	330	208	5	2	323	4	333	4e-67	 208
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	36.39	327	200	5	4	323	6	331	1e-65	 204
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	38.73	315	186	5	2	309	3	317	1e-64	 201
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	35.96	342	200	6	1	328	1	337	2e-62	 196
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	35.95	331	201	8	2	323	4	332	1e-61	 194
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	36.56	320	196	6	1	313	1	320	5e-56	 179
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	32.37	346	209	8	2	328	5	344	2e-54	 175
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	36.21	301	179	6	9	297	1	300	8e-54	 172
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	100.00	354	0	0	1	354	1	354	0.0	 717
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	58.86	333	136	1	1	333	1	332	5e-148	 417
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	50.30	328	161	2	3	329	2	328	2e-104	 305
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	53.04	313	142	4	5	315	6	315	1e-103	 303
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	44.44	333	184	1	2	333	3	335	2e-99	 293
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	44.87	341	183	3	3	339	4	343	7e-94	 279
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	46.08	332	171	5	3	329	5	333	3e-88	 264
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	43.41	334	185	3	2	333	3	334	9e-87	 259
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	45.59	340	173	6	3	335	2	336	1e-85	 257
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	41.20	301	171	3	10	305	1	300	4e-71	 219
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	36.97	330	200	5	3	331	2	324	1e-69	 215
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	38.73	315	186	5	3	317	2	309	6e-66	 205
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	100.00	351	0	0	1	351	1	351	0.0	 676
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	49.70	330	163	3	2	330	3	330	6e-106	 309
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	50.30	328	161	2	2	328	3	329	3e-102	 300
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	46.56	320	168	3	2	319	4	322	2e-95	 282
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	48.58	317	158	4	3	317	5	318	4e-91	 271
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	45.26	327	175	4	2	326	4	328	2e-85	 256
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	40.92	347	199	4	2	344	5	349	4e-80	 243
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	39.83	344	197	5	2	340	4	342	1e-76	 234
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	41.27	332	187	6	1	327	1	329	2e-72	 223
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	39.09	307	167	5	9	303	1	299	9e-69	 213
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	34.81	339	203	6	1	333	1	327	4e-56	 179
+NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	36.56	320	196	6	1	320	1	313	6e-54	 174
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	100.00	336	0	0	1	336	1	336	0.0	 643
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	48.07	337	173	2	1	335	1	337	6e-109	 316
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	50.16	317	156	2	5	320	4	319	5e-106	 308
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	53.04	313	142	4	6	315	5	315	9e-101	 295
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	48.67	339	167	3	1	335	1	336	2e-100	 294
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	44.87	341	183	3	1	336	1	341	1e-98	 290
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	48.58	317	158	4	5	318	3	317	9e-92	 272
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	44.82	328	174	4	11	332	1	327	2e-84	 253
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	42.63	312	172	5	6	312	7	316	5e-74	 226
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	40.36	332	191	5	6	332	4	333	8e-70	 216
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	37.00	327	198	5	6	331	4	323	1e-67	 209
+NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	35.49	324	200	6	6	327	4	320	2e-58	 185
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	100.00	329	0	0	1	329	1	329	0.0	 630
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	50.15	327	159	2	1	327	11	333	3e-103	 301
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	47.71	327	171	0	1	327	11	337	2e-101	 297
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	44.82	328	176	2	1	327	11	334	6e-90	 267
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	44.82	328	174	4	1	327	11	332	6e-84	 251
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	42.86	301	160	7	1	296	12	305	1e-73	 225
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	39.86	296	173	4	1	296	10	300	9e-71	 218
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	39.67	305	162	6	1	296	9	300	1e-69	 215
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	41.08	297	169	3	1	296	10	301	1e-69	 215
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	36.67	300	180	7	1	296	9	302	2e-65	 204
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	37.04	297	174	7	1	296	9	293	1e-57	 182
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	35.02	297	181	7	1	296	9	294	9e-51	 165
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	100.00	342	0	0	1	342	1	342	0.0	 698
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	52.21	339	161	1	1	339	1	338	6e-125	 357
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	49.26	339	169	1	1	336	1	339	1e-113	 329
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	48.07	337	173	2	1	337	1	335	8e-113	 326
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	45.27	338	183	2	3	340	2	337	7e-106	 308
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	44.44	333	184	1	3	335	2	333	2e-99	 293
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	46.56	320	168	3	4	322	2	319	2e-96	 285
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	44.82	328	176	2	11	334	1	327	2e-91	 271
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	41.37	336	192	4	1	333	2	335	2e-86	 259
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	39.70	335	195	5	4	334	2	333	5e-81	 245
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	34.85	330	207	5	4	333	2	323	3e-67	 208
+NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	33.84	328	210	4	4	331	2	322	1e-58	 186
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/plsX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	100.00	353	0	0	1	353	1	353	0.0	 678
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu1178|plsX|1171494|1172556|1|Protein|NONE|59.9	62.05	332	126	0	5	336	2	333	2e-139	 395
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1049|plsX|1102626|1103691|1|Protein|NONE|64.6	46.08	332	171	5	5	333	3	329	1e-79	 242
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2779|plsX|2900934|2901963|-1|Protein|NONE|47.1	41.77	328	186	4	2	327	1	325	2e-78	 238
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1645|plsX|1776940|1777987|1|Protein|NONE|50.8	42.72	316	172	4	4	316	2	311	2e-77	 236
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_003112|Neisseria_meningitidis_MC58|NMB1913|plsX|2011931|2012987|1|Protein|NONE|58.0	40.92	347	199	4	5	349	2	344	8e-74	 226
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1913|plsX|2152148|2153138|1|Protein|NONE|40.7	42.30	305	164	7	12	309	1	300	2e-67	 209
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_002947|Pseudomonas_putida_KT2440|PP_1912|plsX|2155555|2156566|1|Protein|NONE|63.2	42.12	311	175	4	7	316	6	312	1e-66	 207
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1231|plsX|1185822|1186902|1|Protein|NONE|53.6	38.81	335	197	5	2	331	1	332	1e-66	 208
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_3012|plsX|3076849|3077875|-1|Protein|NONE|47.8	41.49	323	171	10	2	316	1	313	4e-65	 203
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0329c|plsX|299849|300836|-1|Protein|NONE|31.8	32.66	346	208	8	5	344	2	328	3e-50	 164
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5021|plsX|5567355|5568417|-1|Protein|NONE|64.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0680|plsX|658844|659846|1|Protein|NONE|40.0	33.23	328	201	6	5	331	2	312	3e-48	 159

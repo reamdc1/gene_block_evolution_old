@@ -1,0 +1,1 @@
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3623	waaU	3796261	3797335	-1	Protein	ECK3613:JW3598:rfaK:waaK	31.0	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3623	waaU	3796261	3797335	-1	31.01	100.0	357	1	357	1	357	0.0	701.0

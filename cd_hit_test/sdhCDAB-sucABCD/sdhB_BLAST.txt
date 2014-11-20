@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9
+# Database: cd_hit_test/sdhCDAB-sucABCD/sdhB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	100.00	242	0	0	1	242	1	242	6e-172	 467
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	54.39	239	101	4	3	240	7	238	4e-96	 274
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	51.50	233	107	3	5	236	30	257	3e-84	 244
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	29.20	226	153	4	16	237	11	233	6e-26	92.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8
+# Database: cd_hit_test/sdhCDAB-sucABCD/sdhB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	100.00	261	0	0	1	261	1	261	0.0	 542
+NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	59.49	237	94	2	23	259	2	236	3e-106	 301
+NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	51.50	233	107	3	30	257	5	236	3e-87	 253
+NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	28.12	224	153	4	44	261	14	235	5e-26	92.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6
+# Database: cd_hit_test/sdhCDAB-sucABCD/sdhB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	100.00	238	0	0	1	238	1	238	0.0	 491
+NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	59.49	237	94	2	2	236	23	259	2e-106	 301
+NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	55.23	239	99	4	7	238	3	240	6e-100	 284
+NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	28.77	219	130	5	36	238	28	236	4e-25	90.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7
+# Database: cd_hit_test/sdhCDAB-sucABCD/sdhB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	100.00	321	0	0	1	321	1	321	0.0	 666
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl330|sdhB|364753|365482|1|Protein|NONE|30.9	29.20	226	153	4	11	233	16	237	1e-29	 103
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	NC_002488|Xylella_fastidiosa_9a5c|XF1073|sdhB|1030026|1030812|1|Protein|NONE|50.8	28.12	224	153	4	14	235	44	261	7e-26	92.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0438|sdhB|407164|408130|1|Protein|NONE|35.7	NC_002928|Bordetella_parapertussis_12822|BPP3227|sdhB|3481467|3482184|-1|Protein|NONE|61.6	28.77	219	130	5	28	236	36	238	5e-25	90.1

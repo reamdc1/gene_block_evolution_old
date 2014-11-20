@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1669|tdcD|1836084|1837308|1|Protein|NONE|64.2
+# Database: cd_hit_test_2/tdcABCDEFG/tdcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1669|tdcD|1836084|1837308|1|Protein|NONE|64.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1669|tdcD|1836084|1837308|1|Protein|NONE|64.2	100.00	407	0	0	1	407	1	407	0.0	 800
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1669|tdcD|1836084|1837308|1|Protein|NONE|64.2	NC_004741|Shigella_flexneri_2a_str._2457T|S3367|tdcD|3245075|3246296|-1|Protein|NONE|47.6	34.23	409	235	9	7	402	9	396	4e-57	 184
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3367|tdcD|3245075|3246296|-1|Protein|NONE|47.6
+# Database: cd_hit_test_2/tdcABCDEFG/tdcD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3367|tdcD|3245075|3246296|-1|Protein|NONE|47.6	NC_004741|Shigella_flexneri_2a_str._2457T|S3367|tdcD|3245075|3246296|-1|Protein|NONE|47.6	100.00	406	0	0	1	406	1	406	0.0	 772
+NC_004741|Shigella_flexneri_2a_str._2457T|S3367|tdcD|3245075|3246296|-1|Protein|NONE|47.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1669|tdcD|1836084|1837308|1|Protein|NONE|64.2	33.82	408	238	9	9	396	7	402	3e-45	 152

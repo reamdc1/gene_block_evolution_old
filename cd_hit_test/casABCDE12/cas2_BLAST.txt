@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2754|ygbF|2876590|2876875|-1|Protein|cas2:ECK2749:JW5438|46.3
+# Database: cd_hit_test/casABCDE12/cas2_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2754|ygbF|2876590|2876875|-1|Protein|cas2:ECK2749:JW5438|46.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2754|ygbF|2876590|2876875|-1|Protein|cas2:ECK2749:JW5438|46.3	100.00	94	0	0	1	94	1	94	9e-68	 188

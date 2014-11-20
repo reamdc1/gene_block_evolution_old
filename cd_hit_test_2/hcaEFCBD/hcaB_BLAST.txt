@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2541|hcaB|2669246|2670059|1|Protein|ECK2538:JW2525:phdD:yfhX|56.1
+# Database: cd_hit_test_2/hcaEFCBD/hcaB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2541|hcaB|2669246|2670059|1|Protein|ECK2538:JW2525:phdD:yfhX|56.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2541|hcaB|2669246|2670059|1|Protein|ECK2538:JW2525:phdD:yfhX|56.1	100.00	270	0	0	1	270	1	270	0.0	 551

@@ -1,0 +1,12 @@
+>Cluster 0
+0	190aa, >NC_012441|Brucella_... *
+>Cluster 1
+0	163aa, >NC_004578|Pseudomon... at 68.71%
+1	164aa, >NC_004459|Vibrio_vu... *
+>Cluster 2
+0	100aa, >NC_003143|Yersinia_... *
+>Cluster 3
+0	96aa, >NC_000913|Escherich... *
+1	96aa, >NC_003198|Salmonell... at 90.62%
+2	96aa, >NC_003197|Salmonell... at 90.62%
+3	96aa, >NC_004741|Shigella_... at 97.92%

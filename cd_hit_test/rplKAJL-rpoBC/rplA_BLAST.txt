@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6
+# Database: cd_hit_test/rplKAJL-rpoBC/rplA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	100.00	234	0	0	1	234	1	234	3e-145	 399
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	52.12	236	110	3	1	234	1	235	9e-80	 232
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	54.63	227	103	0	3	229	4	230	2e-74	 218
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	58.15	227	95	0	1	227	1	227	8e-70	 206
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8
+# Database: cd_hit_test/rplKAJL-rpoBC/rplA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	100.00	233	0	0	1	233	1	233	2e-139	 384
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	58.15	227	95	0	1	227	1	227	3e-73	 215
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	55.61	223	99	0	3	225	4	226	1e-69	 206
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	40.17	234	137	3	1	232	1	233	1e-51	 159
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5
+# Database: cd_hit_test/rplKAJL-rpoBC/rplA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	100.00	235	0	0	1	235	1	235	3e-176	 477
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	52.12	236	110	3	1	235	1	234	1e-88	 254
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	44.10	229	125	3	3	230	4	230	2e-64	 192
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	40.60	234	136	3	1	233	1	232	2e-61	 185
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4
+# Database: cd_hit_test/rplKAJL-rpoBC/rplA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	100.00	234	0	0	1	234	1	234	4e-140	 385
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3984|rplA|4176901|4177606|1|Protein|ECK3975:JW3947:rpy|51.6	54.63	227	103	0	4	230	3	229	6e-70	 207
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1291|rplA|1235824|1236526|-1|Protein|NONE|56.8	55.61	223	99	0	4	226	3	225	7e-65	 194
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0464|rplA|456528|457233|1|Protein|NONE|45.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl560|rplA|630130|630838|-1|Protein|NONE|29.5	39.74	229	135	2	4	230	3	230	4e-52	 161

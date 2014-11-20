@@ -1,0 +1,170 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	100.00	453	0	0	1	453	1	453	0.0	 907
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	53.57	448	208	0	4	451	26	473	0.0	 535
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	51.42	459	208	5	4	447	15	473	2e-164	 468
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	51.32	456	217	4	1	451	1	456	3e-149	 427
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	36.58	257	155	4	6	254	5	261	4e-51	 167
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	36.26	262	156	6	4	255	5	265	4e-48	 159
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	36.33	256	155	3	6	253	3	258	3e-47	 156
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	34.48	261	163	4	6	258	5	265	1e-46	 155
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	38.33	240	137	6	14	250	25	256	3e-46	 153
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	30.53	285	142	6	15	253	26	300	2e-36	 127
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	28.32	459	259	16	51	451	45	491	1e-30	 113
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	100.00	278	0	0	1	278	1	278	0.0	 503
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	60.79	227	88	1	41	267	39	264	2e-88	 259
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	55.21	259	114	2	6	264	4	260	1e-85	 251
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	52.26	266	86	4	39	264	37	301	1e-83	 248
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	52.70	241	113	1	34	274	32	271	1e-81	 241
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	44.39	223	122	2	33	255	30	250	8e-59	 182
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	42.61	230	123	5	39	267	58	279	7e-47	 155
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	38.50	226	130	5	41	265	38	255	7e-46	 152
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	38.56	236	135	6	38	268	46	276	4e-43	 145
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	32.35	238	149	5	39	276	36	261	3e-38	 131
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	29.78	225	140	7	59	274	46	261	2e-22	86.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	100.00	306	0	0	1	306	1	306	0.0	 620
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	52.82	301	102	2	1	301	1	261	1e-101	 293
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	50.84	299	106	4	4	301	6	264	9e-91	 266
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	49.50	301	111	3	1	301	1	260	8e-89	 260
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	45.10	306	128	3	1	306	1	266	2e-79	 236
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	34.77	302	155	5	4	304	2	262	5e-53	 168
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	36.39	294	139	6	4	297	27	272	7e-45	 151
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	30.31	287	154	6	4	290	5	245	8e-39	 134
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	31.56	301	157	8	4	300	16	271	4e-37	 129
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	30.53	285	142	6	26	300	15	253	1e-36	 127
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	30.65	261	142	6	43	300	30	254	2e-27	 101
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	100.00	265	0	0	1	265	1	265	2e-174	 477
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	59.07	259	101	2	1	255	1	258	9e-98	 281
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	52.82	301	102	2	1	261	1	301	2e-93	 272
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	56.87	262	112	1	4	264	6	267	3e-88	 258
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	55.56	252	112	0	1	252	1	252	5e-81	 239
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	47.57	206	108	0	56	261	54	259	9e-66	 200
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	43.38	219	120	3	49	265	64	280	2e-50	 165
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	40.43	230	128	5	41	265	51	276	2e-44	 148
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	36.00	225	138	3	41	265	40	258	8e-44	 146
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	37.76	196	120	2	57	252	54	247	6e-41	 139
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	30.18	222	142	4	48	260	37	254	4e-24	91.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	100.00	475	0	0	1	475	1	475	0.0	 978
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	53.57	448	208	0	26	473	4	451	0.0	 535
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	54.53	464	190	5	24	469	13	473	3e-179	 506
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	50.00	454	220	5	26	473	4	456	3e-166	 472
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	40.46	262	148	4	27	280	4	265	4e-54	 176
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	44.39	223	117	4	60	276	39	260	8e-52	 169
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	38.98	254	147	4	27	272	2	255	3e-49	 162
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	37.79	262	155	4	27	280	4	265	5e-49	 162
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	40.38	265	147	6	26	280	5	268	1e-48	 161
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	36.39	294	139	6	27	272	4	297	1e-44	 151
+NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	26.74	460	273	14	69	473	41	491	1e-29	 110
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	100.00	458	0	0	1	458	1	458	0.0	 832
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	50.00	454	220	5	4	456	26	473	6e-153	 438
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	46.65	463	233	6	2	452	13	473	4e-140	 405
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	51.32	456	217	4	1	456	1	451	3e-138	 400
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	35.86	251	152	6	5	248	4	252	3e-35	 123
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	33.07	254	164	5	5	252	4	257	7e-33	 116
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	32.53	249	162	4	5	247	4	252	9e-33	 116
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	29.78	272	177	6	4	261	5	276	1e-31	 112
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	32.40	250	163	4	5	248	2	251	3e-30	 108
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	29.27	287	157	5	5	245	4	290	5e-29	 106
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	24.40	496	304	15	19	457	11	492	2e-19	80.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	100.00	264	0	0	1	264	1	264	0.0	 499
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	42.13	254	145	2	2	254	4	256	4e-63	 193
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	42.47	259	147	2	2	259	4	261	2e-58	 181
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	42.23	251	142	3	2	250	6	255	1e-55	 174
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	47.47	198	103	1	54	251	56	252	3e-54	 170
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	31.79	302	164	4	2	262	4	304	5e-47	 152
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	38.98	254	147	4	2	255	27	272	1e-44	 149
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	36.33	256	155	3	3	258	6	253	7e-42	 141
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	34.35	262	161	6	2	258	16	271	1e-37	 129
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	32.40	250	163	4	2	251	5	248	3e-35	 122
+NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	33.82	207	130	4	55	255	46	251	1e-22	86.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	100.00	501	0	0	1	501	1	501	0.0	 993
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	34.30	207	129	3	46	251	55	255	3e-28	 103
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	30.65	261	142	6	30	254	43	300	4e-27	 101
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	27.96	279	183	5	1	267	1	273	6e-27	 100
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	37.57	173	102	3	46	218	57	223	9e-27	99.4
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	27.67	459	262	17	45	491	51	451	2e-26	 101
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	26.52	460	274	13	41	491	69	473	2e-25	98.6
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	30.18	222	142	4	37	254	48	260	6e-24	91.3
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	23.33	510	319	13	4	490	16	476	2e-23	92.4
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	29.78	225	140	7	46	261	59	274	2e-22	87.0
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	26.67	330	202	10	11	337	19	311	2e-21	86.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2177|recR|2287434|2288034|-1|Protein|NONE|48.5
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2177|recR|2287434|2288034|-1|Protein|NONE|48.5	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2177|recR|2287434|2288034|-1|Protein|NONE|48.5	100.00	199	0	0	1	199	1	199	5e-149	 407
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	100.00	477	0	0	1	477	1	477	0.0	 985
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	54.53	464	190	5	13	473	24	469	3e-179	 506
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	51.42	459	208	5	15	473	4	447	2e-164	 468
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	47.08	463	231	6	13	473	2	452	1e-150	 432
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	39.10	266	153	5	16	276	4	265	1e-52	 172
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	40.61	261	139	7	16	268	4	256	1e-50	 166
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	37.92	269	155	7	15	276	5	268	2e-47	 158
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	37.08	267	157	6	16	276	4	265	2e-47	 157
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	34.35	262	161	6	16	271	2	258	1e-41	 141
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	31.56	301	157	8	16	271	4	300	7e-37	 129
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	23.77	509	318	13	16	476	4	490	2e-29	 110
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	100.00	260	0	0	1	260	1	260	5e-167	 457
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	59.07	259	101	2	1	258	1	255	1e-86	 253
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	55.21	259	114	2	4	260	6	264	2e-80	 238
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	49.17	301	112	3	1	260	1	301	2e-75	 226
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	50.86	232	112	2	30	260	31	261	2e-70	 212
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	47.47	198	103	1	56	252	54	251	8e-55	 171
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	44.39	223	117	4	39	260	60	276	1e-46	 154
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	43.36	226	114	6	39	256	49	268	4e-46	 153
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	38.03	234	135	5	31	256	19	250	2e-41	 139
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	38.60	215	127	4	39	252	38	248	4e-38	 130
+NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	35.84	173	105	2	57	223	46	218	1e-21	83.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6
+# Database: cd_hit_test/trpLEDCBA/trpC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	100.00	253	0	0	1	253	1	253	0.0	 510
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2712|trpC|2935828|2936626|1|Protein|NONE|68.2	55.56	252	112	0	1	252	1	252	7e-90	 262
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_002516|Pseudomonas_aeruginosa_PAO1|PA0651|trpC|705129|705966|1|Protein|NONE|66.2	53.20	250	116	1	4	252	6	255	2e-85	 251
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_003112|Neisseria_meningitidis_MC58|NMB0275|trpC|277799|278582|-1|Protein|NONE|56.7	50.39	254	123	3	1	253	1	252	2e-80	 238
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0012|trpC|15450|16371|-1|Protein|NONE|53.5	45.89	292	118	3	1	252	1	292	3e-78	 234
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS1912|trpC|1804015|1804810|-1|Protein|NONE|48.8	41.83	251	144	2	4	253	2	251	1e-68	 207
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1389.1|trpC|1486203|1487637|1|Protein|trpF|38.9	39.76	254	144	5	4	253	16	264	2e-50	 165
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_274|trpC|305114|306476|-1|Protein|NONE|24.6	36.95	249	149	4	5	253	6	246	5e-49	 161
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_003143|Yersinia_pestis_CO92|YPO2205|trpC|2479569|2480997|-1|Protein|NONE|51.0	37.60	250	148	4	4	253	27	268	2e-46	 154
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl429|trpC|468710|470087|1|Protein|trpF|24.7	33.88	245	156	5	4	248	5	243	5e-42	 142
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr4810|trpC|5330288|5331110|1|Protein|NONE|67.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0002|trpC|2483|3989|1|Protein|NONE|37.1	28.29	258	167	5	1	252	1	246	1e-25	95.9

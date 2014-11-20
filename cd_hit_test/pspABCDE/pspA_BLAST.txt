@@ -1,0 +1,26 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3
+# Database: cd_hit_test/pspABCDE/pspA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	100.00	222	0	0	1	222	1	222	3e-143	 392
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	60.47	215	84	1	1	214	1	215	1e-78	 228
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	56.42	218	95	0	1	218	1	218	1e-73	 215
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9
+# Database: cd_hit_test/pspABCDE/pspA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	100.00	223	0	0	1	223	1	223	2e-162	 441
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	60.47	215	84	1	1	215	1	214	8e-92	 262
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	55.66	221	97	1	1	221	1	220	1e-82	 238
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0068|pspA|81043|81940|1|Protein|NONE|33.0
+# Database: cd_hit_test/pspABCDE/pspA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0068|pspA|81043|81940|1|Protein|NONE|33.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0068|pspA|81043|81940|1|Protein|NONE|33.0	100.00	298	0	0	1	298	1	298	0.0	 517
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4
+# Database: cd_hit_test/pspABCDE/pspA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	100.00	227	0	0	1	227	1	227	7e-152	 415
+NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1304|pspA|1366102|1366771|1|Protein|cog:ECK1299:JW1297|49.3	56.42	218	95	0	1	218	1	218	1e-79	 231
+NC_004347|Shewanella_oneidensis_MR-1|SO_1807|pspA|1897830|1898514|1|Protein|NONE|44.4	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2879|pspA|2945994|2946666|-1|Protein|NONE|43.9	55.66	221	97	1	1	220	1	221	1e-75	 221

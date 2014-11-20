@@ -1,0 +1,192 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	100.00	467	0	0	1	467	1	467	0.0	 902
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	50.22	452	219	1	15	466	1	446	8e-155	 442
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	52.04	442	191	4	43	464	42	482	4e-154	 442
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	49.89	453	211	6	15	466	1	438	8e-146	 419
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	48.85	434	209	6	16	449	17	437	1e-132	 386
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	43.37	445	235	5	21	465	4	431	4e-122	 358
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	42.02	445	241	7	25	465	2	433	3e-91	 279
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	35.60	455	264	6	26	466	1	440	4e-86	 265
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	40.27	452	239	7	34	462	8	451	5e-84	 260
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	39.63	323	193	2	131	452	104	425	4e-72	 229
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	40.00	325	193	2	130	453	121	444	3e-66	 214
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	30.89	437	278	5	25	452	22	443	2e-62	 203
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	100.00	444	0	0	1	444	1	444	0.0	 826
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	46.12	425	221	3	15	439	18	434	2e-106	 317
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	45.30	457	218	7	12	442	36	486	1e-105	 317
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	45.28	424	221	5	18	440	25	438	2e-102	 307
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	44.29	429	228	5	15	440	26	446	3e-101	 304
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	48.40	376	185	5	56	430	80	447	9e-100	 301
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	47.13	401	197	6	25	422	48	436	2e-97	 295
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	45.82	395	206	4	49	443	55	441	2e-97	 294
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	44.15	376	202	4	66	441	89	456	2e-93	 284
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	41.08	426	239	6	16	439	18	433	4e-93	 283
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	49.12	340	166	3	91	430	115	447	8e-90	 275
+NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	35.70	451	269	7	1	440	26	466	7e-88	 270
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	100.00	437	0	0	1	437	1	437	0.0	 798
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	56.30	405	172	2	7	408	17	419	1e-138	 400
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	54.76	420	187	2	15	434	21	437	4e-138	 398
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	54.28	444	171	6	19	432	40	481	9e-136	 394
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	56.15	390	170	1	28	417	48	436	1e-122	 359
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	43.37	445	235	5	4	431	21	465	8e-118	 347
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	45.65	425	223	3	18	434	15	439	4e-99	 298
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	44.15	376	204	4	58	431	80	451	2e-86	 266
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	41.99	381	215	4	56	434	57	433	1e-85	 264
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	42.42	429	230	7	14	434	18	437	1e-80	 250
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	47.26	328	171	2	96	422	118	444	1e-75	 238
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	41.12	394	222	5	45	432	68	457	2e-68	 218
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	100.00	466	0	0	1	466	1	466	0.0	 924
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	60.00	440	171	2	22	458	21	458	0.0	 537
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	54.11	438	200	1	23	459	4	441	8e-167	 473
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	48.82	340	167	3	115	447	91	430	2e-100	 303
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	39.45	403	237	4	44	442	20	419	7e-93	 283
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	47.24	326	167	3	119	439	141	466	6e-89	 274
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	44.55	330	176	4	120	445	108	434	3e-88	 271
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	41.12	394	222	5	68	457	45	432	4e-87	 268
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	45.81	334	172	5	109	438	107	435	2e-85	 264
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	40.81	370	215	3	80	447	78	445	3e-85	 263
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	38.27	405	241	4	63	463	42	441	1e-82	 256
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	30.89	437	278	5	22	443	25	452	5e-73	 232
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	100.00	473	0	0	1	473	1	473	0.0	 930
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	61.03	426	160	3	21	443	22	444	0.0	 526
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	56.31	396	173	0	43	438	25	420	9e-164	 465
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	48.79	371	181	5	80	442	56	425	5e-109	 325
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	37.67	438	243	6	10	442	28	440	4e-95	 290
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	47.52	322	167	2	118	438	96	416	1e-94	 288
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	39.90	406	232	5	43	442	20	419	2e-94	 288
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	45.20	323	171	3	119	438	108	427	5e-93	 284
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	47.24	326	166	3	118	438	141	465	6e-93	 285
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	41.02	412	217	8	39	438	22	419	1e-91	 280
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	45.95	333	174	4	108	438	107	435	1e-91	 280
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	40.44	319	188	2	121	438	130	447	2e-77	 243
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	100.00	452	0	0	1	452	1	452	0.0	 906
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	59.95	427	166	2	6	432	3	424	0.0	 509
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	61.63	430	138	4	26	429	39	467	4e-176	 498
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	50.22	452	219	1	1	446	15	466	6e-167	 474
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	60.75	400	153	1	28	427	40	435	4e-166	 471
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	56.58	403	170	2	19	419	9	408	1e-159	 454
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	46.15	377	201	2	69	445	80	454	6e-114	 338
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	42.89	422	234	6	29	448	20	436	2e-113	 337
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	44.29	429	228	5	26	446	15	440	2e-109	 325
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	45.21	334	177	3	108	440	101	429	6e-95	 288
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	44.05	336	182	3	108	440	119	451	5e-93	 284
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	44.55	330	176	4	108	434	120	445	3e-88	 271
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	100.00	441	0	0	1	441	1	441	0.0	 860
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	59.95	427	166	2	3	424	6	432	1e-172	 487
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	57.88	444	158	3	24	438	41	484	3e-169	 480
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	61.54	416	159	1	5	419	20	435	1e-168	 477
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	54.76	420	187	2	21	437	15	434	4e-150	 429
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	49.89	453	211	6	1	438	15	466	1e-147	 424
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	43.74	439	222	3	23	438	19	455	1e-114	 339
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	45.28	424	221	5	25	438	18	440	3e-109	 325
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	43.44	419	226	7	25	437	20	433	2e-106	 318
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	45.86	338	176	5	103	435	104	439	1e-89	 273
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	41.02	412	217	8	22	419	39	438	8e-86	 265
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	38.27	405	241	4	42	441	63	463	2e-78	 245
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	100.00	472	0	0	20	491	20	491	0.0	 910
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	57.62	446	160	3	39	484	22	438	6e-168	 477
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	61.63	430	138	4	39	467	26	429	2e-166	 474
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	52.04	442	191	4	42	482	43	464	2e-154	 443
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	57.28	426	153	5	42	467	41	437	2e-153	 440
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	54.73	444	169	6	40	481	19	432	9e-147	 422
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	43.12	443	224	4	40	482	18	432	2e-112	 335
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	45.30	457	218	7	36	486	12	442	7e-110	 328
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	49.43	352	172	2	134	485	111	456	1e-109	 328
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	47.24	326	166	3	141	465	118	438	1e-86	 268
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	47.24	326	167	3	141	466	119	439	6e-84	 261
+NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	44.27	323	174	4	145	466	104	421	6e-82	 255
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	100.00	458	0	0	1	458	1	458	0.0	 937
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	61.45	454	154	2	1	454	1	433	0.0	 563
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	43.74	439	222	3	19	455	23	438	5e-121	 355
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	49.43	352	172	2	111	456	134	485	4e-116	 345
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	46.15	377	201	2	80	454	69	445	6e-114	 338
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	46.83	363	191	2	80	440	77	439	3e-109	 326
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	45.21	376	200	4	80	451	58	431	4e-105	 314
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	43.88	376	203	4	89	456	66	441	3e-100	 301
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	40.27	452	239	7	8	451	34	462	5e-96	 292
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	37.67	438	243	6	28	440	10	442	3e-95	 290
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	40.73	383	223	4	76	456	59	439	3e-92	 281
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	40.81	370	215	3	78	445	80	447	3e-85	 263
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	100.00	461	0	0	1	461	1	461	0.0	 932
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	61.45	454	154	2	1	433	1	454	0.0	 563
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	43.12	443	224	4	18	432	40	482	1e-117	 348
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	42.89	422	234	6	20	436	29	448	2e-113	 337
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	43.44	419	226	7	20	433	25	437	2e-111	 331
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	47.79	362	187	2	57	416	75	436	5e-110	 328
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	42.02	445	241	7	2	433	25	465	2e-103	 311
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	42.30	383	215	4	57	435	56	436	3e-103	 310
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	41.08	426	239	6	18	433	16	439	4e-100	 302
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	39.90	406	232	5	20	419	43	442	1e-94	 288
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	39.45	403	237	4	20	419	44	442	7e-93	 283
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	38.82	407	213	7	15	403	20	408	4e-88	 270
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	100.00	458	0	0	1	458	1	458	0.0	 721
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	62.44	402	151	0	38	439	22	423	2e-152	 436
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	60.75	400	153	1	40	435	28	427	2e-141	 408
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	56.10	426	158	4	41	437	42	467	2e-136	 396
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	49.64	411	197	3	37	437	39	449	1e-122	 360
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	56.15	390	170	1	48	436	28	417	9e-119	 349
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	46.48	398	204	3	48	436	25	422	2e-92	 281
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	50.16	315	155	2	122	436	104	416	3e-92	 281
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	49.37	318	159	2	122	439	125	440	4e-90	 276
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	46.37	317	166	3	122	436	107	421	2e-80	 250
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	46.52	316	165	3	122	435	125	438	1e-79	 249
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	46.06	317	164	4	122	435	126	438	3e-74	 235
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9
+# Database: cd_hit_test_2/fliFGHIJK/fliI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	100.00	441	0	0	1	441	1	441	0.0	 880
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr2909|fliI|2343126|2344527|1|Protein|NONE|68.5	54.11	438	200	1	4	441	23	459	8e-167	 473
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0557|fliI|542612|544034|-1|Protein|NONE|63.0	54.57	416	189	0	25	440	43	458	2e-165	 469
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_002696|Caulobacter_crescentus_CB15|CC_3040|fliI|3256824|3258159|1|Protein|NONE|69.6	45.82	395	206	4	55	441	49	443	4e-108	 322
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2996|fliI|3271614|3272928|-1|Protein|NONE|71.8	42.42	429	230	7	18	437	14	434	3e-100	 301
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_1961|fliI|2148300|2149659|1|Protein|NONE|64.0	45.21	334	177	3	101	429	108	440	6e-95	 288
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1938|fliI|1929141|1930467|1|Protein|NONE|52.9	45.86	338	176	5	104	439	103	435	2e-94	 286
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1951|fliI|2281328|2282705|-1|Protein|NONE|70.3	47.19	320	165	3	104	421	119	436	1e-92	 282
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0565|fliI|542915|544292|-1|Protein|NONE|39.3	40.73	383	223	4	59	439	76	456	3e-92	 281
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0195|fliI|190167|191553|1|Protein|NONE|35.9	38.82	407	213	7	20	408	15	403	4e-88	 270
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_002928|Bordetella_parapertussis_12822|BPP1507|fliI|1614176|1615652|-1|Protein|flaAIII:flaC|71.3	45.20	323	171	4	104	421	145	466	1e-87	 270
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6885|fliI|7576374|7577700|1|Protein|NONE|67.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_075|fliI|80317|81721|1|Protein|NONE|29.7	39.63	323	193	2	104	425	131	452	1e-83	 259

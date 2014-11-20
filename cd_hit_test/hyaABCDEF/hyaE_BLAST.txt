@@ -1,0 +1,15 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1917|hyaE|1810670|1811075|1|Protein|NONE|58.3
+# Database: cd_hit_test/hyaABCDEF/hyaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1917|hyaE|1810670|1811075|1|Protein|NONE|58.3	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY1917|hyaE|1810670|1811075|1|Protein|NONE|58.3	100.00	134	0	0	1	134	1	134	1e-97	 270
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0774|hyaE|914638|916507|1|Protein|NONE|32.4
+# Database: cd_hit_test/hyaABCDEF/hyaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0774|hyaE|914638|916507|1|Protein|NONE|32.4	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0774|hyaE|914638|916507|1|Protein|NONE|32.4	100.00	622	0	0	1	622	1	622	0.0	1067
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2095|hyaE|2192064|2193903|-1|Protein|NONE|47.0
+# Database: cd_hit_test/hyaABCDEF/hyaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2095|hyaE|2192064|2193903|-1|Protein|NONE|47.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2095|hyaE|2192064|2193903|-1|Protein|NONE|47.0	100.00	612	0	0	1	612	1	612	0.0	1271

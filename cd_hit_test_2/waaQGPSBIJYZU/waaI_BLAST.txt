@@ -1,0 +1,17 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3627|rfaI|3800061|3801081|-1|Protein|ECK3617:JW3602:waaI|36.2
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3627|rfaI|3800061|3801081|-1|Protein|ECK3617:JW3602:waaI|36.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3627|rfaI|3800061|3801081|-1|Protein|ECK3617:JW3602:waaI|36.2	100.00	339	0	0	1	339	1	339	0.0	 705
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3627|rfaI|3800061|3801081|-1|Protein|ECK3617:JW3602:waaI|36.2	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4077|waaI|3934609|3935623|1|Protein|rfaI|37.6	54.90	337	150	2	1	337	1	335	3e-143	 402
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4077|waaI|3934609|3935623|1|Protein|rfaI|37.6
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4077|waaI|3934609|3935623|1|Protein|rfaI|37.6	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4077|waaI|3934609|3935623|1|Protein|rfaI|37.6	100.00	337	0	0	1	337	1	337	0.0	 702
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY4077|waaI|3934609|3935623|1|Protein|rfaI|37.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3627|rfaI|3800061|3801081|-1|Protein|ECK3617:JW3602:waaI|36.2	54.90	337	150	2	1	335	1	337	3e-143	 402
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4106|waaI|4004568|4005777|-1|Protein|NONE|35.3
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4106|waaI|4004568|4005777|-1|Protein|NONE|35.3	NC_004741|Shigella_flexneri_2a_str._2457T|S4106|waaI|4004568|4005777|-1|Protein|NONE|35.3	100.00	402	0	0	1	402	1	402	0.0	 766

@@ -1,0 +1,94 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	100.00	320	0	0	1	320	1	320	0.0	 529
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	56.72	238	103	0	1	238	1	238	5e-66	 203
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	53.70	216	99	1	5	219	2	217	1e-51	 163
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	30.07	153	92	5	2	153	5	143	6e-12	53.1
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	26.97	152	90	6	7	153	15	150	4e-07	39.3
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	25.00	156	95	6	7	157	34	172	3e-06	36.6
+NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	26.35	148	77	5	11	152	7	128	3e-05	32.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	100.00	211	0	0	1	211	1	211	3e-155	 423
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	58.69	213	80	2	2	206	8	220	6e-82	 237
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	41.23	211	117	4	1	209	1	206	2e-46	 145
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	34.43	212	118	7	2	199	32	236	8e-22	80.5
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	33.87	186	105	6	2	173	13	194	5e-21	78.2
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	30.05	193	108	6	1	168	1	191	3e-18	69.3
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	29.35	184	105	5	7	167	11	192	3e-15	62.4
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	28.57	189	102	6	7	168	11	193	2e-07	39.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	100.00	232	0	0	1	232	1	232	8e-170	 462
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	60.95	210	81	1	2	211	5	213	4e-86	 252
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	53.70	216	99	1	2	217	5	219	6e-61	 187
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	34.65	202	115	7	2	202	8	193	4e-24	87.0
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	30.38	237	136	8	2	231	32	246	5e-23	84.7
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	30.52	213	116	9	1	211	1	183	2e-20	75.9
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	34.29	210	111	10	2	205	13	201	2e-19	74.3
+NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	30.05	193	108	6	1	191	1	168	4e-18	69.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	100.00	304	0	0	1	304	1	304	0.0	 534
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	40.48	294	174	1	11	303	30	323	5e-62	 192
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	36.79	193	112	6	7	195	2	188	4e-23	85.1
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	31.69	142	82	4	64	203	51	179	2e-19	73.9
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	28.99	207	121	7	15	201	7	207	1e-18	73.6
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	32.86	210	114	9	13	201	2	205	6e-17	67.4
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	33.87	186	105	6	13	194	2	173	1e-16	66.6
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	29.86	211	122	8	15	205	7	211	3e-11	52.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	100.00	223	0	0	1	223	1	223	7e-156	 426
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	58.17	208	79	2	13	220	7	206	4e-79	 230
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	38.86	211	110	6	14	220	8	203	7e-41	 131
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	35.92	206	116	7	15	213	40	236	1e-26	94.7
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	36.67	180	105	5	14	188	20	195	4e-26	93.2
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	34.18	196	113	6	13	193	8	202	2e-23	85.1
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	30.81	198	116	6	13	193	11	204	2e-18	71.6
+NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	32.42	219	130	7	13	217	11	225	2e-15	62.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	100.00	206	0	0	1	206	1	206	2e-152	 415
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	41.23	211	117	4	1	206	1	209	2e-46	 145
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	39.17	217	113	6	2	203	8	220	4e-43	 137
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	27.86	201	127	5	8	193	39	236	7e-24	86.7
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	33.33	150	85	4	43	179	56	203	7e-23	83.6
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	30.52	213	116	9	1	183	1	211	2e-20	75.9
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	26.80	153	90	6	60	190	68	220	8e-14	57.8
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	27.89	147	84	4	62	186	70	216	2e-08	42.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	100.00	324	0	0	1	324	1	324	0.0	 667
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	40.48	294	174	1	30	323	11	303	7e-73	 221
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	37.10	186	103	6	32	211	8	185	1e-26	95.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0804|hisG|762302|762923|1|Protein|NONE|45.1	27.86	201	127	5	39	236	8	193	1e-23	86.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	30.38	237	136	8	32	246	2	231	7e-23	84.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	34.43	212	118	7	32	236	2	199	1e-21	80.5
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	28.98	245	137	10	34	253	7	239	9e-19	74.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	28.63	248	150	9	34	261	7	247	2e-10	49.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4
+# Database: cd_hit_test/hisLGDCBHAFI/hisG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	100.00	325	0	0	1	325	1	325	0.0	 632
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_002678|Mesorhizobium_loti_MAFF303099|mlr6931|hisG|5698185|5698884|1|Protein|NONE|64.2	60.95	210	81	1	5	213	2	211	6e-78	 231
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_002696|Caulobacter_crescentus_CB15|CC_3511|hisG|3755667|3756630|-1|Protein|NONE|71.9	56.72	238	103	0	1	238	1	238	4e-68	 209
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_2381|hisG|2872819|2873734|-1|Protein|NONE|69.3	27.22	180	107	6	7	180	15	176	1e-13	59.3
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_002928|Bordetella_parapertussis_12822|BPP4266|hisG|4606231|4606903|1|Protein|NONE|70.2	29.51	183	107	7	2	180	5	169	8e-13	55.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_004347|Shewanella_oneidensis_MR-1|SO_2074|hisG|2170955|2171930|-1|Protein|NONE|47.0	28.57	245	138	10	7	239	34	253	1e-11	53.1
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7525|hisG|8258472|8259450|1|Protein|NONE|69.4	NC_002516|Pseudomonas_aeruginosa_PAO1|PA4449|hisG|4983551|4984187|-1|Protein|NONE|65.3	26.74	172	101	5	11	180	7	155	2e-10	48.5

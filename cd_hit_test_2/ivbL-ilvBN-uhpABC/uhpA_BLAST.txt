@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9
+# Database: cd_hit_test_2/ivbL-ilvBN-uhpABC/uhpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	100.00	196	0	0	1	196	1	196	8e-146	 396
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	55.78	199	85	1	1	196	1	199	1e-73	 213
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	40.80	201	108	3	1	190	1	201	8e-39	 124
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6
+# Database: cd_hit_test_2/ivbL-ilvBN-uhpABC/uhpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	100.00	209	0	0	1	209	1	209	3e-140	 383
+NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	40.80	201	108	3	1	201	1	190	2e-36	 117
+NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	35.12	205	119	3	1	202	1	194	3e-28	95.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0
+# Database: cd_hit_test_2/ivbL-ilvBN-uhpABC/uhpA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	100.00	199	0	0	1	199	1	199	1e-151	 412
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3669|uhpA|3848158|3848749|-1|Protein|ECK3660:JW3644|58.9	55.78	199	85	1	1	199	1	196	1e-73	 213
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1340|uhpA|1532693|1533293|-1|Protein|NONE|42.0	NC_002947|Pseudomonas_putida_KT2440|PP_0410|uhpA|498524|499154|1|Protein|NONE|61.6	35.12	205	119	3	1	194	1	202	2e-31	 104

@@ -1,0 +1,77 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	100.00	399	0	0	1	399	1	399	0.0	 674
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	51.52	396	181	2	1	395	1	386	3e-121	 351
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	50.51	394	185	1	1	394	1	384	5e-121	 350
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	51.13	397	184	1	1	397	1	387	3e-120	 348
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	51.89	397	180	2	1	396	1	387	6e-120	 348
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	50.25	398	188	1	1	398	1	388	3e-111	 325
+NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	39.31	379	208	7	1	367	1	369	7e-78	 239
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	100.00	390	0	0	1	390	1	390	0.0	 788
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	52.03	394	179	1	1	384	1	394	8e-142	 404
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	49.74	382	191	1	1	381	1	382	3e-129	 371
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	49.61	385	193	1	1	384	1	385	6e-127	 365
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	46.02	389	210	0	1	389	1	389	2e-123	 357
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	46.61	384	205	0	1	384	1	384	2e-121	 351
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	37.74	371	215	5	1	357	1	369	3e-81	 248
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	100.00	377	0	0	1	377	1	377	0.0	 682
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	58.24	376	154	3	1	375	1	374	4e-129	 371
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	55.70	377	166	1	1	377	1	376	5e-125	 360
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	52.45	387	173	2	1	377	1	386	7e-118	 342
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	49.07	377	191	1	1	377	1	376	8e-107	 314
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	46.74	368	195	1	1	368	1	367	1e-97	 290
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	42.37	380	206	7	1	368	1	379	4e-84	 255
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	100.00	399	0	0	1	399	1	399	0.0	 723
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	48.24	369	179	5	1	369	1	357	5e-118	 343
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	41.84	380	208	5	1	379	1	368	3e-97	 290
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	40.94	381	199	7	1	369	1	367	2e-94	 283
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	42.82	369	199	4	1	369	1	357	3e-92	 276
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	37.13	369	220	4	1	369	1	357	2e-85	 259
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	40.37	379	214	4	1	379	1	367	2e-84	 256
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	100.00	377	0	0	1	377	1	377	0.0	 737
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	55.70	377	166	1	1	376	1	377	1e-142	 405
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	52.80	375	177	0	1	375	1	375	5e-133	 381
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	51.16	387	179	1	1	377	1	387	9e-130	 373
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	45.74	376	204	0	1	376	1	376	2e-119	 346
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	48.68	378	193	1	1	377	1	378	7e-111	 324
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	42.82	369	199	4	1	357	1	369	3e-87	 263
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	100.00	389	0	0	1	389	1	389	0.0	 760
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	57.99	388	160	3	1	386	1	387	7e-151	 426
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	52.64	397	178	1	1	387	1	397	2e-139	 398
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	52.33	386	184	0	1	386	1	386	3e-136	 389
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	46.61	384	205	0	1	384	1	384	2e-121	 351
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	49.08	381	193	1	1	380	1	381	8e-120	 347
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	48.24	369	179	5	1	357	1	369	5e-113	 330
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6
+# Database: cd_hit_test/sdhCDAB-sucABCD/sucC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	100.00	387	0	0	1	387	1	387	0.0	 778
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_002696|Caulobacter_crescentus_CB15|CC_0337|sucC|352433|353633|1|Protein|NONE|64.5	53.03	396	175	2	1	386	1	395	5e-145	 412
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1810|sucC|1959227|1960400|1|Protein|NONE|54.7	49.74	382	191	1	1	382	1	381	3e-134	 384
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1196|sucC|1262120|1263290|1|Protein|NONE|41.7	49.08	381	193	1	1	381	1	380	6e-125	 360
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1063|sucC|1280664|1281834|1|Protein|NONE|62.0	48.69	382	195	1	1	382	1	381	2e-117	 341
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1075|sucC|1122760|1123933|1|Protein|NONE|64.4	45.74	387	208	2	1	386	1	386	8e-113	 329
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0533|sucC|497180|498344|1|Protein|NONE|34.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl333|sucC|369958|371158|1|Protein|NONE|27.2	40.37	379	214	5	1	367	1	379	5e-86	 260

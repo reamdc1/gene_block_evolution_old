@@ -1,0 +1,96 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	100.00	318	0	0	1	318	1	318	0.0	 618
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	59.12	318	129	1	2	318	3	320	4e-139	 391
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	58.26	321	129	1	2	317	8	328	9e-139	 390
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	52.92	325	144	2	1	318	4	326	6e-117	 335
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	49.37	318	161	0	1	318	1	318	2e-111	 320
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	51.72	319	153	1	1	318	1	319	1e-110	 318
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	43.87	326	174	5	1	318	4	328	3e-96	 282
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	28.83	326	221	4	4	318	7	332	6e-34	 118
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	100.00	318	0	0	1	318	1	318	0.0	 651
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	57.50	320	133	2	1	318	1	319	4e-136	 383
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	49.37	318	161	0	1	318	1	318	1e-117	 336
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	46.86	318	168	1	2	318	3	320	7e-102	 296
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	40.99	322	185	1	2	318	8	329	2e-98	 287
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	43.03	323	171	3	5	318	8	326	2e-96	 282
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	40.80	326	184	4	1	318	4	328	1e-87	 260
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	29.97	327	216	3	4	318	7	332	1e-39	 134
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	100.00	329	0	0	1	329	1	329	0.0	 637
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	58.26	321	129	1	8	328	2	317	1e-134	 380
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	57.14	322	132	2	6	326	1	317	7e-124	 352
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	56.00	325	129	3	11	328	8	325	6e-117	 335
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	40.99	322	185	1	8	329	2	318	1e-91	 270
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	46.13	323	168	2	8	329	2	319	8e-91	 268
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	38.60	329	190	5	8	329	5	328	4e-78	 236
+NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	30.26	304	196	6	10	302	7	305	1e-27	 100
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	100.00	332	0	0	1	332	1	332	0.0	 655
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	43.87	326	174	5	4	328	1	318	3e-94	 277
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	39.52	334	188	4	1	328	1	326	6e-81	 243
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	40.80	326	184	4	4	328	1	318	2e-80	 241
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	41.46	328	180	5	4	328	1	319	3e-80	 241
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	40.62	325	185	4	5	328	3	320	1e-79	 239
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	38.60	329	190	5	5	328	8	329	1e-78	 237
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	25.93	297	214	3	14	305	14	309	6e-28	 101
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	100.00	320	0	0	1	320	1	320	0.0	 617
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	59.12	318	129	1	3	320	2	318	3e-134	 379
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	57.14	322	132	2	1	317	6	326	1e-123	 352
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	54.04	322	138	3	6	320	8	326	3e-111	 320
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	46.86	318	168	1	3	320	2	318	1e-96	 282
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	48.28	319	163	2	3	320	2	319	2e-96	 282
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	40.62	325	185	4	3	320	5	328	2e-77	 234
+NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	34.66	326	203	4	5	320	7	332	2e-43	 144
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	100.00	332	0	0	1	332	1	332	0.0	 565
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	35.15	293	180	4	7	299	5	287	3e-43	 144
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	30.00	300	197	4	7	305	4	291	4e-34	 119
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	29.97	307	196	4	7	309	4	295	8e-33	 115
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	30.91	317	199	4	1	310	1	304	1e-32	 114
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	30.26	304	202	3	7	310	4	297	2e-29	 105
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	27.34	289	202	5	14	300	14	296	1e-27	 100
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	30.92	304	194	5	7	305	10	302	5e-27	98.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	100.00	319	0	0	1	319	1	319	0.0	 591
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	57.50	320	133	2	1	319	1	318	2e-121	 345
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	51.72	319	153	1	1	319	1	318	1e-104	 303
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	48.29	321	160	3	2	319	3	320	3e-90	 266
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	47.52	322	159	2	5	319	8	326	1e-87	 259
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	46.13	323	168	2	2	319	8	329	8e-86	 255
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	41.46	328	180	5	1	319	4	328	2e-73	 223
+NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	30.67	326	216	3	4	319	7	332	8e-28	 100
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7
+# Database: cd_hit_test/yceD-rpmF-plsX-fabHDG-acpP-fabF/fabH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	100.00	326	0	0	1	326	1	326	0.0	 658
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_002928|Bordetella_parapertussis_12822|BPP3307|fabH|3564475|3565465|-1|Protein|NONE|68.9	56.00	325	129	3	8	325	11	328	1e-124	 355
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1646|fabH|1777995|1778952|1|Protein|NONE|52.9	52.92	325	144	2	4	326	1	318	7e-122	 347
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_003112|Neisseria_meningitidis_MC58|NMB1916|fabH|2013971|2014934|1|Protein|NONE|56.2	54.04	322	138	3	8	326	6	320	3e-118	 338
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_004347|Shewanella_oneidensis_MR-1|SO_2778|fabH|2899965|2900925|-1|Protein|NONE|49.0	47.52	322	159	2	8	326	5	319	3e-100	 292
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl406|fabH|446706|447663|-1|Protein|NONE|30.5	43.03	323	171	3	8	326	5	318	2e-96	 282
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0681|fabH|659855|660854|1|Protein|NONE|38.6	39.34	333	190	3	1	326	1	328	6e-91	 268
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5020|fabH|5566378|5567359|-1|Protein|NONE|68.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2571|fabH|3030576|3031575|-1|Protein|NONE|68.5	30.95	336	218	4	1	326	1	332	9e-39	 132

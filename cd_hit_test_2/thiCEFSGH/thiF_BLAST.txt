@@ -1,0 +1,96 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	100.00	258	0	0	1	258	1	258	1e-165	 453
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	53.66	246	114	0	1	246	1	246	5e-82	 241
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	47.98	248	128	1	2	249	9	255	1e-66	 201
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	43.85	260	131	6	4	256	7	258	7e-52	 163
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	45.38	260	129	3	1	249	7	264	1e-51	 162
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	42.59	216	118	2	5	214	11	226	2e-43	 140
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	32.73	278	146	6	1	246	11	279	2e-35	 120
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	30.36	112	75	3	52	162	46	155	1e-10	48.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	100.00	265	0	0	1	265	1	265	4e-164	 450
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	45.77	260	128	3	7	264	1	249	2e-52	 164
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	45.91	257	126	3	7	261	1	246	2e-48	 154
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	42.35	255	135	3	9	262	10	253	1e-42	 139
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	38.11	286	141	6	2	262	6	280	3e-33	 114
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	38.31	261	143	4	6	262	3	249	2e-32	 111
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	40.75	265	132	5	1	254	1	251	3e-32	 110
+NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	21.65	97	66	1	135	231	111	197	4e-06	35.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	100.00	264	0	0	1	264	1	264	0.0	 529
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	53.66	246	114	0	1	246	1	246	9e-103	 293
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	50.81	246	120	1	2	247	9	253	6e-82	 240
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	43.13	262	140	4	1	257	4	261	2e-73	 219
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	45.77	260	128	3	1	249	7	264	2e-72	 216
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	46.28	242	124	2	4	239	10	251	1e-62	 191
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	40.74	270	135	4	1	246	11	279	4e-61	 188
+NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	31.88	207	124	5	9	214	5	195	6e-17	66.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	100.00	220	0	0	1	220	1	220	3e-148	 406
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	29.88	164	100	4	46	195	52	214	1e-14	60.1
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	33.73	169	99	3	5	161	19	186	1e-13	57.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	28.75	160	100	5	46	192	59	217	2e-13	56.6
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	28.83	111	76	2	46	154	58	167	3e-11	50.1
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	30.36	112	75	3	46	155	52	162	6e-11	49.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	28.95	114	64	4	46	150	55	160	1e-09	45.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	21.25	160	104	5	60	197	72	231	6e-08	40.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	100.00	270	0	0	1	270	1	270	0.0	 557
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	43.13	262	140	4	4	261	1	257	2e-73	 219
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	44.08	245	130	1	7	244	10	254	6e-72	 215
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	42.97	256	139	3	7	258	4	256	3e-71	 213
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	36.48	244	151	2	9	250	13	254	1e-54	 170
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	38.31	261	143	4	3	249	6	262	3e-52	 164
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	30.45	266	155	5	11	249	18	280	9e-37	 124
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	31.13	151	87	4	18	160	9	150	1e-11	52.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	100.00	256	0	0	1	256	1	256	3e-174	 475
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	47.98	248	128	1	9	255	2	249	2e-70	 210
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	50.81	246	120	1	9	253	2	247	1e-69	 209
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	42.19	256	136	3	9	253	8	262	3e-46	 148
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	36.63	243	150	2	13	253	9	249	2e-42	 138
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	43.23	229	123	2	13	234	12	240	9e-38	 125
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	35.93	270	148	4	8	253	12	280	7e-33	 113
+NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	28.30	159	100	5	60	217	47	192	2e-12	54.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	100.00	254	0	0	1	254	1	254	9e-168	 458
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	44.08	245	130	1	10	254	7	244	1e-70	 211
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	42.32	241	133	2	11	251	5	239	3e-60	 184
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	46.28	242	124	2	10	251	4	239	6e-60	 184
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	43.61	227	121	2	14	240	15	234	2e-48	 154
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	40.75	265	132	5	1	251	1	254	4e-47	 150
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	31.37	271	155	6	5	251	9	272	1e-31	 110
+NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	32.80	125	79	3	15	138	5	125	9e-12	52.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5
+# Database: cd_hit_test_2/thiCEFSGH/thiF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	100.00	300	0	0	1	300	1	300	0.0	 588
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_002928|Bordetella_parapertussis_12822|BPP0298|thiF|308679|309474|1|Protein|NONE|70.4	40.74	270	135	4	11	279	1	246	6e-61	 188
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE1783|thiF|1927534|1928311|1|Protein|NONE|49.3	33.58	271	153	5	11	279	1	246	1e-50	 160
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_003143|Yersinia_pestis_CO92|YPO3741|thiF|4193297|4194095|1|Protein|NONE|54.0	37.06	286	144	5	6	280	2	262	5e-49	 157
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_003112|Neisseria_meningitidis_MC58|NMB2062|thiF|2184501|2185272|1|Protein|NONE|61.0	36.30	270	147	5	12	280	8	253	9e-45	 145
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1588|thiF|1515148|1515961|-1|Protein|NONE|41.6	30.45	266	155	5	18	280	11	249	9e-37	 124
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_003047|Sinorhizobium_meliloti_1021|SMc02864|thiF|217959|218724|1|Protein|NONE|68.9	31.37	271	155	6	9	272	5	251	8e-35	 118
+NC_004347|Shewanella_oneidensis_MR-1|SO_2443|thiF|2556061|2556964|-1|Protein|NONE|48.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0343|thiF|339459|340122|1|Protein|NONE|49.9	33.73	169	99	3	19	186	5	161	5e-17	67.4

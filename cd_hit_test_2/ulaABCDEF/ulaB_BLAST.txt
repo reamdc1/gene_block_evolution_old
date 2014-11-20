@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4194|ulaB|4419415|4419721|1|Protein|ECK4190:JW4152:sgaB:yjfT|50.7
+# Database: cd_hit_test_2/ulaABCDEF/ulaB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4194|ulaB|4419415|4419721|1|Protein|ECK4190:JW4152:sgaB:yjfT|50.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4194|ulaB|4419415|4419721|1|Protein|ECK4190:JW4152:sgaB:yjfT|50.7	100.00	101	0	0	1	101	1	101	7e-76	 209

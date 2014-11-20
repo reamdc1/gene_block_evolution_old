@@ -1,0 +1,15 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1748|astC|1828785|1830006|-1|Protein|argM:cstC:ECK1746:JW1737:ydjW|55.0
+# Database: cd_hit_test/astCADBE/astC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1748|astC|1828785|1830006|-1|Protein|argM:cstC:ECK1746:JW1737:ydjW|55.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1748|astC|1828785|1830006|-1|Protein|argM:cstC:ECK1746:JW1737:ydjW|55.0	100.00	406	0	0	1	406	1	406	0.0	 837
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO1966|astE|2233661|2234654|1|Protein|NONE|48.0
+# Database: cd_hit_test/astCADBE/astC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO1966|astE|2233661|2234654|1|Protein|NONE|48.0	NC_003143|Yersinia_pestis_CO92|YPO1966|astE|2233661|2234654|1|Protein|NONE|48.0	100.00	330	0	0	1	330	1	330	0.0	 663
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1
+# Database: cd_hit_test/astCADBE/astC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	NC_002928|Bordetella_parapertussis_12822|BPP4380|fabG|4722847|4723606|1|Protein|NONE|68.1	100.00	252	0	0	1	252	1	252	1e-160	 439

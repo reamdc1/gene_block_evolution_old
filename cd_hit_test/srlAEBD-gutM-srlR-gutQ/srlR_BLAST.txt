@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/srlR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	100.00	257	0	0	1	257	1	257	0.0	 530
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	54.55	253	113	1	1	251	1	253	9e-101	 287
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	42.36	229	130	1	22	250	1	227	5e-62	 187
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/srlR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	100.00	240	0	0	1	240	1	240	3e-154	 422
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	40.61	229	134	1	1	227	22	250	4e-47	 148
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	42.41	158	91	0	70	227	95	252	7e-43	 137
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/srlR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	100.00	254	0	0	1	254	1	254	0.0	 518
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2707|srlR|2827068|2827842|1|Protein|ECK2702:gutR:JW2676|48.8	54.55	253	113	1	1	253	1	251	9e-101	 287
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1964|srlR|2203644|2204409|-1|Protein|NONE|35.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0676|srlR|703331|704054|1|Protein|NONE|63.3	38.96	231	137	1	22	252	1	227	1e-53	 165

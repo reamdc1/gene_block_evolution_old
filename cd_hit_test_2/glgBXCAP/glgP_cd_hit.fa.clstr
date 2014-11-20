@@ -1,0 +1,17 @@
+>Cluster 0
+0	841aa, >NC_004463|Bradyrhiz... *
+>Cluster 1
+0	837aa, >NC_004347|Shewanell... *
+>Cluster 2
+0	821aa, >NC_003047|Sinorhizo... *
+>Cluster 3
+0	815aa, >NC_000913|Escherich... at 61.60%
+1	815aa, >NC_003143|Yersinia_... at 62.21%
+2	815aa, >NC_003198|Salmonell... at 61.72%
+3	815aa, >NC_003197|Salmonell... at 61.84%
+4	815aa, >NC_004741|Shigella_... at 61.60%
+5	818aa, >NC_002663|Pasteurel... *
+>Cluster 4
+0	812aa, >NC_002516|Pseudomon... at 70.32%
+1	816aa, >NC_004578|Pseudomon... *
+2	816aa, >NC_002947|Pseudomon... at 82.23%

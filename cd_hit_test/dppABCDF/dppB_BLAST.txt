@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1098|dppB|1144974|1146003|1|Protein|NONE|64.7
+# Database: cd_hit_test/dppABCDF/dppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1098|dppB|1144974|1146003|1|Protein|NONE|64.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1098|dppB|1144974|1146003|1|Protein|NONE|64.7	100.00	342	0	0	1	342	1	342	0.0	 679
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1098|dppB|1144974|1146003|1|Protein|NONE|64.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu2517|dppB|2485529|2486549|-1|Protein|NONE|59.7	38.74	333	195	3	9	339	14	339	7e-75	 226
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2517|dppB|2485529|2486549|-1|Protein|NONE|59.7
+# Database: cd_hit_test/dppABCDF/dppB_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2517|dppB|2485529|2486549|-1|Protein|NONE|59.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu2517|dppB|2485529|2486549|-1|Protein|NONE|59.7	100.00	339	0	0	1	339	1	339	0.0	 609
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2517|dppB|2485529|2486549|-1|Protein|NONE|59.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1098|dppB|1144974|1146003|1|Protein|NONE|64.7	38.74	333	195	3	14	339	9	339	4e-70	 214

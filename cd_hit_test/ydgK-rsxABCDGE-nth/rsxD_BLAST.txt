@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1630|rsxD|1707165|1708224|1|Protein|ECK1626:JW1622:rnfD:ydgO|52.6
+# Database: cd_hit_test/ydgK-rsxABCDGE-nth/rsxD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1630|rsxD|1707165|1708224|1|Protein|ECK1626:JW1622:rnfD:ydgO|52.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1630|rsxD|1707165|1708224|1|Protein|ECK1626:JW1622:rnfD:ydgO|52.6	100.00	352	0	0	1	352	1	352	0.0	 635

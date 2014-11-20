@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6
+# Database: cd_hit_test_2/rbsDACBKR/rbsD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	100.00	139	0	0	1	139	1	139	5e-92	 254
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	58.99	139	57	0	1	139	1	139	7e-58	 168
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	39.57	139	77	2	1	139	1	132	3e-37	 115
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7
+# Database: cd_hit_test_2/rbsDACBKR/rbsD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	100.00	132	0	0	1	132	1	132	3e-99	 273
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	43.88	139	71	1	1	132	1	139	2e-40	 123
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	38.85	139	78	1	1	132	1	139	3e-38	 117
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9
+# Database: cd_hit_test_2/rbsDACBKR/rbsD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	100.00	139	0	0	1	139	1	139	3e-103	 283
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3748|rbsD|3931373|3931793|1|Protein|ECK3742:JW5857:rbsP|47.6	58.99	139	57	0	1	139	1	139	2e-63	 182
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0501|rbsD|518033|518453|1|Protein|NONE|36.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3019|rbsD|3296711|3297110|-1|Protein|NONE|64.7	43.88	139	71	1	1	139	1	132	2e-40	 123

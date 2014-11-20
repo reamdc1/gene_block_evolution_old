@@ -1,0 +1,156 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	100.00	413	0	0	18	430	18	430	0.0	 772
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	29.54	413	285	3	18	428	18	426	7e-67	 213
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	26.52	411	297	2	18	427	20	426	4e-52	 174
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	24.51	412	304	4	18	427	23	429	2e-51	 172
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	24.44	405	297	7	25	426	44	442	9e-47	 159
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	23.84	411	299	7	21	425	27	429	3e-45	 155
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	23.21	418	300	11	20	426	84	491	8e-42	 145
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	23.96	409	295	7	23	426	26	423	1e-33	 121
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	29.72	424	259	14	23	428	23	425	4e-29	 107
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	27.40	146	106	0	284	429	166	311	3e-19	77.4
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	20.00	100	76	1	69	168	57	152	3e-04	31.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	100.00	448	0	0	1	448	1	448	0.0	 914
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	45.07	406	219	3	44	445	89	494	8e-120	 353
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	41.96	429	242	3	14	442	2	423	5e-114	 336
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	38.67	406	247	2	41	445	27	431	3e-102	 306
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	36.87	434	261	7	21	447	8	435	6e-96	 291
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	33.10	435	279	5	17	448	7	432	5e-85	 261
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	34.41	401	260	3	44	442	25	424	4e-81	 251
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	24.63	406	295	8	44	442	25	426	7e-48	 162
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	20.18	446	315	14	14	442	2	423	2e-20	82.4
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	28.73	181	123	4	268	443	130	309	1e-17	72.8
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	24.54	216	134	7	107	304	75	279	3e-17	72.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	100.00	429	0	0	1	429	1	429	0.0	 870
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	41.96	429	242	3	2	423	14	442	5e-114	 336
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	42.42	429	240	3	8	429	69	497	9e-102	 306
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	39.72	423	249	4	5	422	8	429	3e-100	 301
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	37.91	422	256	3	8	426	13	431	9e-97	 291
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	31.22	426	284	5	2	423	5	425	4e-71	 224
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	32.87	429	272	8	2	423	5	424	1e-68	 218
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	24.21	409	294	7	26	423	23	426	1e-36	 130
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	36.96	138	85	2	285	420	168	305	3e-24	92.0
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	24.42	217	147	6	74	277	58	270	3e-12	56.6
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	17.23	447	309	15	9	423	6	423	2e-15	66.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	100.00	434	0	0	1	434	1	434	0.0	 858
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	44.16	428	236	2	1	426	1	427	8e-133	 384
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	41.00	422	246	3	5	425	10	429	3e-111	 329
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	36.08	413	256	4	23	431	29	437	2e-81	 253
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	34.41	401	260	3	25	424	44	442	3e-80	 249
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	34.82	425	268	6	7	424	69	491	1e-74	 236
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	32.87	429	272	8	5	424	2	423	1e-68	 218
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	29.54	413	285	3	18	426	18	428	2e-67	 215
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	26.05	430	311	5	1	427	1	426	2e-52	 174
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	39.47	152	92	0	275	426	159	310	4e-31	 112
+NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	32.17	286	160	10	8	282	14	276	1e-29	 107
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	100.00	426	0	0	1	426	1	426	0.0	 816
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	27.19	434	301	8	1	426	1	427	5e-52	 173
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	23.72	430	307	9	6	424	7	426	4e-33	 119
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	18.94	433	327	8	4	424	9	429	8e-30	 109
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	29.72	424	259	14	23	425	23	428	5e-29	 107
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	19.37	444	318	13	2	422	3	429	5e-24	93.6
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	20.00	450	311	15	2	423	14	442	2e-19	79.7
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	16.70	449	309	14	6	423	9	423	4e-14	62.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	26.88	160	99	4	6	165	10	151	2e-10	51.2
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	24.41	127	95	1	300	425	184	310	2e-09	47.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	100.00	498	0	0	1	498	1	498	0.0	 928
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	45.07	406	219	3	89	494	44	445	4e-117	 347
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	42.42	429	240	3	69	497	8	429	4e-99	 300
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	38.00	429	256	7	70	494	9	431	2e-86	 266
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	34.82	425	268	6	69	491	7	424	3e-72	 229
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	36.14	440	261	10	65	494	4	433	3e-72	 230
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	31.79	431	282	6	65	491	3	425	2e-70	 224
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	22.41	415	307	9	84	491	20	426	1e-43	 151
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	35.10	151	96	2	344	492	159	309	1e-25	97.4
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	25.57	219	143	6	135	341	58	268	1e-14	63.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	100.00	440	0	0	1	440	1	440	0.0	 849
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	40.79	407	234	3	29	432	28	430	3e-92	 281
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	39.72	423	249	4	8	429	5	422	2e-91	 278
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	36.87	434	261	7	8	435	21	447	5e-86	 265
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	33.41	431	275	5	3	429	2	424	2e-75	 237
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	36.32	413	255	4	29	437	23	431	3e-73	 231
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	36.32	424	253	9	20	433	78	494	4e-70	 224
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	24.03	412	297	8	27	429	21	425	6e-41	 143
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	32.24	152	101	2	282	431	158	309	1e-21	85.1
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	28.86	201	124	7	93	279	74	269	8e-16	67.8
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	19.14	444	319	14	3	429	2	422	5e-21	84.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	100.00	439	0	0	1	439	1	439	0.0	 849
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	41.58	404	233	3	28	429	23	425	5e-107	 318
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	38.77	405	246	2	28	431	42	445	1e-101	 305
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	40.79	407	234	3	28	430	29	432	2e-101	 305
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	38.56	402	244	2	30	431	28	426	1e-95	 288
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	35.70	409	261	2	28	435	25	432	7e-92	 279
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	37.80	410	247	6	28	431	87	494	2e-87	 269
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	24.88	406	296	5	30	429	25	427	4e-54	 179
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	19.80	409	310	8	30	429	25	424	2e-29	 108
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	32.24	152	101	2	276	425	154	305	6e-23	88.6
+NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	24.26	272	170	7	28	285	25	274	2e-15	66.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	100.00	311	0	0	1	311	1	311	0.0	 628
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	39.47	152	92	0	159	310	275	426	2e-32	 115
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	32.17	286	160	10	14	276	8	282	9e-30	 107
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	35.29	136	88	0	172	307	289	424	7e-26	96.7
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	24.16	298	171	9	4	268	1	276	2e-16	68.9
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	35.10	151	96	2	159	309	344	492	7e-26	97.1
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	27.06	218	141	7	58	268	135	341	5e-16	67.8
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	36.96	138	85	2	168	305	285	420	2e-24	92.0
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	24.42	217	147	6	58	270	74	277	2e-12	56.6
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	32.24	152	101	2	154	305	276	425	4e-23	88.6
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	23.75	299	188	8	2	274	1	285	7e-16	67.0
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	32.24	152	101	2	158	309	282	431	8e-22	85.1
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	26.44	295	175	12	1	269	1	279	1e-17	72.4
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	27.78	144	104	0	168	311	286	429	3e-19	77.4
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	20.00	100	76	1	57	152	69	168	1e-04	32.3
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	28.73	181	123	4	130	309	268	443	1e-17	72.8
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	24.54	216	134	7	75	279	107	304	2e-17	72.0
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	26.88	160	99	4	10	151	6	165	1e-10	50.8
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	24.80	125	93	1	184	308	300	423	1e-09	48.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5
+# Database: cd_hit_test/lptD-surA-pdxA-rsmA-apaGH/surA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	100.00	434	0	0	1	434	1	434	0.0	 859
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_003143|Yersinia_pestis_CO92|YPO0494|surA|524754|526059|-1|Protein|NONE|48.6	44.16	428	236	2	1	427	1	426	3e-128	 372
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_002947|Pseudomonas_putida_KT2440|PP_0403|surA|488296|489616|-1|Protein|NONE|62.9	35.56	419	268	2	16	433	19	436	3e-88	 270
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0882|surA|963854|965201|1|Protein|NONE|49.1	33.10	435	279	5	7	432	17	448	1e-81	 252
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0865|surA|1026194|1027586|-1|Protein|NONE|65.7	33.41	431	275	5	2	424	3	429	2e-81	 253
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc0516|surA|553552|555049|1|Protein|NONE|69.8	31.79	431	282	6	3	425	65	491	3e-70	 224
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_4230|surA|4564714|4566004|1|Protein|NONE|65.6	31.22	426	284	5	5	425	2	423	2e-67	 215
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_138|surA|146079|147372|1|Protein|NONE|21.3	26.52	411	297	2	20	426	18	427	3e-49	 166
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl128|surA|145370|146651|-1|Protein|NONE|24.4	23.72	430	307	9	7	426	6	424	2e-31	 114
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	34.29	140	92	0	289	428	172	311	1e-25	96.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_3637|surA|3796346|3797651|1|Protein|NONE|46.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1208|surA|1400200|1401136|1|Protein|NONE|38.7	24.16	298	171	9	1	276	4	268	9e-14	61.2

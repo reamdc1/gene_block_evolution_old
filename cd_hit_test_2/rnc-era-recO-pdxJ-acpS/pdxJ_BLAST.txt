@@ -1,0 +1,117 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	100.00	251	0	0	1	251	1	251	0.0	 517
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	46.80	250	121	4	1	243	1	245	1e-59	 182
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	34.52	252	155	4	2	251	5	248	4e-37	 123
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	30.25	238	153	5	5	240	6	232	3e-36	 121
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	33.20	241	152	4	5	245	3	234	2e-35	 119
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	33.47	239	148	5	5	242	12	240	1e-30	 106
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	29.48	268	155	6	5	248	3	260	2e-29	 103
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	28.36	275	163	7	1	249	1	267	4e-26	94.0
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	28.02	257	152	8	5	239	3	248	5e-21	78.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	100.00	247	0	0	1	247	1	247	0.0	 506
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	51.45	241	115	1	4	244	1	239	2e-88	 256
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	54.01	237	109	0	6	242	12	248	3e-88	 256
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	45.12	246	132	1	2	244	4	249	1e-76	 226
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	39.53	258	133	2	4	238	1	258	2e-65	 197
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	43.63	259	120	4	4	239	1	256	7e-64	 193
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	40.77	260	127	3	6	238	5	264	2e-60	 184
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	30.25	238	153	5	6	232	5	240	3e-36	 121
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	30.49	246	160	3	6	240	5	250	2e-30	 105
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	100.00	262	0	0	1	262	1	262	0.0	 528
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	56.15	260	110	1	3	258	5	264	1e-101	 291
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	52.69	260	120	2	1	260	1	257	4e-94	 271
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	39.53	258	133	2	1	258	4	238	2e-65	 197
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	41.41	256	127	1	3	258	12	244	3e-63	 192
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	41.76	261	129	2	1	261	1	238	1e-60	 185
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	39.77	259	136	3	3	261	8	246	4e-60	 184
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	30.74	270	153	5	3	261	5	251	8e-30	 104
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	29.48	268	155	6	3	260	5	248	2e-29	 103
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	100.00	267	0	0	1	267	1	267	0.0	 546
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	56.15	260	110	1	5	264	3	258	1e-101	 291
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	46.90	258	130	3	5	262	3	253	2e-78	 231
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	43.85	260	119	4	5	264	3	235	1e-62	 190
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	40.77	260	127	3	5	264	6	238	3e-60	 184
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	41.67	264	123	2	3	264	10	244	1e-59	 183
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	38.17	262	138	3	3	264	6	243	3e-57	 177
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	28.36	275	163	7	1	267	1	249	4e-26	94.0
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	29.48	268	151	8	1	257	1	241	1e-25	92.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	100.00	257	0	0	1	257	1	257	0.0	 516
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	52.69	260	120	2	1	257	1	260	4e-94	 271
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	46.90	258	130	3	3	253	5	262	2e-78	 231
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	41.80	256	123	3	3	255	12	244	5e-64	 194
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	43.63	259	120	4	1	256	4	239	7e-64	 193
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	42.69	260	123	6	1	257	1	237	3e-58	 179
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	36.05	258	142	4	3	257	8	245	3e-54	 168
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	27.41	270	155	8	3	256	5	249	2e-23	85.5
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	28.02	257	152	8	3	248	5	239	5e-21	78.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	100.00	263	0	0	1	263	1	263	2e-175	 479
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	60.09	233	93	0	12	244	3	235	4e-89	 258
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	54.51	233	106	0	12	244	6	238	1e-87	 255
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	53.50	243	108	2	5	244	3	243	4e-71	 213
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	41.80	256	123	3	12	244	3	255	1e-63	 193
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	41.41	256	127	1	12	244	3	258	5e-63	 192
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	41.67	264	123	2	10	244	3	264	2e-59	 183
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	33.47	239	148	5	12	240	5	242	2e-30	 105
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	33.61	244	151	3	12	244	5	248	2e-30	 105
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	100.00	242	0	0	1	242	1	242	2e-167	 457
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	60.08	238	95	0	3	240	12	249	2e-85	 248
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	51.45	241	115	1	1	239	4	244	5e-83	 242
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	53.75	240	108	2	3	239	8	247	1e-77	 228
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	43.85	260	119	4	3	235	5	264	5e-58	 178
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	41.76	261	129	2	1	238	1	261	7e-56	 172
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	42.69	260	123	6	1	237	1	257	2e-55	 171
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	33.20	241	152	4	3	234	5	245	2e-31	 108
+NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	34.45	238	145	3	3	229	5	242	5e-28	98.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	100.00	255	0	0	1	255	1	255	2e-160	 440
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	46.00	250	123	4	1	245	1	243	6e-56	 173
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	37.45	243	138	4	4	243	7	238	4e-33	 113
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	34.45	238	145	3	5	242	3	229	2e-29	 102
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	30.49	246	160	3	5	250	6	240	9e-29	 100
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	33.47	251	156	3	5	255	12	251	2e-28	 100
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	30.74	270	153	6	5	251	3	261	3e-27	97.1
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	28.73	268	153	6	1	241	1	257	2e-24	88.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	26.30	270	158	7	5	249	3	256	2e-20	76.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6
+# Database: cd_hit_test_2/rnc-era-recO-pdxJ-acpS/pdxJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	100.00	250	0	0	1	250	1	250	0.0	 500
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_003112|Neisseria_meningitidis_MC58|NMB0448|pdxJ|462609|463338|1|Protein|NONE|58.3	53.75	240	108	2	8	247	3	239	7e-82	 239
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl539|pdxJ|601700|602444|-1|Protein|NONE|32.5	45.12	246	132	1	4	249	2	244	2e-76	 226
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1066|pdxJ|1119094|1119886|1|Protein|NONE|69.7	52.80	250	113	2	3	250	5	251	2e-71	 213
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0105|pdxJ|103246|104035|1|Protein|NONE|51.0	39.77	259	136	3	8	246	3	261	3e-60	 184
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0862|pdxJ|841881|842685|-1|Protein|NONE|39.2	38.17	262	138	3	6	243	3	264	3e-57	 177
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1238|pdxJ|1166593|1167367|1|Protein|NONE|32.3	36.05	258	142	4	8	245	3	257	3e-54	 168
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu2024|pdxJ|1985657|1986413|-1|Protein|NONE|59.8	34.52	252	155	4	5	248	2	251	4e-37	 123
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll5064|pdxJ|5617747|5618500|-1|Protein|NONE|69.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC0012|pdxJ|13648|14416|-1|Protein|NONE|65.2	38.68	243	135	4	7	238	4	243	1e-36	 122

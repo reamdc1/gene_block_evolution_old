@@ -1,0 +1,43 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	100.00	126	0	0	1	126	1	126	2e-60	 174
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	54.84	124	56	0	1	124	1	124	1e-33	 105
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	36.21	116	66	3	8	119	10	121	3e-09	39.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	100.00	127	0	0	1	127	1	127	2e-76	 215
+NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	54.84	124	56	0	1	124	1	124	2e-30	97.4
+NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	37.36	91	56	1	29	119	32	121	4e-08	37.0
+NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	46.34	41	21	1	39	79	45	84	3e-04	26.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0	100.00	121	0	0	1	121	1	121	3e-87	 242
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0	NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9	62.50	104	34	2	1	102	29	129	1e-39	 121
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	100.00	135	0	0	1	135	1	135	1e-78	 221
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	45.45	88	47	1	39	126	36	122	1e-19	69.3
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	42.31	52	29	1	45	95	39	90	6e-06	31.2
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	36.36	44	27	1	43	85	37	80	6e-04	25.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9	NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9	100.00	148	0	0	1	148	1	148	2e-106	 293
+NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0	62.50	104	34	2	29	129	1	102	1e-39	 121
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	100.00	127	0	0	1	127	1	127	2e-90	 251
+NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9	45.45	88	47	1	36	122	39	126	1e-19	69.3
+NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9	37.36	91	56	1	32	121	29	119	2e-12	48.1
+NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2	37.50	96	59	1	27	121	24	119	5e-10	42.0

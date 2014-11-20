@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9
+# Database: cd_hit_test/gcl-hyi-glxR-ybbW-allB-ybbY-glxK/glxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	100.00	378	0	0	1	378	1	378	0.0	 720
+NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	59.57	376	152	0	1	376	1	376	1e-146	 414
+NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	58.09	377	158	0	1	377	1	377	3e-143	 406
+NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	52.53	375	178	0	1	375	1	375	7e-129	 369
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9
+# Database: cd_hit_test/gcl-hyi-glxR-ybbW-allB-ybbY-glxK/glxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	100.00	379	0	0	1	379	1	379	0.0	 659
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	52.53	375	178	0	1	375	1	375	1e-115	 335
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	55.73	375	166	0	1	375	1	375	5e-107	 313
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	50.93	375	184	0	1	375	1	375	2e-100	 296
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4
+# Database: cd_hit_test/gcl-hyi-glxR-ybbW-allB-ybbY-glxK/glxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	100.00	382	0	0	1	382	1	382	0.0	 731
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	58.09	377	158	0	1	377	1	377	1e-143	 406
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	58.24	376	157	0	1	376	1	376	5e-141	 400
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	50.93	375	184	0	1	375	1	375	5e-113	 328
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6
+# Database: cd_hit_test/gcl-hyi-glxR-ybbW-allB-ybbY-glxK/glxK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	100.00	389	0	0	1	389	1	389	0.0	 542
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	NC_003143|Yersinia_pestis_CO92|YPO3980|glxK|4482145|4483282|1|Protein|NONE|52.9	59.89	369	148	0	1	369	1	369	1e-109	 320
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY0573|glxK|579921|581070|1|Protein|NONE|57.4	58.54	369	153	0	1	369	1	369	6e-101	 298
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4360|glxK|5155210|5156380|-1|Protein|NONE|72.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3280|glxK|3706608|3707748|-1|Protein|NONE|64.9	55.83	369	163	0	1	369	1	369	9e-91	 271

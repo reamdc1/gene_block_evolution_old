@@ -1,0 +1,19 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_364|tdcF|410335|410722|1|Protein|NONE|23.3
+# Database: cd_hit_test_2/tdcABCDEFG/tdcF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_364|tdcF|410335|410722|1|Protein|NONE|23.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_364|tdcF|410335|410722|1|Protein|NONE|23.3	100.00	128	0	0	1	128	1	128	2e-78	 219
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_364|tdcF|410335|410722|1|Protein|NONE|23.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	47.24	127	67	0	1	127	1	127	4e-35	 108
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6
+# Database: cd_hit_test_2/tdcABCDEFG/tdcF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	100.00	129	0	0	1	129	1	129	1e-95	 263
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_364|tdcF|410335|410722|1|Protein|NONE|23.3	46.88	128	68	0	1	128	1	128	7e-44	 131
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3424|tdcF|4031256|4031760|-1|Protein|NONE|60.5	31.62	117	66	4	25	127	50	166	1e-13	52.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3424|tdcF|4031256|4031760|-1|Protein|NONE|60.5
+# Database: cd_hit_test_2/tdcABCDEFG/tdcF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3424|tdcF|4031256|4031760|-1|Protein|NONE|60.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3424|tdcF|4031256|4031760|-1|Protein|NONE|60.5	100.00	167	0	0	1	167	1	167	2e-110	 304
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3424|tdcF|4031256|4031760|-1|Protein|NONE|60.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3113|tdcF|3257742|3258132|-1|Protein|ECK3102:JW5521:yhaR|52.6	31.62	117	66	4	50	166	25	127	1e-13	52.0

@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvN_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	100.00	96	0	0	1	96	1	96	2e-71	 199
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	62.65	83	31	0	9	91	10	92	2e-37	 113
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	38.03	71	43	1	10	79	4	74	4e-15	55.5
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	36.84	38	24	0	2	39	17	54	5e-07	33.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvN_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	100.00	190	0	0	1	190	1	190	3e-141	 384
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	42.26	168	88	4	24	190	3	162	1e-41	 129
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	31.87	91	53	4	21	111	7	88	3e-07	34.7
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	36.84	38	24	0	17	54	2	39	1e-06	33.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvN_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	100.00	100	0	0	1	100	1	100	1e-72	 203
+NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	62.65	83	31	0	10	92	9	91	2e-37	 113
+NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	35.80	81	47	2	14	93	7	83	5e-15	55.1
+NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	31.87	91	53	4	7	88	21	111	1e-07	34.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7
+# Database: cd_hit_test/ivbL-ilvBN-uhpABC/ilvN_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	100.00	164	0	0	1	164	1	164	2e-120	 330
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1435|ilvN|1362687|1363260|-1|Protein|NONE|58.5	42.26	168	88	4	3	162	24	190	1e-41	 129
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3670|ilvN|3848824|3849115|-1|Protein|ECK3661:JW3645|48.5	38.03	71	43	1	4	74	10	79	7e-15	55.5
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_0647|ilvN|666738|667233|-1|Protein|NONE|47.7	NC_003143|Yersinia_pestis_CO92|YPO2294|ilvN|2580066|2580369|1|Protein|NONE|48.8	35.80	81	47	2	7	83	14	93	8e-15	55.1

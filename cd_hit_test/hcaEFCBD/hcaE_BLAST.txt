@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2538|hcaE|2667053|2668415|1|Protein|digA:ECK2535:hcaA:hcaA1:JW2522:phdC1:yfhU|52.9
+# Database: cd_hit_test/hcaEFCBD/hcaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2538|hcaE|2667053|2668415|1|Protein|digA:ECK2535:hcaA:hcaA1:JW2522:phdC1:yfhU|52.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2538|hcaE|2667053|2668415|1|Protein|digA:ECK2535:hcaA:hcaA1:JW2522:phdC1:yfhU|52.9	100.00	453	0	0	1	453	1	453	0.0	 948
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2538|hcaE|2667053|2668415|1|Protein|digA:ECK2535:hcaA:hcaA1:JW2522:phdC1:yfhU|52.9	NC_002927|Bordetella_bronchiseptica_RB50|BB0728|hcaE|763821|765186|1|Protein|NONE|64.2	37.98	445	255	10	11	444	11	445	1e-100	 301
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB0728|hcaE|763821|765186|1|Protein|NONE|64.2
+# Database: cd_hit_test/hcaEFCBD/hcaE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB0728|hcaE|763821|765186|1|Protein|NONE|64.2	NC_002927|Bordetella_bronchiseptica_RB50|BB0728|hcaE|763821|765186|1|Protein|NONE|64.2	100.00	454	0	0	1	454	1	454	0.0	 910
+NC_002927|Bordetella_bronchiseptica_RB50|BB0728|hcaE|763821|765186|1|Protein|NONE|64.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2538|hcaE|2667053|2668415|1|Protein|digA:ECK2535:hcaA:hcaA1:JW2522:phdC1:yfhU|52.9	38.55	415	234	10	41	445	41	444	1e-91	 278

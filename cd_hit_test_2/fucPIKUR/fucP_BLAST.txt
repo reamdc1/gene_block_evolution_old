@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7
+# Database: cd_hit_test_2/fucPIKUR/fucP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	100.00	438	0	0	1	438	1	438	0.0	 790
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	48.80	418	208	5	21	437	15	427	7e-100	 298
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	34.67	424	259	7	21	433	7	423	3e-60	 194
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	36.62	426	244	7	14	438	1	401	6e-58	 188
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9
+# Database: cd_hit_test_2/fucPIKUR/fucP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	100.00	407	0	0	1	407	1	407	0.0	 748
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	37.59	415	236	5	12	406	22	433	5e-72	 225
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	36.62	426	244	7	1	401	14	438	6e-66	 209
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	32.19	407	245	8	13	390	15	419	6e-50	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2
+# Database: cd_hit_test_2/fucPIKUR/fucP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	100.00	428	0	0	1	428	1	428	0.0	 787
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	37.03	424	251	5	6	425	14	425	9e-72	 225
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	34.67	424	259	7	7	423	21	433	2e-66	 211
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	32.19	407	245	8	15	419	13	390	2e-46	 156
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3
+# Database: cd_hit_test_2/fucPIKUR/fucP_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	100.00	419	0	0	1	419	1	419	0.0	 719
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2801|fucP|2932256|2933573|1|Protein|ECK2796:JW2772|47.7	50.12	409	199	4	15	419	21	428	3e-107	 318
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0610|fucP|641450|642737|-1|Protein|NONE|39.2	37.35	415	244	5	14	416	6	416	2e-73	 229
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC4190|fucP|4927833|4929135|-1|Protein|NONE|64.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2248|fucP|2436325|2437549|1|Protein|NONE|62.9	38.06	402	216	3	22	416	12	387	1e-66	 211

@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S0034|caiE|33696|34308|-1|Protein|NONE|54.4
+# Database: cd_hit_test/caiTABCDE/caiE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S0034|caiE|33696|34308|-1|Protein|NONE|54.4	NC_004741|Shigella_flexneri_2a_str._2457T|S0034|caiE|33696|34308|-1|Protein|NONE|54.4	100.00	203	0	0	1	203	1	203	2e-154	 418

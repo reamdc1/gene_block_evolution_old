@@ -1,0 +1,165 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	100.00	331	0	0	1	331	1	331	0.0	 588
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	36.14	321	204	1	3	323	8	327	3e-66	 205
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	35.58	326	207	3	1	325	1	324	5e-56	 178
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	31.79	324	218	3	3	325	8	329	1e-53	 172
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	30.63	320	219	3	7	325	15	332	7e-48	 157
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	29.09	330	231	3	3	331	24	351	2e-43	 145
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	26.85	324	224	2	6	323	19	335	2e-30	 108
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	21.98	323	245	3	3	323	35	352	2e-19	77.4
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	24.11	282	202	6	6	282	19	293	2e-16	68.6
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	18.02	333	262	4	3	331	1	326	4e-12	55.5
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	20.45	269	209	3	7	272	11	277	6e-09	45.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	100.00	331	0	0	1	331	1	331	0.0	 663
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	52.58	329	154	2	4	331	9	336	1e-122	 350
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	48.93	327	167	0	5	331	10	336	5e-115	 331
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	48.74	318	163	0	8	325	16	333	1e-114	 330
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	46.69	317	169	0	8	324	29	345	5e-99	 290
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	35.58	326	207	3	1	324	1	325	2e-64	 200
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	33.12	317	210	2	8	323	21	336	7e-56	 178
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	31.08	325	220	3	5	328	37	358	2e-45	 151
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	26.73	318	231	2	5	322	3	318	2e-33	 117
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	23.58	318	237	4	8	322	21	335	7e-24	89.7
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	22.74	321	231	7	8	318	12	325	2e-17	71.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	100.00	327	0	0	1	327	1	327	0.0	 634
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	29.56	318	222	2	1	316	11	328	1e-40	 137
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	30.53	321	219	3	1	318	8	327	1e-39	 135
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	27.67	318	228	2	1	316	24	341	2e-38	 131
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	26.73	318	231	2	3	318	5	322	8e-32	 112
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	26.42	318	232	2	1	316	8	325	1e-29	 106
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	23.44	320	243	2	1	318	16	335	1e-22	86.3
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	25.47	318	225	5	5	316	39	350	1e-17	72.0
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	18.32	333	261	4	1	326	3	331	2e-14	62.8
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	20.72	333	238	8	1	319	16	336	6e-12	55.1
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	23.31	326	231	10	5	318	11	329	6e-09	45.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	100.00	336	0	0	1	336	1	336	0.0	 599
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	40.87	323	188	2	7	329	16	335	1e-70	 217
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	23.01	326	244	3	11	336	39	357	4e-22	85.1
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	24.11	336	239	8	1	329	1	327	9e-19	75.5
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	24.23	326	235	7	3	325	7	323	7e-18	72.8
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	24.32	222	159	4	112	329	119	335	4e-16	67.8
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	22.39	326	242	6	12	333	8	326	6e-16	67.0
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	20.30	330	238	6	7	325	11	326	1e-15	66.2
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	24.26	169	116	3	115	277	110	272	1e-12	57.0
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	21.92	219	155	5	115	325	129	339	3e-11	53.1
+NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	22.60	323	237	8	11	329	5	318	3e-09	46.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	100.00	347	0	0	1	347	1	347	0.0	 676
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	40.56	323	189	2	16	335	7	329	1e-77	 236
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	26.59	331	225	4	21	343	40	360	3e-34	 120
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	27.71	332	230	5	16	342	11	337	1e-31	 113
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	27.71	332	222	7	13	335	5	327	2e-31	 112
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	27.03	333	233	5	14	341	6	333	3e-31	 111
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	25.90	332	234	6	16	341	24	349	5e-24	90.9
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	23.58	318	237	4	21	335	8	322	3e-22	85.1
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	23.38	325	239	5	16	335	16	335	1e-19	78.6
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	24.20	281	203	5	19	293	6	282	9e-18	72.8
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	20.42	333	239	8	16	336	1	319	3e-14	62.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	100.00	351	0	0	1	351	1	351	0.0	 649
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	56.50	331	143	1	22	351	9	339	8e-123	 352
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	51.81	332	160	0	20	351	4	335	1e-111	 323
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	46.69	317	169	0	29	345	8	324	8e-93	 275
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	42.30	331	189	2	20	349	4	333	2e-87	 261
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	30.22	321	222	2	24	343	16	335	7e-46	 152
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	31.17	324	217	3	23	344	34	353	5e-44	 148
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	28.48	330	233	3	24	351	3	331	2e-41	 140
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	27.67	318	228	2	24	341	1	316	2e-37	 129
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	25.30	332	236	6	24	349	16	341	5e-22	85.1
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	21.97	223	158	5	129	343	115	329	3e-10	49.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	100.00	336	0	0	1	336	1	336	0.0	 668
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	52.58	329	154	2	9	336	4	331	1e-122	 350
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	48.96	337	170	2	1	336	1	336	3e-111	 322
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	46.56	320	169	2	13	331	16	334	8e-102	 297
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	42.60	331	188	2	4	333	20	349	2e-93	 276
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	36.14	321	204	1	8	327	3	323	2e-74	 226
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	32.19	320	213	2	15	332	23	340	2e-58	 186
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	30.70	329	223	4	10	336	37	362	4e-44	 148
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	27.71	332	222	7	5	327	13	335	2e-33	 117
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	26.42	318	232	2	8	325	1	316	9e-32	 112
+NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	24.40	332	235	8	7	327	3	329	2e-20	80.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	100.00	343	0	0	1	343	1	343	0.0	 664
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	31.99	322	217	2	16	336	8	328	4e-55	 176
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	32.19	320	213	2	23	340	15	332	9e-55	 176
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	33.12	317	210	2	21	336	8	323	3e-51	 166
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	29.48	329	230	2	9	336	4	331	8e-48	 157
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	30.53	321	221	2	16	335	24	343	2e-47	 156
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	29.79	339	226	4	4	335	19	352	2e-43	 146
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	26.85	324	224	2	19	335	6	323	6e-34	 119
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	22.84	324	240	4	16	335	1	318	3e-21	82.4
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	25.12	215	159	2	122	335	122	335	1e-20	80.9
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	24.32	222	159	4	119	335	112	329	3e-16	68.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	100.00	336	0	0	1	336	1	336	0.0	 659
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	58.73	332	137	0	5	336	8	339	4e-143	 403
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	51.81	332	160	0	4	335	20	351	3e-120	 345
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	48.93	327	167	0	10	336	5	331	5e-115	 331
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	48.96	337	170	2	1	336	1	336	3e-111	 322
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	32.41	324	216	3	8	329	3	325	1e-59	 188
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	31.99	322	217	2	8	328	16	336	2e-59	 188
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	32.00	325	215	4	5	327	32	352	5e-50	 164
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	30.53	321	219	3	8	327	1	318	6e-42	 141
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	27.03	333	233	5	6	333	14	341	3e-33	 117
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	23.88	335	241	7	1	327	1	329	9e-22	84.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	100.00	339	0	0	1	339	1	339	0.0	 676
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	58.73	332	137	0	8	339	5	336	4e-143	 403
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	56.50	331	143	1	9	339	22	351	1e-131	 374
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	48.74	318	163	0	16	333	8	325	1e-114	 330
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	46.56	320	169	2	16	334	13	331	8e-102	 297
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	29.48	329	230	2	4	331	9	336	4e-52	 169
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	30.63	320	219	3	15	332	7	325	5e-52	 168
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	31.99	322	217	2	16	337	40	359	2e-51	 167
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	29.56	318	222	2	11	328	1	316	3e-45	 150
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	27.71	332	230	5	11	337	16	342	3e-34	 120
+NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	20.36	334	241	6	11	330	7	329	1e-17	72.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0
+# Database: cd_hit_test/fliFGHIJK/fliG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	100.00	363	0	0	1	363	1	363	0.0	 736
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_002947|Pseudomonas_putida_KT2440|PP_4368|fliG|4957678|4958698|-1|Protein|NONE|63.0	31.99	322	217	2	40	359	16	337	2e-51	 167
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1953|fliG|2283318|2284329|-1|Protein|NONE|66.0	32.00	325	215	4	32	352	5	327	6e-50	 164
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0610|fliG|588112|589144|-1|Protein|NONE|37.5	29.79	339	226	4	19	352	4	335	3e-47	 156
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_004459|Vibrio_vulnificus_CMCP6|VV1_1936|fliG|1927192|1928248|1|Protein|NONE|50.1	31.17	324	217	3	34	353	23	344	5e-47	 156
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2084|fliG|2266673|2267669|1|Protein|NONE|51.3	31.08	325	220	3	37	358	5	328	2e-45	 151
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_002928|Bordetella_parapertussis_12822|BPP1509|fliG|1616396|1617407|-1|Protein|flaAII.2:flaBII|66.8	30.70	329	223	4	37	362	10	336	4e-44	 148
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0563|fliG|548212|549256|1|Protein|NONE|59.9	26.59	331	225	4	40	360	21	343	4e-37	 129
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_002678|Mesorhizobium_loti_MAFF303099|mll2901|fliG|2337796|2338807|-1|Protein|NONE|66.6	23.01	326	244	3	39	357	11	336	9e-25	92.8
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_073|fliG|78709|79705|1|Protein|NONE|25.0	22.56	328	237	5	35	352	3	323	9e-24	89.7
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr7000|fliG|7709258|7710350|1|Protein|NONE|64.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2998|fliG|3273599|3274583|-1|Protein|NONE|69.0	25.47	318	225	5	39	350	5	316	8e-21	81.6

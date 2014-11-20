@@ -1,0 +1,17 @@
+>Cluster 0
+0	350aa, >NC_004917|Helicobac... *
+>Cluster 1
+0	325aa, >NC_003919|Xanthomon... *
+>Cluster 2
+0	306aa, >NC_000913|Escherich... *
+1	306aa, >NC_003143|Yersinia_... at 92.48%
+2	306aa, >NC_003198|Salmonell... at 95.75%
+3	306aa, >NC_003197|Salmonell... at 96.08%
+4	306aa, >NC_004603|Vibrio_pa... at 66.99%
+5	306aa, >NC_000907|Haemophil... at 75.49%
+6	306aa, >NC_004741|Shigella_... at 100.00%
+7	306aa, >NC_002663|Pasteurel... at 81.70%
+>Cluster 3
+0	306aa, >NC_005085|Chromobac... *
+>Cluster 4
+0	176aa, >NC_005090|Wolinella... *

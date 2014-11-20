@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	100.00	122	0	0	1	122	1	122	2e-85	 237
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	59.52	126	47	1	1	122	1	126	9e-47	 138
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	50.39	127	58	1	1	122	1	127	5e-30	95.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	100.00	126	0	0	1	126	1	126	2e-67	 191
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	57.94	126	49	1	1	126	1	122	3e-40	 122
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	47.24	127	66	1	1	126	1	127	3e-25	83.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5
+# Database: cd_hit_test_2/rplKAJL-rpoBC/rplL_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	100.00	101	0	0	1	101	1	101	3e-48	 142
+NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl558|rplL|628840|629221|-1|Protein|NONE|33.3	53.06	98	45	1	1	98	1	97	4e-28	90.9
+NC_002928|Bordetella_parapertussis_12822|BPP0013|rplL|11163|11547|1|Protein|NONE|62.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_034|rplL|44869|45238|-1|Protein|NONE|31.7	51.02	98	43	1	1	98	1	93	2e-25	83.6

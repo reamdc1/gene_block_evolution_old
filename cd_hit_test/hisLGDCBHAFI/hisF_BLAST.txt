@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1
+# Database: cd_hit_test/hisLGDCBHAFI/hisF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	100.00	258	0	0	1	258	1	258	3e-174	 474
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	56.59	258	112	0	1	258	1	258	3e-105	 299
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	54.09	257	117	1	1	257	1	256	4e-94	 271
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	43.16	234	126	4	2	235	3	229	1e-56	 174
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	36.72	256	159	2	2	256	14	267	3e-53	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2
+# Database: cd_hit_test/hisLGDCBHAFI/hisF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	100.00	258	0	0	1	258	1	258	0.0	 529
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	56.59	258	112	0	1	258	1	258	6e-115	 324
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	55.47	256	113	1	1	256	1	255	4e-106	 301
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	43.36	256	138	5	2	257	3	251	8e-65	 195
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	36.92	260	157	2	2	258	14	269	3e-64	 194
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9
+# Database: cd_hit_test/hisLGDCBHAFI/hisF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	100.00	269	0	0	1	269	1	269	0.0	 542
+NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	50.78	256	120	3	13	268	2	251	2e-95	 274
+NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	45.21	261	129	3	14	267	2	255	5e-68	 204
+NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	36.92	260	157	2	14	269	2	258	3e-64	 194
+NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	36.72	256	159	2	14	267	2	256	6e-59	 181
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0
+# Database: cd_hit_test/hisLGDCBHAFI/hisF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	100.00	251	0	0	1	251	1	251	0.0	 506
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	50.78	256	120	3	2	251	13	268	2e-95	 274
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	47.64	254	127	3	3	250	2	255	9e-72	 213
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	42.75	255	139	4	3	250	2	256	2e-65	 197
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	43.36	256	138	5	3	251	2	257	8e-65	 195
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1
+# Database: cd_hit_test/hisLGDCBHAFI/hisF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	100.00	258	0	0	1	258	1	258	0.0	 517
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl468|hisF|515559|516336|1|Protein|NONE|30.2	55.47	256	113	1	1	255	1	256	4e-106	 301
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_103|hisF|109852|110629|1|Protein|NONE|30.1	54.09	257	117	1	1	256	1	257	2e-103	 295
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1176|hisF|1142584|1143340|1|Protein|NONE|39.0	47.64	254	127	3	2	255	3	250	9e-72	 213
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1834|hisF|2129300|2130077|1|Protein|NONE|64.1	NC_002928|Bordetella_parapertussis_12822|BPP4272|hisF|4611450|4612260|1|Protein|NONE|69.9	45.21	261	129	3	2	255	14	267	4e-68	 204

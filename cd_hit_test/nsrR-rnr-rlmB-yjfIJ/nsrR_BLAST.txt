@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4178|nsrR|4404212|4404638|1|Protein|ECK4174:JW4136:yjeB|48.4
+# Database: cd_hit_test/nsrR-rnr-rlmB-yjfIJ/nsrR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4178|nsrR|4404212|4404638|1|Protein|ECK4174:JW4136:yjeB|48.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4178|nsrR|4404212|4404638|1|Protein|ECK4174:JW4136:yjeB|48.4	100.00	141	0	0	1	141	1	141	4e-106	 290
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4178|nsrR|4404212|4404638|1|Protein|ECK4174:JW4136:yjeB|48.4	NC_004347|Shewanella_oneidensis_MR-1|SO_0045|nsrR|52003|52459|1|Protein|NONE|42.5	45.71	140	74	2	1	138	1	140	7e-45	 135
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_0045|nsrR|52003|52459|1|Protein|NONE|42.5
+# Database: cd_hit_test/nsrR-rnr-rlmB-yjfIJ/nsrR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_0045|nsrR|52003|52459|1|Protein|NONE|42.5	NC_004347|Shewanella_oneidensis_MR-1|SO_0045|nsrR|52003|52459|1|Protein|NONE|42.5	100.00	151	0	0	1	151	1	151	1e-113	 310
+NC_004347|Shewanella_oneidensis_MR-1|SO_0045|nsrR|52003|52459|1|Protein|NONE|42.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4178|nsrR|4404212|4404638|1|Protein|ECK4174:JW4136:yjeB|48.4	45.71	140	74	2	1	140	1	138	7e-45	 135

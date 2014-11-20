@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7
+# Database: cd_hit_test/fecABCDE/fecC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	100.00	332	0	0	1	332	1	332	0.0	 502
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	52.94	323	151	1	9	331	5	326	1e-87	 259
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	41.12	321	186	3	12	330	3	322	2e-39	 132
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2
+# Database: cd_hit_test/fecABCDE/fecC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	100.00	324	0	0	1	324	1	324	3e-160	 444
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	40.76	314	180	4	10	321	15	324	2e-41	 137
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	40.81	321	187	3	3	322	12	330	1e-31	 110
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5
+# Database: cd_hit_test/fecABCDE/fecC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	100.00	327	0	0	1	327	1	327	0.0	 642
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4289|fecC|4510433|4511432|-1|Protein|ECK4279:JW4249|60.7	52.94	323	151	1	5	326	9	331	7e-109	 313
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0130|fecC|153910|154894|-1|Protein|NONE|45.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_0762|fecC|810012|810987|-1|Protein|NONE|65.2	41.08	314	179	4	15	324	10	321	1e-62	 194

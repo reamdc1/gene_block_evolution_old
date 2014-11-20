@@ -1,0 +1,93 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	100.00	308	0	0	1	308	1	308	0.0	 535
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	46.15	299	160	1	1	299	1	298	2e-65	 201
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	44.85	301	165	1	4	304	11	310	8e-62	 192
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	44.08	304	164	3	3	302	2	303	2e-55	 175
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	46.41	306	151	7	4	308	3	296	2e-55	 174
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	41.45	304	171	4	4	304	3	302	3e-43	 143
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	37.09	302	184	4	5	304	2	299	2e-38	 130
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	28.05	82	52	2	180	260	190	265	1e-05	34.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	100.00	296	0	0	1	296	1	296	4e-178	 488
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	46.08	306	152	7	3	296	4	308	2e-51	 164
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	38.80	299	172	4	4	292	2	299	9e-42	 138
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	45.90	305	149	7	1	292	1	302	5e-40	 134
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	40.00	300	168	6	6	294	7	305	4e-39	 131
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	41.58	303	165	6	4	295	12	313	4e-37	 126
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	37.75	302	173	8	1	288	1	301	4e-25	91.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	100.00	299	0	0	1	299	1	299	0.0	 549
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	38.80	299	172	4	2	299	4	292	1e-54	 172
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	42.57	303	165	5	2	299	4	302	1e-54	 172
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	37.09	302	184	4	2	299	5	304	1e-50	 162
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	35.02	297	186	3	2	294	5	298	3e-49	 158
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	35.45	299	192	1	2	299	12	310	3e-47	 154
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	33.00	300	193	4	2	295	4	301	2e-32	 113
+NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	24.00	300	196	10	2	285	12	295	1e-05	34.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	100.00	306	0	0	1	306	1	306	0.0	 563
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	55.96	302	133	0	4	305	11	312	5e-96	 280
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	49.16	297	148	1	5	298	4	300	2e-72	 219
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	46.36	302	157	3	1	299	1	300	1e-70	 215
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	40.33	300	167	6	7	305	6	294	4e-51	 164
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	35.02	297	186	3	5	298	2	294	2e-39	 132
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	37.33	300	182	3	7	303	6	302	2e-37	 127
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	24.76	311	204	11	5	298	12	309	1e-11	53.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	100.00	314	0	0	1	314	1	314	0.0	 600
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	55.96	302	133	0	11	312	4	305	4e-112	 321
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	48.99	298	149	1	12	306	4	301	9e-79	 236
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	45.00	300	164	1	12	310	5	304	2e-69	 211
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	41.58	303	165	6	12	313	4	295	5e-59	 184
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	40.46	304	175	3	10	310	2	302	1e-48	 157
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	35.45	299	192	1	12	310	2	299	2e-45	 149
+NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	25.68	292	176	11	1	272	1	271	3e-12	55.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	100.00	311	0	0	1	311	1	311	0.0	 496
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	30.77	130	86	3	11	138	3	130	2e-08	43.1
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	29.58	71	49	1	1	71	1	70	6e-08	41.6
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	31.02	245	135	14	10	235	2	231	2e-07	39.7
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	26.77	127	81	5	12	131	5	126	1e-05	34.7
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	31.67	60	40	1	12	71	2	60	2e-04	31.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	100.00	303	0	0	1	303	1	303	0.0	 564
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	49.16	297	148	1	4	300	5	298	3e-82	 244
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	48.99	298	149	1	4	301	12	306	3e-78	 234
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	44.08	304	164	3	2	303	3	302	7e-65	 199
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	37.75	302	173	7	1	301	1	288	2e-40	 135
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	33.44	311	186	6	1	302	1	299	8e-33	 114
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	33.00	300	193	4	4	301	2	295	9e-31	 108
+NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	30.04	283	164	14	2	269	10	273	1e-13	58.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0
+# Database: cd_hit_test_2/rbsDACBKR/rbsK_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	100.00	302	0	0	1	302	1	302	0.0	 541
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3020|rbsK|3297106|3297997|-1|Protein|NONE|72.2	45.90	305	149	7	1	302	1	292	2e-58	 182
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_002516|Pseudomonas_aeruginosa_PAO1|PA1950|rbsK|2135459|2136386|1|Protein|NONE|72.2	41.45	304	171	4	3	302	4	304	7e-51	 163
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0505|rbsK|521927|522848|1|Protein|NONE|42.8	37.33	300	182	3	6	302	7	303	1e-50	 162
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_003062|Agrobacterium_fabrum_str._C58|Atu0364|rbsK|358548|359448|-1|Protein|NONE|61.7	42.57	303	165	5	4	302	2	299	1e-49	 159
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_004741|Shigella_flexneri_2a_str._2457T|S3932|rbsK|3825589|3826534|-1|Protein|NONE|52.3	40.46	304	175	3	2	302	10	310	2e-48	 156
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_004347|Shewanella_oneidensis_MR-1|SO_0810|rbsK|821796|822708|-1|Protein|NONE|53.1	33.44	311	186	6	1	299	1	302	6e-32	 111
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll2832|rbsK|3113598|3114507|-1|Protein|NONE|70.0	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3080|rbsK|3613527|3614463|1|Protein|NONE|70.5	25.45	279	170	15	3	262	11	270	6e-06	35.4

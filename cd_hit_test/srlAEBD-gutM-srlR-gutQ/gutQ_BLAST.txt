@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2708|gutQ|2827834|2828800|1|Protein|ECK2703:JW5431:srlQ|57.3
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/gutQ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2708|gutQ|2827834|2828800|1|Protein|ECK2703:JW5431:srlQ|57.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2708|gutQ|2827834|2828800|1|Protein|ECK2703:JW5431:srlQ|57.3	100.00	321	0	0	1	321	1	321	0.0	 608
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2708|gutQ|2827834|2828800|1|Protein|ECK2703:JW5431:srlQ|57.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl459|gutQ|506042|507023|-1|Protein|NONE|34.5	57.51	313	133	0	5	317	7	319	1e-113	 325
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl459|gutQ|506042|507023|-1|Protein|NONE|34.5
+# Database: cd_hit_test/srlAEBD-gutM-srlR-gutQ/gutQ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl459|gutQ|506042|507023|-1|Protein|NONE|34.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl459|gutQ|506042|507023|-1|Protein|NONE|34.5	100.00	326	0	0	1	326	1	326	0.0	 667
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl459|gutQ|506042|507023|-1|Protein|NONE|34.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2708|gutQ|2827834|2828800|1|Protein|ECK2703:JW5431:srlQ|57.3	57.51	313	133	0	7	319	5	317	2e-129	 365

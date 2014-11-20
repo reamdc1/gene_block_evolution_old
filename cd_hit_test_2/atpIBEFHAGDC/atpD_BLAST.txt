@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: cd_hit_test_2/atpIBEFHAGDC/atpD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	100.00	453	0	0	54	506	54	506	0.0	 878

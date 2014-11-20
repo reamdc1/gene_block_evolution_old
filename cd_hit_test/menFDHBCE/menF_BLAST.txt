@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4
+# Database: cd_hit_test/menFDHBCE/menF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	100.00	431	0	0	1	431	1	431	0.0	 872
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	52.12	449	197	2	1	431	1	449	5e-151	 431
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	38.39	409	232	8	30	431	34	429	2e-81	 251
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	38.06	402	228	7	38	429	37	427	1e-78	 243
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	35.01	457	256	11	2	428	4	449	1e-74	 233
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2
+# Database: cd_hit_test/menFDHBCE/menF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	100.00	455	0	0	1	455	1	455	0.0	 908
+NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	52.12	449	197	2	1	449	1	431	6e-145	 415
+NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	37.12	458	243	8	1	449	8	429	6e-87	 266
+NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	38.46	416	223	5	40	448	39	428	1e-83	 257
+NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	36.38	426	243	7	36	446	37	449	1e-72	 229
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9
+# Database: cd_hit_test/menFDHBCE/menF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	100.00	430	0	0	1	430	1	430	0.0	 851
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	50.58	433	201	5	6	430	3	430	5e-134	 386
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	36.70	455	249	7	8	429	1	449	4e-85	 261
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	38.39	409	232	8	34	429	30	431	4e-78	 242
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	32.02	456	264	10	12	428	3	451	1e-57	 188
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6
+# Database: cd_hit_test/menFDHBCE/menF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	100.00	431	0	0	1	431	1	431	0.0	 830
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	50.58	433	201	5	3	430	6	430	3e-130	 377
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	38.65	414	225	5	39	428	40	448	1e-79	 247
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	37.81	402	229	7	37	427	38	429	2e-74	 232
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	31.50	454	270	11	2	426	8	449	2e-58	 190
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6
+# Database: cd_hit_test/menFDHBCE/menF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	100.00	452	0	0	1	452	1	452	0.0	 904
+NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2265|menF|2377369|2378665|-1|Protein|ECK2259:JW2260:yfbA|53.4	35.01	457	256	11	4	449	2	428	5e-74	 232
+NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	NC_003143|Yersinia_pestis_CO92|YPO2528|menF|2837883|2839251|-1|Protein|NONE|51.2	36.15	426	244	7	37	449	36	446	2e-73	 231
+NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0053|menF|58287|59583|1|Protein|NONE|42.6	31.72	454	269	11	8	449	2	426	2e-60	 196
+NC_004347|Shewanella_oneidensis_MR-1|SO_4713|menF|4916557|4917916|1|Protein|NONE|47.6	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0285|menF|318375|319668|-1|Protein|NONE|38.9	32.15	451	270	10	3	451	12	428	2e-59	 193

@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S4099|waaQ|3997591|3998650|1|Protein|NONE|46.6
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaQ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S4099|waaQ|3997591|3998650|1|Protein|NONE|46.6	NC_004741|Shigella_flexneri_2a_str._2457T|S4099|waaQ|3997591|3998650|1|Protein|NONE|46.6	100.00	352	0	0	1	352	1	352	0.0	 704

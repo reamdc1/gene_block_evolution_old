@@ -1,0 +1,21 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1
+# Database: cd_hit_test_2/gatYZABCD/gatY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	100.00	284	0	0	1	284	1	284	0.0	 590
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	58.30	283	118	0	1	283	1	283	2e-127	 357
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	35.27	275	174	4	1	274	1	272	1e-51	 162
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2
+# Database: cd_hit_test_2/gatYZABCD/gatY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	100.00	284	0	0	1	284	1	284	0.0	 591
+NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	58.30	283	118	0	1	283	1	283	2e-127	 357
+NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	36.23	276	171	5	1	275	1	272	5e-53	 166
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3
+# Database: cd_hit_test_2/gatYZABCD/gatY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	100.00	286	0	0	1	286	1	286	0.0	 588
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	NC_003143|Yersinia_pestis_CO92|YPO0844|gatY|925428|926283|1|Protein|kba|50.2	36.23	276	171	5	1	272	1	275	5e-53	 166
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3780|gatY|3979829|3980690|-1|Protein|NONE|43.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2096|gatY|2174371|2175226|-1|Protein|ECK2089:JW5343:yegF|53.1	35.27	275	174	4	1	272	1	274	1e-51	 162

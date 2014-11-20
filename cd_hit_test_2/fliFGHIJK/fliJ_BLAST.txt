@@ -1,0 +1,98 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	100.00	147	0	0	1	147	1	147	2e-62	 181
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	30.00	70	49	0	46	115	45	114	8e-09	40.4
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	36.11	36	23	0	46	81	45	80	2e-05	31.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	33.33	36	24	0	46	81	45	80	2e-05	30.8
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	29.73	37	26	0	46	82	45	81	4e-04	26.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	100.00	147	0	0	1	147	1	147	4e-108	 298
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	56.94	144	62	0	1	144	1	144	4e-52	 155
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	33.10	145	97	0	1	145	1	145	5e-22	77.0
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	29.50	139	92	2	1	136	1	136	9e-17	62.4
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	28.57	140	100	0	7	146	10	149	2e-15	58.2
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	25.20	127	95	0	19	145	19	145	5e-10	43.5
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	24.43	131	98	1	16	145	13	143	1e-09	42.7
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	38.64	44	27	0	37	80	38	81	6e-08	38.1
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	28.57	133	79	4	14	140	14	136	9e-05	28.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	100.00	150	0	0	1	150	1	150	4e-112	 308
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	34.25	146	94	2	1	145	1	145	4e-23	80.1
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	29.50	139	92	2	1	136	1	136	9e-17	62.4
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	25.69	144	102	1	1	144	1	139	2e-15	58.5
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	21.68	143	112	0	5	147	3	145	2e-12	49.7
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	30.14	146	85	4	1	136	1	139	3e-10	44.3
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	29.13	127	90	0	21	147	21	147	3e-10	44.3
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	24.43	131	95	1	10	140	10	136	5e-06	32.7
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	33.33	45	30	0	37	81	38	82	8e-06	32.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	100.00	148	0	0	1	148	1	148	1e-93	 261
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	56.94	144	62	0	1	144	1	144	5e-45	 137
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	36.81	144	91	0	1	144	1	144	5e-24	82.4
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	29.10	134	95	0	7	140	10	143	6e-13	51.2
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	31.88	69	47	0	37	105	38	106	4e-10	43.9
+NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	28.26	138	99	0	1	138	1	138	4e-08	38.5
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	100.00	147	0	0	1	147	1	147	6e-94	 261
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	33.08	130	87	0	16	145	18	147	1e-14	56.2
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	24.29	140	106	0	5	144	7	146	6e-12	48.5
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	25.00	92	69	0	8	99	13	104	2e-09	42.0
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	21.68	143	112	0	3	145	5	147	7e-09	40.4
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	100.00	148	0	0	1	148	1	148	4e-109	 300
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	36.81	144	91	0	1	144	1	144	3e-29	96.3
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	34.25	146	94	2	1	145	1	145	4e-23	80.1
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	33.10	145	97	0	1	145	1	145	5e-22	77.0
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	24.29	140	106	0	7	146	5	144	6e-18	65.9
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	34.06	138	89	2	7	143	10	146	8e-18	65.5
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	29.17	144	102	0	1	144	1	144	1e-17	64.7
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_076|fliJ|81744|82188|1|Protein|NONE|20.5	21.78	101	79	0	37	137	38	138	1e-07	37.0
+NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	24.63	134	97	1	7	140	7	136	3e-04	27.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	100.00	151	0	0	1	151	1	151	6e-94	 262
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	28.99	138	94	1	6	139	9	146	6e-06	32.7
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	23.17	82	63	0	55	136	59	140	4e-04	27.3
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	25.61	82	59	2	55	135	57	137	5e-04	26.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	100.00	150	0	0	1	150	1	150	4e-97	 270
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	34.06	138	89	2	10	146	7	143	6e-16	60.1
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	29.10	134	95	0	10	143	7	140	9e-14	53.9
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	28.57	140	100	0	10	149	7	146	2e-13	52.8
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	29.29	99	70	0	46	144	41	139	3e-12	49.7
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	30.14	146	85	4	1	139	1	136	5e-09	40.8
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	25.24	103	76	1	48	149	45	147	5e-08	38.1
+NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1950|fliJ|2280869|2281325|-1|Protein|NONE|66.7	29.71	138	93	1	9	146	6	139	2e-06	33.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6
+# Database: cd_hit_test_2/fliFGHIJK/fliJ_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	100.00	147	0	0	1	147	1	147	1e-89	 251
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP2245|fliJ|2358237|2358681|-1|Protein|NONE|47.5	32.73	110	74	0	38	147	36	145	2e-18	67.4
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_002929|Bordetella_pertussis_Tohama_I|BP1399|fliJ|1473484|1473931|-1|Protein|flaO:flaS|65.1	29.91	107	75	0	38	144	38	144	9e-17	62.4
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_003143|Yersinia_pestis_CO92|YPO1826|fliJ|2071647|2072094|-1|Protein|flaS:fliJ|47.9	27.36	106	77	0	33	138	33	138	9e-10	42.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_004757|Nitrosomonas_europaea_ATCC_19718|NE2087|fliJ|2270036|2270489|1|Protein|NONE|51.9	28.81	118	84	0	30	147	30	147	3e-09	41.2
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_002947|Pseudomonas_putida_KT2440|PP_4365|fliJ|4954920|4955373|-1|Protein|NONE|65.6	25.89	112	82	1	36	147	39	149	1e-08	39.7
+NC_004347|Shewanella_oneidensis_MR-1|SO_3224|fliJ|3362838|3363282|-1|Protein|NONE|44.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1942|fliJ|2015969|2016413|1|Protein|ECK1940:flaO:JW1926|51.6	23.68	114	87	0	32	145	32	145	1e-08	39.7

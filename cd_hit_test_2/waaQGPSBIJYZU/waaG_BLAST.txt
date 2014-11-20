@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3631|rfaG|3803965|3805090|-1|Protein|ECK3621:JW3606:waaG|44.8
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3631|rfaG|3803965|3805090|-1|Protein|ECK3621:JW3606:waaG|44.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3631|rfaG|3803965|3805090|-1|Protein|ECK3621:JW3606:waaG|44.8	100.00	374	0	0	1	374	1	374	0.0	 783
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3631|rfaG|3803965|3805090|-1|Protein|ECK3621:JW3606:waaG|44.8	NC_002947|Pseudomonas_putida_KT2440|PP_0343|waaG|416289|417414|1|Protein|NONE|62.7	51.08	370	181	0	1	370	1	370	4e-141	 399
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_0343|waaG|416289|417414|1|Protein|NONE|62.7
+# Database: cd_hit_test_2/waaQGPSBIJYZU/waaG_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_0343|waaG|416289|417414|1|Protein|NONE|62.7	NC_002947|Pseudomonas_putida_KT2440|PP_0343|waaG|416289|417414|1|Protein|NONE|62.7	100.00	374	0	0	1	374	1	374	0.0	 699
+NC_002947|Pseudomonas_putida_KT2440|PP_0343|waaG|416289|417414|1|Protein|NONE|62.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3631|rfaG|3803965|3805090|-1|Protein|ECK3621:JW3606:waaG|44.8	51.08	370	181	0	1	370	1	370	9e-125	 357

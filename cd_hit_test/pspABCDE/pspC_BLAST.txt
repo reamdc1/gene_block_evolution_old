@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3
+# Database: cd_hit_test/pspABCDE/pspC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	100.00	119	0	0	1	119	1	119	1e-87	 242
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	54.62	119	54	0	1	119	1	119	5e-49	 144
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	34.15	123	71	1	7	119	6	128	3e-23	77.8
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	33.33	129	68	2	7	119	3	129	7e-23	77.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6
+# Database: cd_hit_test/pspABCDE/pspC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	100.00	119	0	0	1	119	1	119	6e-88	 243
+NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	54.62	119	54	0	1	119	1	119	5e-49	 144
+NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	34.11	129	71	3	5	119	1	129	3e-22	75.1
+NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	34.40	125	66	4	8	119	7	128	2e-19	67.8
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9
+# Database: cd_hit_test/pspABCDE/pspC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	100.00	129	0	0	1	129	1	129	2e-97	 268
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	43.75	128	68	1	2	129	5	128	2e-38	 117
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	33.33	129	68	2	3	129	7	119	8e-23	77.0
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	34.11	129	71	3	1	129	5	119	3e-22	75.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9
+# Database: cd_hit_test/pspABCDE/pspC_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	100.00	128	0	0	1	128	1	128	8e-95	 261
+NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	NC_004459|Vibrio_vulnificus_CMCP6|VV1_2877|pspC|2945363|2945753|-1|Protein|NONE|44.9	43.75	128	68	1	5	128	2	129	2e-38	 117
+NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1306|pspC|1367048|1367408|1|Protein|ECK1301:JW1299|50.3	34.15	123	71	1	6	128	7	119	3e-23	77.8
+NC_004347|Shewanella_oneidensis_MR-1|SO_1809|pspC|1898757|1899144|1|Protein|NONE|43.9	NC_003143|Yersinia_pestis_CO92|YPO2349|pspC|2643500|2643860|-1|Protein|NONE|50.6	34.40	125	66	4	7	128	8	119	2e-19	67.8

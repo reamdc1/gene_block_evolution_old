@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2706|gutM|2826642|2827002|1|Protein|ECK2701:JW2675:srlM|55.0
+# Database: cd_hit_test_2/srlAEBD-gutM-srlR-gutQ/gutM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2706|gutM|2826642|2827002|1|Protein|ECK2701:JW2675:srlM|55.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2706|gutM|2826642|2827002|1|Protein|ECK2701:JW2675:srlM|55.0	100.00	119	0	0	1	119	1	119	3e-77	 215
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2706|gutM|2826642|2827002|1|Protein|ECK2701:JW2675:srlM|55.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1967|gutM|2205179|2205548|-1|Protein|NONE|34.7	44.55	110	61	0	5	114	7	116	1e-28	90.9
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1967|gutM|2205179|2205548|-1|Protein|NONE|34.7
+# Database: cd_hit_test_2/srlAEBD-gutM-srlR-gutQ/gutM_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1967|gutM|2205179|2205548|-1|Protein|NONE|34.7	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1967|gutM|2205179|2205548|-1|Protein|NONE|34.7	100.00	122	0	0	1	122	1	122	8e-90	 247
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1967|gutM|2205179|2205548|-1|Protein|NONE|34.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2706|gutM|2826642|2827002|1|Protein|ECK2701:JW2675:srlM|55.0	43.75	112	63	0	5	116	3	114	4e-36	 110

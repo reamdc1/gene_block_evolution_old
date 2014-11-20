@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S2679|hyfF|2573106|2574693|1|Protein|NONE|54.2
+# Database: cd_hit_test_2/hyfABCDEFGHIJR-focB/hyfF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S2679|hyfF|2573106|2574693|1|Protein|NONE|54.2	NC_004741|Shigella_flexneri_2a_str._2457T|S2679|hyfF|2573106|2574693|1|Protein|NONE|54.2	100.00	528	0	0	1	528	1	528	0.0	 896
+NC_004741|Shigella_flexneri_2a_str._2457T|S2679|hyfF|2573106|2574693|1|Protein|NONE|54.2	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6342|hyfF|6988596|6990048|1|Protein|NONE|60.4	39.52	420	248	3	67	486	59	472	4e-85	 264
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6342|hyfF|6988596|6990048|1|Protein|NONE|60.4
+# Database: cd_hit_test_2/hyfABCDEFGHIJR-focB/hyfF_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6342|hyfF|6988596|6990048|1|Protein|NONE|60.4	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6342|hyfF|6988596|6990048|1|Protein|NONE|60.4	100.00	483	0	0	1	483	1	483	0.0	 803
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6342|hyfF|6988596|6990048|1|Protein|NONE|60.4	NC_004741|Shigella_flexneri_2a_str._2457T|S2679|hyfF|2573106|2574693|1|Protein|NONE|54.2	41.93	353	203	1	59	409	67	419	6e-84	 261

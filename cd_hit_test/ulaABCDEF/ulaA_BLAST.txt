@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO2782|ulaA|3115932|3117189|-1|Protein|NONE|48.3
+# Database: cd_hit_test/ulaABCDEF/ulaA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO2782|ulaA|3115932|3117189|-1|Protein|NONE|48.3	NC_003143|Yersinia_pestis_CO92|YPO2782|ulaA|3115932|3117189|-1|Protein|NONE|48.3	100.00	418	0	0	1	418	1	418	0.0	 744
+NC_003143|Yersinia_pestis_CO92|YPO2782|ulaA|3115932|3117189|-1|Protein|NONE|48.3	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0764|ulaA|900778|902569|1|Protein|sgaT|40.0	29.87	308	206	3	31	332	35	338	1e-41	 143
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0764|ulaA|900778|902569|1|Protein|sgaT|40.0
+# Database: cd_hit_test/ulaABCDEF/ulaA_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0764|ulaA|900778|902569|1|Protein|sgaT|40.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0764|ulaA|900778|902569|1|Protein|sgaT|40.0	100.00	596	0	0	1	596	1	596	0.0	1146
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0764|ulaA|900778|902569|1|Protein|sgaT|40.0	NC_003143|Yersinia_pestis_CO92|YPO2782|ulaA|3115932|3117189|-1|Protein|NONE|48.3	30.58	412	268	6	6	410	2	402	3e-45	 155

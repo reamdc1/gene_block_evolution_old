@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3583|yiaS|3748108|3748804|1|Protein|ECK3572:JW3555:sgbE|57.3
+# Database: cd_hit_test/yiaKLMNO-lyxK-sgbHUE/sgbE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3583|yiaS|3748108|3748804|1|Protein|ECK3572:JW3555:sgbE|57.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3583|yiaS|3748108|3748804|1|Protein|ECK3572:JW3555:sgbE|57.3	100.00	231	0	0	1	231	1	231	5e-168	 454

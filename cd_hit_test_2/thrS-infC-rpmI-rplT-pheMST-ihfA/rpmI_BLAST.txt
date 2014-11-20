@@ -1,0 +1,117 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	100.00	65	0	0	1	65	1	65	1e-37	 111
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	56.25	64	28	0	1	64	1	64	3e-16	56.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	54.69	64	29	0	1	64	1	64	5e-16	55.8
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	50.77	65	32	0	1	65	1	65	2e-14	51.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	40.00	65	39	0	1	65	1	65	7e-13	47.4
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	39.39	66	39	1	1	65	1	66	2e-10	40.4
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	48.39	62	31	1	1	62	1	61	3e-09	37.0
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	43.55	62	34	1	1	62	1	61	2e-08	35.0
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	41.54	65	37	1	1	65	1	64	2e-07	31.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	100.00	66	0	0	1	66	1	66	1e-45	 132
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	56.72	67	28	1	1	66	1	67	6e-24	76.6
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	43.08	65	37	0	1	65	1	65	3e-13	48.5
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	40.00	65	39	0	1	65	1	65	7e-13	47.4
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	42.19	64	37	0	1	64	1	64	3e-11	42.7
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	39.06	64	39	0	1	64	1	64	6e-11	42.0
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	48.33	60	29	2	1	59	1	59	4e-10	39.7
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	48.72	39	19	1	1	39	1	38	4e-06	28.1
+NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	33.87	62	40	1	1	62	1	61	6e-06	28.1
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	100.00	65	0	0	1	65	1	65	6e-45	 130
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	56.45	62	26	1	1	62	1	61	4e-19	63.9
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	48.44	64	33	0	1	64	1	64	4e-18	61.2
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	46.88	64	34	0	1	64	1	64	8e-17	57.8
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	50.77	65	32	0	1	65	1	65	2e-14	51.2
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	51.61	62	29	1	1	62	1	61	3e-14	51.2
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	43.08	65	37	0	1	65	1	65	3e-13	48.5
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	44.62	65	35	1	1	65	1	64	3e-12	45.4
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	52.00	50	24	0	1	50	1	50	8e-12	44.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	100.00	67	0	0	1	67	1	67	7e-46	 132
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	56.72	67	28	1	1	67	1	66	6e-24	76.6
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	52.00	50	24	0	1	50	1	50	8e-12	44.3
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	37.50	64	39	1	1	64	1	63	1e-10	41.2
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	39.39	66	39	1	1	66	1	65	2e-10	40.4
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	41.54	65	35	2	1	64	1	63	3e-10	40.0
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	46.55	58	30	1	1	58	1	57	3e-09	37.4
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	35.00	60	38	1	1	60	1	59	8e-06	27.3
+NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	43.59	39	21	1	1	39	1	38	1e-04	24.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	100.00	65	0	0	1	65	1	65	4e-42	 122
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	49.23	65	33	0	1	65	1	65	6e-19	63.5
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	48.44	64	33	0	1	64	1	64	4e-18	61.2
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	54.69	64	29	0	1	64	1	64	5e-16	55.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	48.39	62	31	1	1	62	1	61	9e-14	49.7
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	39.06	64	39	0	1	64	1	64	6e-11	42.0
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	37.50	64	39	1	1	63	1	64	1e-10	41.2
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	56.82	44	18	1	1	44	1	43	1e-10	40.8
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	43.55	62	34	1	1	62	1	61	3e-10	39.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	100.00	65	0	0	1	65	1	65	6e-46	 132
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	49.23	65	33	0	1	65	1	65	6e-19	63.5
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	54.84	62	27	1	1	62	1	61	3e-18	61.6
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	46.88	64	34	0	1	64	1	64	8e-17	57.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	56.25	64	28	0	1	64	1	64	3e-16	56.2
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	46.77	62	32	1	1	62	1	61	3e-14	50.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	46.77	62	32	1	1	62	1	61	4e-13	47.8
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	42.19	64	37	0	1	64	1	64	3e-11	42.7
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	41.54	65	35	2	1	63	1	64	3e-10	40.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	100.00	64	0	0	1	64	1	64	2e-43	 126
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	56.45	62	26	1	1	61	1	62	4e-19	63.9
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	54.84	62	27	1	1	61	1	62	3e-18	61.6
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	50.82	61	30	0	1	61	1	61	8e-16	55.1
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	49.18	61	31	0	1	61	1	61	4e-15	53.1
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	48.39	62	31	1	1	61	1	62	8e-14	49.7
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	48.33	60	29	2	1	59	1	59	4e-10	39.7
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	46.55	58	30	1	1	57	1	58	2e-09	37.4
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	48.39	62	31	1	1	61	1	62	3e-09	37.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	100.00	64	0	0	1	64	1	64	1e-43	 126
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	58.73	63	26	0	1	63	1	63	3e-23	74.3
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	49.18	61	31	0	1	61	1	61	4e-15	53.1
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	46.77	62	32	1	1	61	1	62	4e-13	47.8
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	44.62	65	35	1	1	64	1	65	3e-12	45.4
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	56.82	44	18	1	1	43	1	44	1e-10	40.8
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	41.54	65	37	1	1	64	1	65	2e-07	31.6
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	48.72	39	19	1	1	38	1	39	4e-06	28.1
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	43.59	39	21	1	1	38	1	39	1e-04	24.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9
+# Database: cd_hit_test_2/thrS-infC-rpmI-rplT-pheMST-ihfA/rpmI_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	100.00	63	0	0	1	63	1	63	2e-42	 123
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_005090|Wolinella_succinogenes_DSM_1740|WS0822|rpmI|778792|778987|1|Protein|NONE|44.6	58.73	63	26	0	1	63	1	63	3e-23	74.3
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_2380|rpmI|2629900|2630095|1|Protein|NONE|49.7	50.82	61	30	0	1	61	1	61	7e-16	55.1
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_1350|rpmI|1422959|1423157|1|Protein|NONE|57.1	51.61	62	29	1	1	61	1	62	2e-14	51.2
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_1652|rpmI|1988071|1988269|1|Protein|NONE|61.6	46.77	62	32	1	1	61	1	62	3e-14	50.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl353|rpmI|390530|390728|1|Protein|NONE|26.3	43.55	62	34	1	1	61	1	62	3e-10	39.7
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_125|rpmI|133034|133232|1|Protein|NONE|28.8	43.55	62	34	1	1	61	1	62	1e-08	35.0
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_002696|Caulobacter_crescentus_CB15|CC_1046|rpmI|1177806|1178007|-1|Protein|NONE|61.7	33.87	62	40	1	1	61	1	62	5e-06	28.1
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0244|rpmI|226115|226307|1|Protein|NONE|33.9	NC_002678|Mesorhizobium_loti_MAFF303099|msl5059|rpmI|4008212|4008416|-1|Protein|NONE|54.9	35.00	60	38	1	1	59	1	60	8e-06	27.3

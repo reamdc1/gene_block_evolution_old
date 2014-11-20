@@ -1,0 +1,45 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6
+# Database: cd_hit_test/cysPUWAM/cysW_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	100.00	291	0	0	1	291	1	291	0.0	 549
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	61.13	265	103	0	13	277	18	282	2e-116	 330
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	59.53	215	87	0	37	251	35	249	7e-96	 277
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	51.84	272	131	0	8	279	17	288	5e-90	 264
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	47.04	304	142	6	2	288	16	317	8e-73	 219
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3
+# Database: cd_hit_test/cysPUWAM/cysW_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	100.00	276	0	0	1	276	1	276	0.0	 507
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	60.19	211	84	0	35	245	37	247	1e-94	 274
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	56.52	230	100	0	16	245	27	256	3e-94	 274
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	50.23	219	109	0	27	245	34	252	3e-81	 239
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	50.93	216	92	2	43	244	62	277	6e-77	 229
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6
+# Database: cd_hit_test/cysPUWAM/cysW_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	100.00	285	0	0	1	285	1	285	0.0	 541
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	60.90	266	104	0	17	282	12	277	2e-117	 333
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	48.99	247	126	0	34	280	27	273	1e-83	 246
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	45.76	236	128	0	22	257	26	261	6e-77	 230
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	41.20	284	153	2	11	280	23	306	4e-64	 197
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4
+# Database: cd_hit_test/cysPUWAM/cysW_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	100.00	326	0	0	1	326	1	326	0.0	 549
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	66.01	253	70	2	53	290	61	312	3e-98	 286
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	56.52	230	100	0	27	256	16	245	7e-94	 273
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	54.98	231	104	0	26	256	17	247	7e-88	 259
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	45.89	231	125	0	26	256	22	252	2e-75	 226
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7
+# Database: cd_hit_test/cysPUWAM/cysW_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	100.00	317	0	0	1	317	1	317	0.0	 520
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	NC_003295|Ralstonia_solanacearum_GMI1000|RSc1346|cysW|1432465|1433446|1|Protein|NONE|68.4	60.14	276	88	4	1	276	1	254	1e-96	 282
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1374|cysW|1310936|1311767|-1|Protein|NONE|56.3	51.18	211	89	2	66	276	47	243	1e-75	 226
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2423|cysW|2538825|2539701|-1|Protein|ECK2418:JW2416|56.6	48.66	261	117	5	16	276	2	245	2e-69	 211
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC1019|cysW|1174781|1175735|1|Protein|NONE|62.7	NC_005061|Candidatus_Blochmannia_floridanus|Bfl512|cysW|568768|569626|-1|Protein|NONE|28.6	40.94	254	136	2	23	276	11	250	3e-60	 187

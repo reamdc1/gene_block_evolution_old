@@ -1,0 +1,40 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	100.00	475	0	0	1	475	1	475	0.0	 909
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	38.88	499	272	7	2	469	1	497	6e-76	 239
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	40.99	283	166	1	3	285	1	282	5e-54	 174
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	36.54	104	66	0	362	465	161	264	7e-22	84.0
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	39.93	283	165	4	6	286	3	282	8e-46	 152
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	34.68	124	79	1	350	473	148	269	2e-20	79.7
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	100.00	282	0	0	1	282	1	282	0.0	 552
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	54.12	279	128	0	3	281	4	282	4e-104	 298
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	39.93	283	165	4	3	282	6	286	1e-55	 179
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	34.68	124	79	1	148	269	350	473	1e-20	79.3
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	38.93	280	170	1	3	281	5	284	1e-54	 176
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	36.27	102	64	1	168	268	397	498	4e-16	66.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	100.00	282	0	0	1	282	1	282	0.0	 551
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	54.12	279	128	0	4	282	3	281	4e-112	 318
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	40.99	283	166	1	1	282	3	285	3e-70	 217
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	36.54	104	66	0	161	264	362	465	4e-22	84.3
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	40.78	282	164	3	3	282	4	284	5e-60	 191
+NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	37.93	87	54	0	183	269	412	498	2e-15	64.3
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7
+# Database: cd_hit_test_2/paaABCDEFGHIJK/paaH_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	100.00	504	0	0	1	504	1	504	0.0	 870
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b1395|paaH|1457077|1458505|1|Protein|ECK1392:JW1390:ydbU|53.2	38.88	499	272	7	1	497	2	469	3e-70	 224
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	42.29	201	113	3	85	284	84	282	4e-41	 139
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_002947|Pseudomonas_putida_KT2440|PP_3755|paaH|4284593|4285442|1|Protein|NONE|63.7	37.93	87	54	0	412	498	183	269	4e-15	63.9
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	38.81	201	122	1	84	284	82	281	2e-37	 129
+NC_002927|Bordetella_bronchiseptica_RB50|BB4583|paaH|4880349|4881864|-1|Protein|NONE|70.7	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_2086|paaH|2272509|2273358|-1|Protein|NONE|64.3	36.27	102	64	1	397	498	168	268	9e-16	65.9

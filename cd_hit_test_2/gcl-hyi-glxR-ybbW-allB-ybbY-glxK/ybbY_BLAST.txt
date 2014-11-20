@@ -1,0 +1,5 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0513|ybbY|539788|541090|1|Protein|ECK0506:glxB4:JW0501|51.2
+# Database: cd_hit_test_2/gcl-hyi-glxR-ybbW-allB-ybbY-glxK/ybbY_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0513|ybbY|539788|541090|1|Protein|ECK0506:glxB4:JW0501|51.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b0513|ybbY|539788|541090|1|Protein|ECK0506:glxB4:JW0501|51.2	100.00	433	0	0	1	433	1	433	0.0	 775

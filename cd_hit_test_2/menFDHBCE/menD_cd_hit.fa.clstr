@@ -1,0 +1,13 @@
+>Cluster 0
+0	573aa, >NC_004347|Shewanell... *
+>Cluster 1
+0	568aa, >NC_000907|Haemophil... *
+1	568aa, >NC_002663|Pasteurel... at 75.00%
+>Cluster 2
+0	556aa, >NC_000913|Escherich... at 70.32%
+1	567aa, >NC_003143|Yersinia_... *
+2	556aa, >NC_003198|Salmonell... at 69.24%
+3	556aa, >NC_003197|Salmonell... at 69.24%
+4	556aa, >NC_004741|Shigella_... at 70.14%
+>Cluster 3
+0	564aa, >NC_004459|Vibrio_vu... *

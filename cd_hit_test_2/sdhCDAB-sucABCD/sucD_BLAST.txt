@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sucD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	100.00	300	0	0	1	300	1	300	0.0	 550
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	57.28	302	116	4	1	298	1	293	3e-105	 302
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	51.51	299	134	4	1	298	1	289	3e-98	 284
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	51.68	298	134	3	1	298	1	288	8e-95	 275
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sucD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	100.00	296	0	0	1	296	1	296	0.0	 595
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	55.71	289	127	1	1	289	1	288	3e-113	 322
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	51.88	293	137	2	1	289	1	293	3e-108	 309
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	51.51	299	134	4	1	289	1	298	1e-100	 290
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sucD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	100.00	293	0	0	1	293	1	293	0.0	 560
+NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	57.28	302	116	4	1	293	1	298	3e-108	 310
+NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	51.88	293	137	2	1	293	1	289	1e-103	 298
+NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	48.30	294	145	3	1	293	1	288	2e-91	 266
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4
+# Database: cd_hit_test_2/sdhCDAB-sucABCD/sucD_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	100.00	289	0	0	1	289	1	289	0.0	 510
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	NC_005061|Candidatus_Blochmannia_floridanus|Bfl334|sucD|371160|372051|1|Protein|NONE|30.9	55.71	289	127	1	1	288	1	289	2e-103	 297
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	NC_003062|Agrobacterium_fabrum_str._C58|Atu2637|sucD|2622647|2623550|-1|Protein|NONE|61.5	51.68	298	134	3	1	288	1	298	1e-86	 254
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0534|sucD|498353|499223|1|Protein|NONE|37.4	NC_002928|Bordetella_parapertussis_12822|BPP2639|sucD|2839019|2839901|1|Protein|NONE|64.4	48.30	294	145	3	1	288	1	293	2e-85	 251

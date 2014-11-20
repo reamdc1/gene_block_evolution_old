@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2079|baeR|2162299|2163022|1|Protein|ECK2075:JW2064|54.1
+# Database: cd_hit_test_2/mdtABCD-baeSR/baeR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2079|baeR|2162299|2163022|1|Protein|ECK2075:JW2064|54.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2079|baeR|2162299|2163022|1|Protein|ECK2075:JW2064|54.1	100.00	240	0	0	1	240	1	240	1e-165	 450
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2079|baeR|2162299|2163022|1|Protein|ECK2075:JW2064|54.1	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2803|baeR|3286707|3287397|1|Protein|NONE|64.5	40.09	227	129	3	12	233	5	229	1e-39	 127
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2803|baeR|3286707|3287397|1|Protein|NONE|64.5
+# Database: cd_hit_test_2/mdtABCD-baeSR/baeR_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2803|baeR|3286707|3287397|1|Protein|NONE|64.5	NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2803|baeR|3286707|3287397|1|Protein|NONE|64.5	100.00	229	0	0	1	229	1	229	5e-169	 457
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC2803|baeR|3286707|3287397|1|Protein|NONE|64.5	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b2079|baeR|2162299|2163022|1|Protein|ECK2075:JW2064|54.1	40.09	227	129	3	5	229	12	233	9e-49	 151

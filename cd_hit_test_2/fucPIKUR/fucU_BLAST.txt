@@ -1,0 +1,12 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1337|fucU|1298461|1298884|-1|Protein|NONE|54.4
+# Database: cd_hit_test_2/fucPIKUR/fucU_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1337|fucU|1298461|1298884|-1|Protein|NONE|54.4	NC_004310|Brucella_suis_1330|BR1337|fucU|1298461|1298884|-1|Protein|NONE|54.4	100.00	140	0	0	1	140	1	140	1e-101	 279
+NC_004310|Brucella_suis_1330|BR1337|fucU|1298461|1298884|-1|Protein|NONE|54.4	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0612|fucU|643445|643880|-1|Protein|NONE|39.3	41.43	140	79	1	1	137	1	140	8e-32	 100
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0612|fucU|643445|643880|-1|Protein|NONE|39.3
+# Database: cd_hit_test_2/fucPIKUR/fucU_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0612|fucU|643445|643880|-1|Protein|NONE|39.3	NC_000907|Haemophilus_influenzae_Rd_KW20|HI0612|fucU|643445|643880|-1|Protein|NONE|39.3	100.00	144	0	0	1	144	1	144	5e-107	 293
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0612|fucU|643445|643880|-1|Protein|NONE|39.3	NC_004310|Brucella_suis_1330|BR1337|fucU|1298461|1298884|-1|Protein|NONE|54.4	41.43	140	79	1	1	140	1	137	8e-32	 100

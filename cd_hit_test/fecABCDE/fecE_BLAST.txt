@@ -1,0 +1,32 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0
+# Database: cd_hit_test/fecABCDE/fecE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	100.00	255	0	0	1	255	1	255	0.0	 494
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	53.73	255	118	0	1	255	1	255	5e-93	 268
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	41.88	234	136	0	2	235	6	239	3e-57	 175
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	30.36	224	140	7	3	223	5	215	5e-26	92.0
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2
+# Database: cd_hit_test/fecABCDE/fecE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	100.00	255	0	0	1	255	1	255	3e-166	 453
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	41.88	234	136	0	6	239	2	235	2e-52	 163
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	39.17	240	146	0	6	245	2	241	4e-44	 141
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	32.93	167	98	4	7	170	5	160	2e-26	93.2
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8
+# Database: cd_hit_test/fecABCDE/fecE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	100.00	243	0	0	1	243	1	243	0.0	 498
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	31.19	218	135	5	5	210	7	221	5e-31	 105
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	30.36	224	140	7	5	215	3	223	3e-27	95.5
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	27.93	222	141	8	5	212	3	219	2e-21	78.6
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1
+# Database: cd_hit_test/fecABCDE/fecE_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	100.00	257	0	0	1	257	1	257	0.0	 508
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b4287|fecE|4508712|4509480|-1|Protein|ECK4277:JW4247|54.0	53.73	255	118	0	1	255	1	255	8e-98	 280
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_3899|fecE|4209331|4210099|1|Protein|NONE|73.2	39.17	240	146	0	2	241	6	245	4e-53	 165
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM0128|fecE|152145|152919|-1|Protein|NONE|41.1	NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1759|fecE|1682407|1683139|-1|Protein|NONE|34.8	27.93	222	141	8	3	219	5	212	2e-21	78.6

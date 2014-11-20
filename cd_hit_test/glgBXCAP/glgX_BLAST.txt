@@ -1,0 +1,60 @@
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	100.00	662	0	0	1	662	1	662	0.0	1370
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	48.22	674	314	10	1	658	2	656	0.0	 626
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	47.77	651	309	10	4	627	3	649	0.0	 600
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	47.05	627	306	8	4	609	26	647	0.0	 556
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	48.13	615	291	9	4	595	9	618	0.0	 545
+NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	45.02	693	311	13	4	632	17	703	0.0	 539
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	100.00	727	0	0	1	727	1	727	0.0	1443
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	53.23	697	314	6	25	719	2	688	0.0	 729
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	52.58	658	306	2	23	678	6	659	0.0	 701
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	48.91	736	331	7	23	719	14	743	0.0	 666
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	47.71	612	294	8	26	632	4	594	0.0	 529
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	41.42	664	330	13	29	678	8	626	3e-162	 478
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	100.00	659	0	0	1	659	1	659	0.0	1338
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	48.22	674	314	10	2	656	1	658	0.0	 588
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	42.88	674	333	13	8	641	6	667	8e-170	 497
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	41.42	664	330	13	8	626	29	678	7e-162	 477
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	42.77	664	312	13	4	606	6	662	4e-160	 474
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	41.82	660	331	14	8	626	12	659	2e-156	 462
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	100.00	706	0	0	1	706	1	706	0.0	1339
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	53.49	630	286	3	22	647	39	665	0.0	 686
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	53.96	632	284	5	22	652	16	641	0.0	 663
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	49.19	683	311	5	4	653	12	691	0.0	 627
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	47.84	602	286	9	22	618	17	595	2e-178	 519
+NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	42.36	635	317	11	26	652	26	619	3e-161	 475
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	100.00	750	0	0	1	750	1	750	0.0	1557
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	48.91	736	331	7	14	743	23	719	0.0	 688
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	47.78	720	339	7	17	735	3	686	0.0	 652
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	49.20	685	308	6	12	691	4	653	0.0	 651
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	46.96	641	285	12	17	651	4	595	0.0	 531
+NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	42.77	664	312	13	6	662	4	606	9e-171	 501
+# BLASTP 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9
+# Database: cd_hit_test/glgBXCAP/glgX_cd_hit.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	100.00	692	0	0	1	692	1	692	0.0	1397
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_3130|glgX|3519307|3521491|1|Protein|NONE|58.9	53.23	697	314	6	2	688	25	719	0.0	 728
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_002929|Bordetella_pertussis_Tohama_I|BP1327|glgX|1395323|1397444|-1|Protein|NONE|72.8	52.99	668	305	6	2	663	8	672	0.0	 673
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_004347|Shewanella_oneidensis_MR-1|SO_1495|glgX|1562510|1564763|1|Protein|NONE|50.1	47.78	720	339	7	3	686	17	735	0.0	 635
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_003143|Yersinia_pestis_CO92|YPO3941|glgX|4428397|4430386|-1|Protein|NONE|53.7	49.27	613	286	9	3	611	4	595	0.0	 585
+NC_004463|Bradyrhizobium_japonicum_USDA_110|blr6769|glgX|7460949|7463028|1|Protein|NONE|64.9	NC_000907|Haemophilus_influenzae_Rd_KW20|HI1358|glgX|1439070|1441050|1|Protein|NONE|41.5	42.35	673	338	12	6	667	8	641	1e-177	 517
