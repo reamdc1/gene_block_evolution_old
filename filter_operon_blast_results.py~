@@ -5,6 +5,7 @@ import time
 import os
 import sys
 import argparse
+import math
 from homolog4 import *
 from collections import defaultdict
 import itertools
@@ -18,14 +19,17 @@ def parser_code():
 
     parser = argparse.ArgumentParser(description="This program will be used to remove spurious results from a BLAST search organized by operon.  The result will be the basis of the database for GBEER and for other anaylsis.")
                 
-    parser.add_argument("-i", "--infolder", dest="infolder", default='./blast_result/', metavar="FOLDER",
+    ##parser.add_argument("-i", "--infolder", dest="infolder", default='./blast_result/', metavar="FOLDER",
+    ##           help="A folder that contains the operon BLAST results.")
+    
+    parser.add_argument("-i", "--infolder", dest="infolder", default='./intermediate_for_debug/unfiltered_operon/', metavar="FOLDER",
                 help="A folder that contains the operon BLAST results.")
     
     parser.add_argument("-o", "--outfolder", dest="outfolder", metavar="FOLDER", default='./optimized_operon/',
                 help="Folder where the filtered results will be stored. Default is the folder './optimized_operon/'.")
 
     parser.add_argument("-f", "--filter", dest="filter", default='', metavar="FILE",
-                help="A file that contains the accession numbers of the organisms that are under investigation.  All others will be omitted from analysis an results.")            
+                help="A file that contains the operons that are under investigation.  All others will be omitted from analysis an results.")            
     
     parser.add_argument("-n", "--num_proc", dest="num_proc", metavar="INT", default = os.sysconf("SC_NPROCESSORS_CONF"), type=int,
                 help="Number of processors that you want this script to run on. The default is every CPU that the system has.")
@@ -33,7 +37,7 @@ def parser_code():
     parser.add_argument("-e", "--eval", dest="eval", default='1e-10', metavar="FLOAT", type=float,
                 help="Use this option to change the eval for the BLAST search that is permitted. Useful if you would like to investigate what altering the eval threshold will do to your results.")
                 
-    parser.add_argument("-g", "--max_gap", dest="maw_gap", metavar="INT", default = 500, type=int,
+    parser.add_argument("-g", "--max_gap", dest="max_gap", metavar="INT", default = 500, type=int,
                 help="Largest allowable gap to be considered a gene block by the analysis.")
                 
     return parser.parse_args()
@@ -82,7 +86,7 @@ def check_options(parsed_args):
         if max_gap <= 0:
            print "The gap that you entered %s is a negative number, please enter a positive integer." % parsed_args.max_gap
            sys.exit()
-       else:
+        else:
            pass
     except:
         print "The gap that you entered %s is not an integer, please enter a positive integer." % parsed_args.max_gap
@@ -210,12 +214,97 @@ def filter_eval(fname, e_val):
 
 # The purpose of this function is to take a list of homologs, that have been e_val (or potenitally another means) filtered.
 # The return is all homologs from organisms that contain at least one neighborhood defined by max_gap.
-def return_valid_organism_homologs():
+def return_valid_organism_homologs(hlog_list, max_gap):
     result = []
     
     org_dict = {}
     
+    # Stage 1:  read the list of homologs in, and organize based on accession.  Each accession will have a list of homologs for a given operon.
+    # Prior to this, the program does not sort the output.
+    # This section has been tested and validated to the best of my abilities.
+    print len(hlog_list)
+    for item in hlog_list:
+        accession = item.accession()
+        print accession
+        if accession in org_dict.keys():
+            org_dict[accession].append(item)
+        else:
+            org_dict.update({accession:[item]})
     
+    
+    # Stage 2: Sort the list of homologs for each organism.  Determine gene blocks based on the max_gap criterion, 
+    # and reject organisms without a gene block.  
+    # This section has been tested, but not extensively.  Famous last words: it would be tough to screw this up however.
+    for accession in sorted(org_dict.keys()):
+        h_list = org_dict.pop(accession)
+        h_list.sort(key=lambda x: x.start())
+        org_dict.update({accession:h_list})
+    
+    # Stage 3: Organize the homologs into neighborhoods.  We will not remove any organisms at this time, we will do this in
+    # the next step where appropriate.
+    for accession in sorted(org_dict.keys()):
+        hlist = org_dict.pop(accession)
+        gene_block_list, origional_list = group_homologs(hlist, max_gap)
+        
+        #the following line needs to be removed, debugging purposes only
+        org_dict.update({accession:h_list})
+    
+    
+    print org_dict.keys()
+    for h_log in org_dict['NC_000913']:
+        print h_log.blast_annatation(), h_log.start(), gene_block_list
+    
+    return result
+
+# I think this version is more readable than those i have made in the past. 
+# It can take either a sorted, or unsorted list of homologs.   
+def group_homologs(list_homologs, max_gap):
+    # The gene_block_list contains a list of lists.  each list element contains genes that are no more than max_gap away.
+    gene_block_list = []
+    gene_block = []
+    ungrouped = True
+    
+    # Step 1: Sort the input list by the start position of the ORF
+    list_homologs.sort(key=lambda x: x.start())
+    
+    for item in list_homologs:
+        print item.accession(), item.start()
+    
+    # Step 2: Group homologs into gene blocks as defined my max_gap, and report these groups.
+    for i in range(0, len(list_homologs)-1):
+        #look at current
+        start = list_homologs[i].start()
+        stop = list_homologs[i].stop()
+        # look at next
+        start_n = list_homologs[i+1].start()
+        stop_n = list_homologs[i+1].stop()
+        
+        if math.fabs(start - stop_n) < max_gap or math.fabs(stop - start_n) < max_gap:
+            if ungrouped:
+                gene_block.append(list_homologs[i])
+                gene_block.append(list_homologs[i+1])
+                ungrouped = False
+            else:
+                gene_block.append(list_homologs[i+1])
+        else: # get ready for next possible set of matches (in a segmented OTU)
+            ungrouped = True
+            if len(gene_block) > 0:
+                gene_block_list.append(gene_block)
+                gene_block = []
+            else:
+                gene_block_list.append([list_homologs[i]])
+    if ungrouped:
+        gene_block_list.append([list_homologs[len(list_homologs)-1]])
+    else:
+        gene_block_list.append(gene_block)
+        
+    # Here I return the gene block list (gene_block_list) and an in order list of genes, without grouping information.
+    # Both are useful, one for analysis, the other for saving as a file.
+    
+    # debug  
+    test = [[j for j in i] for i in gene_block_list if len(i) > 1] # this last one is only grouped homologs  
+
+    return gene_block_list, [[j for j in i] for i in gene_block_list if len(i) > 1] # this last one is only grouped homologs  
 
 
    
@@ -229,13 +318,27 @@ def main():
     print infolder, outfolder, filter_file, num_proc, e_val, max_gap
     
     file_list = return_file_list(infolder, filter_file)
-    #print len(file_list)
     
+    print file_list
+
+    '''
     # lets test evals
-    
     for fname in file_list:
         print "File size before", len(open(fname).readlines())
         print "File size after", len(filter_eval(fname, e_val))
+    '''
+    
+    #'''
+    for fname in file_list:
+        hlog_list = filter_eval(fname, e_val)
+        return_valid_organism_homologs(hlog_list, max_gap)
+    #'''
+    
+    # debug
+    #hlog_list = filter_eval('./blast_result/NC_000913.txt', e_val)
+    #return_valid_organism_homologs(hlog_list, max_gap)
+    
+    
     
     print time.time() - start
 

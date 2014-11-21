@@ -171,7 +171,7 @@ def parallel_blast_parse_dict(in_folder, out_folder, num_proc, filter_file, oper
         handle = open(outfile, 'w')
         
         for accession in result[operon].keys():
-        	handle.write('\n'.join(result[operon][accession]))
+        	handle.write('\n'.join(result[operon][accession]) + '\n')
         handle.close()
 
 # i have to figure out a better name for this function. The jist of what i am doing here is as follows:
