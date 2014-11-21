@@ -222,10 +222,10 @@ def return_valid_organism_homologs(hlog_list, max_gap):
     # Stage 1:  read the list of homologs in, and organize based on accession.  Each accession will have a list of homologs for a given operon.
     # Prior to this, the program does not sort the output.
     # This section has been tested and validated to the best of my abilities.
-    print len(hlog_list)
+    #print len(hlog_list)
     for item in hlog_list:
         accession = item.accession()
-        print accession
+        #print accession
         if accession in org_dict.keys():
             org_dict[accession].append(item)
         else:
@@ -242,17 +242,36 @@ def return_valid_organism_homologs(hlog_list, max_gap):
     
     # Stage 3: Organize the homologs into neighborhoods.  We will not remove any organisms at this time, we will do this in
     # the next step where appropriate.
+    # This is not completely tested, but appears to be working when tested against known cases.
+    
+    neighborhood_dict = {}
     for accession in sorted(org_dict.keys()):
         hlist = org_dict.pop(accession)
         gene_block_list, origional_list = group_homologs(hlist, max_gap)
+        neighborhood_dict.update({accession:gene_block_list})
+        
+    print sorted(neighborhood_dict.keys())
+        
         
         #the following line needs to be removed, debugging purposes only
-        org_dict.update({accession:h_list})
+        #org_dict.update({accession:h_list})
+        #if accession == 'NC_002696':
+        #    print "gene_block_list", gene_block_list
     
     
+    
+    
+    
+    '''
     print org_dict.keys()
-    for h_log in org_dict['NC_000913']:
-        print h_log.blast_annatation(), h_log.start(), gene_block_list
+    #NC_002696
+    #for h_log in org_dict['NC_000913']:
+    for h_log in org_dict['NC_002696']:
+        print h_log.blast_annatation(), h_log.start()
+    print '\t'.join([i.blast_annatation() for i in org_dict['NC_002696']])
+    
+        #print '\t'.join([i.blast_annatation() for i in org_dict['NC_000913']])
+    '''
     
     return result
 
@@ -267,8 +286,8 @@ def group_homologs(list_homologs, max_gap):
     # Step 1: Sort the input list by the start position of the ORF
     list_homologs.sort(key=lambda x: x.start())
     
-    for item in list_homologs:
-        print item.accession(), item.start()
+    #for item in list_homologs:
+    #    print item.accession(), item.start()
     
     # Step 2: Group homologs into gene blocks as defined my max_gap, and report these groups.
     for i in range(0, len(list_homologs)-1):
