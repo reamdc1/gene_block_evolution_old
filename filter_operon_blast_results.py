@@ -117,49 +117,6 @@ def MakeUnique(lst, function):#lambda a: a.start):
             result.append(item)
     return result
 
-# this function will take a list of homologs and return a list of lits
-# each element will be a list of grouped homologs. the criteria is that
-# each item will be no further than INTERGENIC_MAX_LEN away from its closest neighbor
-# strand is completely ignored for this function, though i do not know that is best.
-def GroupHomologs(list_homologs):
-    comprehensive_list = []
-    local_group = []
-    ungrouped = True
-    for i in range(0, len(list_homologs)-1):
-        #look at current
-        start = list_homologs[i].start
-        stop = list_homologs[i].stop
-        # look at next
-        start_n = list_homologs[i+1].start
-        stop_n = list_homologs[i+1].stop
-        
-        if math.fabs(start - stop_n) < INTERGENIC_MAX_LEN or math.fabs(stop - start_n) < INTERGENIC_MAX_LEN:
-            if ungrouped:
-                local_group.append(list_homologs[i])
-                local_group.append(list_homologs[i+1])
-                ungrouped = False
-            else:
-                local_group.append(list_homologs[i+1])
-        else: # get ready for next possible set of matches (in a segmented OTU)
-            ungrouped = True
-            if len(local_group) > 0:
-                comprehensive_list.append(local_group)
-                local_group = []
-            else:
-                comprehensive_list.append([list_homologs[i]])
-    if ungrouped:
-        comprehensive_list.append([list_homologs[len(list_homologs)-1]])
-    else:
-        comprehensive_list.append(local_group)
-    return comprehensive_list, [[j for j in i] for i in comprehensive_list if len(i) > 1] # this last one is only grouped homologs
-
-def LongestGroup(lst):
-    if len(lst) == 0:
-        return 0
-    else:
-        return max([len(i) for i in lst])
-
-
 
 # WARNING!!!!!!! NOT, not, NOT rigorously tested yet!!!!!!! (but appears to be working just fine)
 # Return a list of lists of homologs = [[],[]], number of splits, and number of duplications. 
@@ -211,6 +168,29 @@ def filter_eval(fname, e_val):
 
     return result
 
+def resolve_multiple_ORF_hits(hlist):
+    result = [hlist[0]]
+    
+    curr_homolog = hlist[0]
+    for next_homolog in hlist[1:]:
+        # we have multiple BLAST hits that share a ORF, resolve using e_val
+        if curr_homolog.start() == next_homolog.start():
+            # If current homolog has better eval 
+            if curr_homolog.e_val() <= next_homolog.e_val():
+                print curr_homolog.organism(), curr_homolog.locus(), "is duplicated"
+                pass
+            # The current homolog has a worse eval, remove for the better example
+            else:
+                result.pop(-1)
+                result.append(next_homolog)
+                print "This totally worked", next_homolog.organism()
+        else:
+            result.append(next_homolog)
+        # Now that we are done testing the current and next homolog against    
+        curr_homolog = next_homolog
+
+    return result
+
 
 # The purpose of this function is to take a list of homologs, that have been e_val (or potenitally another means) filtered.
 # The return is all homologs from organisms that contain at least one neighborhood defined by max_gap.
@@ -234,23 +214,43 @@ def return_valid_organism_homologs(hlog_list, max_gap):
     
     # Stage 2: Sort the list of homologs for each organism.  Determine gene blocks based on the max_gap criterion, 
     # and reject organisms without a gene block.  
-    # This section has been tested, but not extensively.  Famous last words: it would be tough to screw this up however.
+    # This section has been tested, but not extensively.  I have added resolve_multiple_ORF_hits which is untested.
     for accession in sorted(org_dict.keys()):
         h_list = org_dict.pop(accession)
         h_list.sort(key=lambda x: x.start())
-        org_dict.update({accession:h_list})
+        
+        # Here is where the code dealing explicitly with multiple hits to a single ORF goes:
+        # currently, we only use best hit. Other resolution schemes can be envisioned.
+        ORF_filetered_hlist = resolve_multiple_ORF_hits(h_list)
+        
+        print ORF_filetered_hlist[0].organism(), len(ORF_filetered_hlist), len(h_list)
+        
+        #org_dict.update({accession:h_list})
+        org_dict.update({accession:ORF_filetered_hlist})
     
     # Stage 3: Organize the homologs into neighborhoods.  We will not remove any organisms at this time, we will do this in
     # the next step where appropriate.
     # This is not completely tested, but appears to be working when tested against known cases.
     
     neighborhood_dict = {}
+    # This is for debug
+    
+    
+    
+    
     for accession in sorted(org_dict.keys()):
         hlist = org_dict.pop(accession)
-        gene_block_list, origional_list = group_homologs(hlist, max_gap)
-        neighborhood_dict.update({accession:gene_block_list})
+        gene_block_list, neighborhood_found = group_homologs(hlist, max_gap)
         
-    print sorted(neighborhood_dict.keys())
+        if neighborhood_found:
+            neighborhood_dict.update({accession:gene_block_list})
+            org_dict.update({accession:hlist})
+            
+        else: # do nothing, there are no neighborhoods that have been recovered
+            #print "accession", accession, "is missing."
+            print "Organism ", hlist[0].organism(), "is missing."
+            pass
+    #print sorted(neighborhood_dict.keys())
         
         
         #the following line needs to be removed, debugging purposes only
@@ -258,7 +258,7 @@ def return_valid_organism_homologs(hlog_list, max_gap):
         #if accession == 'NC_002696':
         #    print "gene_block_list", gene_block_list
     
-    
+    # Stage 4: 
     
     
     
@@ -277,11 +277,15 @@ def return_valid_organism_homologs(hlog_list, max_gap):
 
 # I think this version is more readable than those i have made in the past. 
 # It can take either a sorted, or unsorted list of homologs.   
-def group_homologs(list_homologs, max_gap):
+def group_homologs(lst_homologs, max_gap):
     # The gene_block_list contains a list of lists.  each list element contains genes that are no more than max_gap away.
     gene_block_list = []
     gene_block = []
     ungrouped = True
+    neighborhood_found = False
+    
+    # bypassing pass by reference in python that leads to potentially undesirable behavior downstream
+    list_homologs = [i for i in lst_homologs]
     
     # Step 1: Sort the input list by the start position of the ORF
     list_homologs.sort(key=lambda x: x.start())
@@ -299,6 +303,7 @@ def group_homologs(list_homologs, max_gap):
         stop_n = list_homologs[i+1].stop()
         
         if math.fabs(start - stop_n) < max_gap or math.fabs(stop - start_n) < max_gap:
+            neighborhood_found = True
             if ungrouped:
                 gene_block.append(list_homologs[i])
                 gene_block.append(list_homologs[i+1])
@@ -317,14 +322,7 @@ def group_homologs(list_homologs, max_gap):
     else:
         gene_block_list.append(gene_block)
         
-    # Here I return the gene block list (gene_block_list) and an in order list of genes, without grouping information.
-    # Both are useful, one for analysis, the other for saving as a file.
-    
-    # debug  
-    test = [[j for j in i] for i in gene_block_list if len(i) > 1] # this last one is only grouped homologs  
-
-    return gene_block_list, [[j for j in i] for i in gene_block_list if len(i) > 1] # this last one is only grouped homologs  
-
+    return gene_block_list, neighborhood_found
 
    
 def main():
@@ -349,6 +347,7 @@ def main():
     
     #'''
     for fname in file_list:
+        print fname
         hlog_list = filter_eval(fname, e_val)
         return_valid_organism_homologs(hlog_list, max_gap)
     #'''
